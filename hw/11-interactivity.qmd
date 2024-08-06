@@ -1,8 +1,0 @@
----
-title: "Interactivity"
-params:
-  number: 11
-  purpose: 'The purpose of this assignment is to introduce you to the concept of allowing the reader to directly interact with your data. Interactive charts are an entirely different class of data visualizations made possible by advances in computing and other languages like html and javascript.'
----
-
-Coming soon!

@@ -1,8 +1,0 @@
----
-title: "Tidy Data"
-params:
-  number: 1
-  purpose: 'The purpose of this assignment is to introduce yourself to the "tidy data" concept and to practice modifying data frames between long and wide formats in R.'
----
-
-Coming soon!
