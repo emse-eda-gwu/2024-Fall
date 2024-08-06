@@ -1,0 +1,11 @@
+---
+title: "Tidy Data"
+params:
+  class: "2-tidy-data"
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+Coming soon!
