@@ -1,0 +1,8 @@
+---
+title: "Exploring Data"
+params:
+  number: 3
+  purpose: 'The purpose of this assignment is to develop some basic strategies for exploring data sets to gain a greater understanding of the variable types as well as key relationships such as centrality, variability, and correlation'
+---
+
+Coming soon!

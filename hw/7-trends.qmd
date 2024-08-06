@@ -1,0 +1,8 @@
+---
+title: "Trends"
+params:
+  number: 7
+  purpose: 'The purpose of this assignment is to learn some of the technical details of how to create charts that highlight **trends**, which inherently involve changes in values over time.'
+---
+
+Coming soon!
