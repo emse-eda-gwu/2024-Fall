@@ -1,0 +1,11 @@
+---
+title: "Final Analysis Workshop"
+params:
+  class: "12-workshop-final-analysis"
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+Coming soon!
