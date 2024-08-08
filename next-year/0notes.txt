@@ -1,0 +1,112 @@
+Student Feedback:
+
+- Quizzes take a while to set up and get understood, so may just need a little more time to get there before starting the clock. Or change the format because it all takes a while for things to open.
+
+- When not too adjust the axis: https://twitter.com/BFriedmanDC/status/1760718180396224574?t=YcgdUqMZ1481LFninLKL_A&s=19
+
+General:
+
+- Post a summary rundown in slack after every class
+- Consider the hw + quiz grade combo for every hw (and make quizzes simpler?)
+- Change all projects to be a "topic" not necessarily a research question. You can keep the bits about what makes a good research question for now, but in the proposal stage perhaps just include a topic and a research question to make it easier - maybe they need a topic and 3 separate questions?
+- Change preflight message so it's clear where the link to REGISTER for slack is. Either that or just send invites to everyone.
+- Add truth.png on day 1
+- Add eda.png on day 1 (we're after truth, we get there iteratively)
+- Make a package for the class. All it does is load all the class data sets. {edaData}
+- DEFINITELY need to assign actual coding exercises in every weekly assignment.
+
+Mini 1:
+
+Need either a new one next year, or modify how this one is presented - don't give them the entire template. Needs to be more challenging. Everyone got 100% this time.
+
+Mini 2:
+
+- Specify that the relationships for at least 2 of your charts must involve 3 or more variables, e.g. cost, time, and country.
+- Note also the use of the {countrycode} package as a helper.
+- Specify that you must have at least two different chart types.
+
+Projects:
+
+- Everyone needs to do a better job with writing things as a story. Ask for an introduction - why should we care about your analysis? What's the general topic and what do you hope to uncover with your analyses?
+- Add a note about the possibility of doing a replication study, with the limitations that you still have to look up your own data sources and write your own code.
+- On proposal, ask for an introduction section where they motivate why the RQ is important / interesting.
+- On RQ, add a note to avoid causal language - provide specific examples.
+- Revise grading rubrics to look for effectiveness of design choices:
+
+    - chart communicates key message
+    - chart choice appropriate to show relationship / comparison
+    - design elements are clear and not confusing
+    - annotations are appropriate
+
+4 - exploring data:
+
+- Add two options at the end - one group looks at candy, another looks at another similar dataset.
+- Add a discussion of log scales. Look at example of correlation between transit cost and length from mini project 1 last year. Many students said no correlation, but it's just because it's a log correlation (these examples are in slides on polishing).
+- Good explanation of computing rank-ordered correlation: https://statistics.laerd.com/statistical-guides/spearmans-rank-order-correlation-statistical-guide.php
+
+6 - visualizing information:
+
+- Had lots of time at the end, so could add more coding examples
+- Add quiz 2 to slides - remove the break and put the quiz just before the current practice where they write code.
+- Next year bad data viz: https://twitter.com/siddharth3/status/1716798702646386751?t=ElYjZC19QDquBsVkK_kDwA&s=19
+- Swap this one in somewhere badvis: https://twitter.com/CalEndow/status/1367973471523835904
+- Consider actually including the wind graphic in here as an example, then they will have seen it before the MP2. Include it in the google slides as another example, or maybe replace the papayrus bar chart with it.
+
+7 - Amounts and proportions:
+
+- switch reading on "facets" to the next week (I moved it out of "amounts" and put in in "comparisons")
+- example to add to reading on waffles: https://policeviolencereport.org/
+
+9 - trends:
+- Log scales - use them to show doubling rate? penny doubling example? Maybe just include this in the readings - find a video on youtube about this.
+- Index chart (Financial times log chart of COVID cases - all start at days after 100 cases)
+- On animation, add new images on climate change: nyt_temp.mp4, nyt_temp.gif
+  Source: https://www.nytimes.com/article/climate-change-global-warming-faq.html
+
+10 - polish:
+
+- On color, add a slide about conventions: red (hot, bad), blue (cold), green (good)
+- introduce font ninja Chrome plugin - just like eyedropper but for fonts!
+- Add wes anderson palette: https://github.com/karthik/wesanderson
+
+11 - maps:
+
+- Use a different example from China. Maybe just use Canada to show a provincial level example.
+
+12 - workshop:
+
+Put either shiny or interactive back in here - it's a useful thing to see before the break so that everyone can see how to make their charts more interactive. I the class is short, they can again use time at the end to finalize things for their projects. Still could keep the "plan" as part of the homework assignment (or perhaps a separate deliverable for the team?). Few people came and didn't use the time well anyway, so better to keep showing new content
+
+13 - interactive & shiny:
+
+Could maybe put interactive maps back in, but no exercise, just demo it then take the break. Then do shiny after the break.
+
+15 - communicating results
+
+
+
+
+Reflections:
+- Add the template "I used to think ______, now I think ______ 🤔" in there.
+
+Quiz (in general)
+
+- Make one of the quizzes just after the exploring data lesson and make it about have one of the interview questions, maybe something about what type of chart is good for looking at the variability of a variable, or correlation?
+
+
+Quiz 3:
+
+When it says make an "improved" version of this chart, be specific - list the types of charts that improve it.
+
+Acceptable improved charts include:
+
+- Dodged bars
+- Facets
+- Bullet chart
+- Dumbell chart
+- Slope chart
+
+
+Interview:
+
+- Make a clear ordinal option for interview questions, or just remove the question about "ordinal, interval, etc.". It's just not as important. Add in another chart-type question where they look at a chart, maybe something about polishing?
