@@ -123,7 +123,7 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme: minty
     css: styles.css
     anchor-sections: true
     smooth-scroll: true
