@@ -1,8 +1,8 @@
 ---
 title: "Interactivity"
 subtitle: "EMSE 4572 / 6572: Exploratory Data Analysis"
-date: November 27, 2024
-week: 13
+date: November 13, 2024
+week: 12
 author: "John Paul Helveston"
 institute: "The George Washington University | Dept. of Engineering Management and Systems Engineering"
 output:

@@ -1,7 +1,7 @@
 ---
-title: "Final Analysis Workshop"
+title: "Interactivity"
 params:
-  class: "12-workshop-final-analysis"
+  class: "12-interactivity"
 execute:
   echo: false
   warning: false
