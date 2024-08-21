@@ -1,7 +1,6 @@
 ---
 title: "Getting Started"
 subtitle: "EMSE 4572/6572: Exploratory Data Analysis"
-date: August 30, 2023
 format: html
 toc: true
 ---
@@ -219,7 +218,10 @@ mpg %>%
 
 ## Extra practice 
 
-```{r, fig.height=5, fig.width=7}
+```{r}
+#| fig-height: 5
+#| fig-width: 7
+
 lotr %>%
   ggplot() +
   geom_col(aes(x = word_count, y = film, fill = gender)) +
@@ -232,7 +234,10 @@ lotr %>%
   theme_bw()
 ```
 
-```{r, fig.height=4, fig.width=6}
+```{r}
+#| fig-height: 4
+#| fig-width: 6
+
 mpg %>%
     mutate(manufacturer = str_to_title(manufacturer)) %>%
     group_by(manufacturer) %>%
