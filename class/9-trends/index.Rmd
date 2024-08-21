@@ -1,7 +1,7 @@
 ---
 title: "Trends"
 subtitle: "EMSE 4572 / 6572: Exploratory Data Analysis"
-date: October 25, 2023
+date: October 23, 2024
 week: 9
 author: "John Paul Helveston"
 institute: "The George Washington University | Dept. of Engineering Management and Systems Engineering"

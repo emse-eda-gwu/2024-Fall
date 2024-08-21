@@ -1,7 +1,7 @@
 ---
 title: "Getting Started"
 subtitle: "EMSE 4572/6572: Exploratory Data Analysis"
-date: August 30, 2023
+date: August 28, 2024
 week: 1
 author: "John Paul Helveston"
 institute: "The George Washington University | Dept. of Engineering Management and Systems Engineering"
@@ -362,7 +362,7 @@ plot <- ggplot(data, aes(x = x, y = Engagement, group = School, color = Highligh
 - 2016 PhD in Engineering & Public Policy at Carnegie Mellon University
 - 2015 MS in Engineering & Public Policy at Carnegie Mellon University
 - 2010 BS in Engineering Science & Mechanics at Virginia Tech
-- Website: [www.jhelvy.com](http://www.jhelvy.com/)
+- Website: [www.jhelvy.com](https://www.jhelvy.com/)
 
 ]]
 
@@ -372,16 +372,17 @@ plot <- ggplot(data, aes(x = x, y = Engagement, group = School, color = Highligh
 
 .leftcol30[.circle[
 
-<img src="images/gleaves.png" width="300">
+<img src="images/hu.jpg" width="300">
 
 ]]
 
 .rightcol70[
 
-### **Lydia Gleaves** 
+### **Pingfan Hu** 
 
 - Graduate Teaching Assistant (GTA)
 - PhD student in EMSE
+- Website: [www.pingfanhu.com](https://www.pingfanhu.com/)
 
 ]
 
@@ -391,17 +392,17 @@ plot <- ggplot(data, aes(x = x, y = Engagement, group = School, color = Highligh
 
 .leftcol30[.circle[
 
-<img src="images/buechner.jpg" width="300">
+<img src="images/bunea.png" width="300">
 
 ]]
 
 .rightcol70[
 
-### **Ben Buechner**
+### **Bogdan Bunea**
 
 - Learning Assistant (LA)
-- EMSE Sophomore & P4A / EDA alumni 
-- Check out his team's [project](https://eda.seas.gwu.edu/showcase/2022-Fall/dc-vehicle-crashes.html) from 2022
+- EMSE Junior & P4A / EDA alumni
+- Check out his team's [project](https://eda.seas.gwu.edu/showcase/2023-Fall/ukraine-war.html) from 2023
 
 ]
 
@@ -426,11 +427,11 @@ You should be able to:
 
 # Course website
 
-## `r fa('globe')` Everything you need will be on the course website:<br>https://eda.seas.gwu.edu/2023-Fall/
+## `r fa('globe')` Everything you need will be on the course website:<br>https://eda.seas.gwu.edu/2024-Fall/
 
 --
 
-## `r fa('calendar')` The [schedule](https://emse-eda-gwu.github.io/2023-Fall/schedule.html) is the best starting point
+## `r fa('calendar')` The [schedule](https://emse-eda-gwu.github.io/2024-Fall/schedule.html) is the best starting point
 
 ---
 
@@ -458,7 +459,7 @@ You should be able to:
 
 --
 
-## 1) `r fa("book")` Weekly Homework / Readings: [HW1](https://eda.seas.gwu.edu/2023-Fall/hw/1-tidy-data.html)
+## 1) `r fa("book")` Weekly Homework / Readings: [HW1](https://eda.seas.gwu.edu/2024-Fall/hw/1-tidy-data.html)
 
 --
 
