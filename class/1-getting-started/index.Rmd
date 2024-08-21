@@ -392,7 +392,7 @@ plot <- ggplot(data, aes(x = x, y = Engagement, group = School, color = Highligh
 
 .leftcol30[.circle[
 
-<img src="images/bunea.png" width="300">
+<img src="images/bunea.jpg" width="300">
 
 ]]
 
@@ -481,10 +481,10 @@ You should be able to:
 
 Item            | Due Date
 ----------------|---------------
-Proposal        | Sep 24
-Progress Report | Oct 29
-Final Report    | Dec 10
-Presentation    | Dec 12
+Proposal        | Sep 22
+Progress Report | Oct 27
+Final Report    | Dec 08
+Presentation    | Dec 11
 
 ]
 
@@ -500,7 +500,7 @@ Quizzes                        | 10 %    | 5 quizzes, lowest dropped
 Mini Project 1                 | 10 %    | Individual assignments
 Mini Project 2                 | 10 %    |
 Mini Project 3                 | 10 %    |
-Final Project: Proposal        | 6 %    | Teams of 2-3 students
+Final Project: Proposal        | 6 %    |
 Final Project: Progress Report | 6 %   |
 Final Project: Report          | 15 %   |
 Final Project: Presentation    | 6 %    |
@@ -513,7 +513,7 @@ background-color: #FFF
 # .center[Grades]
 
 <center>
-<img src="https://eda.seas.gwu.edu/2023-Fall/figs/grade-breakdown-1.png" width=90%>
+<img src="https://eda.seas.gwu.edu/2024-Fall/figs/grade-breakdown-1.png" width=90%>
 </center>
 
 ---
@@ -599,7 +599,7 @@ background-color: #FFF
 
 --
 
-## `r fa('slack')` Use [Slack](https://emse-eda-f23.slack.com/) to ask questions.
+## `r fa('slack')` Use [Slack](https://emse-eda-f24.slack.com/) to ask questions.
 
 --
 
@@ -619,15 +619,15 @@ background-color: #FFF
 
 ---
 
-# `r fa('hard-drive')` [Course Software](https://eda.seas.gwu.edu/2023-Fall/software.html)
+# `r fa('hard-drive')` [Course Software](https://eda.seas.gwu.edu/2024-Fall/software.html)
 
 --
 
-## `r fa('slack')` [Slack](https://emse-eda-f23.slack.com/): See bb for link to join;<br>install on phone and **turn notifications on**!
+## `r fa('slack')` [Slack](https://emse-eda-f24.slack.com/): See bb for link to join;<br>install on phone and **turn notifications on**!
 
 --
 
-## `r fa('r-project')` [R](https://cloud.r-project.org/) & [RStudio](https://rstudio.com/products/rstudio/download/) (Install both)
+## `r fa('r-project')` [R](https://cloud.r-project.org/) & [RStudio](https://posit.co/download/rstudio-desktop/) (Install both)
 
 --
 
@@ -641,9 +641,9 @@ class: inverse
 
 # .center[.fancy[Break]]
 
-1. If you haven't already, install everything on the [software page](https://eda.seas.gwu.edu/2023-Fall/software.html)
+1. If you haven't already, install everything on the [software page](https://eda.seas.gwu.edu/2024-Fall/software.html)
 
-2. Stand up, meet each other, (maybe form teams?...use [this sheet](https://docs.google.com/spreadsheets/d/1r1hSkC8oql3aurOLUEmYfGovqEL5FYc9puAdNw1guJk/edit?usp=sharing)) 
+2. Stand up, meet each other, (maybe form teams?...use [this sheet](https://docs.google.com/spreadsheets/d/15pn9VNtYBG3XF-1OhvdKLMoNj4hOTXCGf4U1KNx0Tco/edit?usp=sharing))
 
 ```{r, echo=FALSE}
 countdown(
@@ -910,7 +910,9 @@ Numbered list:
 
 Simple **url link** to another site:
 
-```{r, eval=FALSE}
+```{r}
+#| eval: false
+
 [Download R](http://www.r-project.org/)
 ```
 
@@ -953,7 +955,10 @@ class: center
 ## Inline code
 
 .left[
-```{r, eval=FALSE}
+
+```{r}
+#| eval: false
+
 `r insert code here`
 ```
 
@@ -980,7 +985,9 @@ insert more code here
 
 # Inline R code
 
-```{r, eval=FALSE}
+```{r}
+#| eval: false
+
 The sum of 3 and 4 is `r 3 + 4`
 ```
 
@@ -1157,7 +1164,9 @@ knitr::opts_chunk$set(
 
 2) Use the `here` package to create file paths
 
-```{r, eval=FALSE}
+```{r}
+#| eval: false
+
 path <- here::here("folder", "file.csv")
 ```
 
@@ -1226,10 +1235,13 @@ library(readxl)
 xlsxPath <- here('data', 'pv_cell_production.xlsx')
 pv_cells <- read_excel(xlsxPath, sheet = 'Cell Prod by Country', skip = 2) #<<
 ```
+
 .code70[
+
 ```{r}
 glimpse(pv_cells)
 ```
+
 ]
 
 ---
@@ -1246,17 +1258,22 @@ pv_cells <- read_excel(xlsxPath, sheet = 'Cell Prod by Country', skip = 2) %>%
   mutate(Year = as.numeric(Year)) %>% # Convert "non-years" to NA #<<
   filter(!is.na(Year)) # Drop NA rows in Year #<<
 ```
+
 .code60[
+
 ```{r}
 glimpse(pv_cells)
 ```
+
 ]
 
 ---
 
 class: inverse
 
-```{r, echo=FALSE}
+```{r}
+#| echo: false
+
 countdown(
   minutes = 10,
   warn_when = 30,
@@ -1351,7 +1368,9 @@ class: inverse
 
 Read in the `data.csv` file in the "data" folder:
 
-```{r, eval=FALSE}
+```{r}
+#| eval: false
+
 data <- read_csv(here('data', 'data.csv'))
 ```
 
@@ -1569,7 +1588,9 @@ lotr %>%
 
 class: inverse
 
-```{r, echo=FALSE}
+```{r}
+#| echo: false
+
 countdown(
     minutes = 10,
     warn_when = 30,
@@ -1584,7 +1605,9 @@ countdown(
 
 Read in the `data.csv` file in the "data" folder:
 
-```{r, eval=FALSE}
+```{r}
+#| eval: false
+
 data <- read_csv(here('data', 'data.csv'))
 ```
 
@@ -1850,7 +1873,9 @@ mpg %>%
 
 .rightcol[
 
-```{r, echo=FALSE}
+```{r}
+#| echo: false
+
 countdown(
     minutes = 15,
     warn_when = 15,
@@ -1867,7 +1892,9 @@ Open `practice.qmd`
 
 Use the `mpg` data frame and ggplot to create these charts
 
-```{r, echo=FALSE}
+```{r}
+#| echo: false
+
 mpg %>% 
   ggplot(aes(x = displ, y = hwy)) +
   geom_point(aes(color = class)) + 

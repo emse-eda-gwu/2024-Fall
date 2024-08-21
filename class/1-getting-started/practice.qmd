@@ -1,7 +1,6 @@
 ---
 title: "Getting Started"
 subtitle: "EMSE 4572/6572: Exploratory Data Analysis"
-date: August 30, 2023
 format: html
 toc: true
 ---
@@ -184,10 +183,16 @@ Remove rows that have `NA` for `air_time` and re-arrange the resulting data fram
 
 ## Extra practice 
 
-```{r, fig.height=5, fig.width=7}
+```{r}
+#| fig-height: 5
+#| fig-width: 7
+
 # Write code here
 ```
 
-```{r, fig.height=4, fig.width=6}
+```{r}
+#| fig-height: 4
+#| fig-width: 6
+
 # Write code here
 ```
