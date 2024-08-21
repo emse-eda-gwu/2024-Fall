@@ -3,15 +3,15 @@ week,date,quiz,quiz_content,theme,n_class,stub_class,name_class,description_clas
 2,2024/09/04,,,Cleaning,2,tidy-data,Tidy Data,Tidy data; reshaping data; data provenance; writing a research question,2,Cleaning Data,cleaning-data,2024/09/10,,,,,,,,
 3,2024/09/11,1,Weeks 1 - 2,Cleaning,3,cleaning-data,Cleaning Data,Joins; changing data types; dealing with messy Excel files,3,Exploring Data,exploring-data,2024/09/17,1,data-cleaning,Data Cleaning,2024/09/24,1,proposal,Proposal,2024/09/22
 4,2024/09/18,,,Exploring,4,exploring-data,Exploring Data,Data types & scales; centrality & variability; correlation,,,,,,,,,,,,
-5,2024/09/25,,,,5,workshop-proposals,Project Workshop,Team meetings to discuss proposal feedback,4,Visualizing Information,visualizing-information,2024/10/01,,,,,,,,
-6,2024/10/02,2,Week 4,Visualizing,6,visualizing-information,Visualizing Information,"Psychology of graphical perception; preattentive attributes; ugly, bad, & wrong charts; chart design best practices",5,"Factors, Amounts, & Proportions",factors-amounts-proportions,2024/10/18,2,exploring-data,Exploring Data,2024/10/15,,,,
+5,2024/09/25,2,Week 4,,5,workshop-proposals,Project Workshop,Team meetings to discuss proposal feedback,4,Visualizing Information,visualizing-information,2024/10/01,,,,,,,,
+6,2024/10/02,,,Visualizing,6,visualizing-information,Visualizing Information,"Psychology of graphical perception; preattentive attributes; ugly, bad, & wrong charts; chart design best practices",5,"Factors, Amounts, & Proportions",factors-amounts-proportions,2024/10/08,2,exploring-data,Exploring Data,2024/10/15,,,,
 7,2024/10/09,,,Visualizing,7,factors-amounts-proportions,"Factors, Amounts, & Proportions","Manipulating factors; plotting amounts with bars, dots, and lollipops; parts of whole",6,Comparisons,comparisons,2024/10/15,,,,,,,,
 8,2024/10/16,,,Visualizing,8,comparisons,Comparisons,Facets; reference lines; dumbbells; slopes; distributions,7,Trends,trends,2024/10/22,,,,,2,progress-report,Progress Report,2024/10/27
 9,2024/10/23,3,Weeks 7 - 8,Visualizing,9,trends,Trends,Line charts; heat maps; animation,8,Polishing Charts,polishing-charts,2024/10/29,,,,,,,,
 10,2024/10/30,,,Visualizing,10,polishing-charts,Polishing Charts,Colors; annotations; scales; themes; multi-panel figures,9,Maps,maps,2024/11/05,,,,,,,,
 11,2024/11/06,4,Weeks 9 - 10,Visualizing,11,maps,Maps,Maps in ggplot; mapping data to maps; projections,10,Interactivity,interactivity,2024/11/12,3,redesign,Re-design,2024/11/19,,,,
 12,2024/11/13,,,Visualizing,12,interactivity,Interactivity,Plotly; interactive tables; shiny apps,11,Project Workshop,project-workshop,2024/11/19,,,,,,,,
-13,2024/11/20,,,,13,workshop-final-analysis,In-Class Project Workshop,Full day dedicated to making progress towards final analyses,12,Story Telling,story-telling,2024/12/03,,,,,3,final-report,Final Report,2024/12/08
+13,2024/11/20,5,Weeks 6 - 12,,13,workshop-final-analysis,In-Class Project Workshop,Full day dedicated to making progress towards final analyses,12,Story Telling,story-telling,2024/12/03,,,,,3,final-report,Final Report,2024/12/08
 14,2024/11/27,,,,,,Thanksgiving - no class,,,,,,,,,,,,,
-15,2024/12/04,5,Weeks 6 - 12,Communicating,14,story-telling,Story Telling,Telling stories; slide design; giving a talk,,,,,,,,,4,presentation,Presentation,2024/12/11
+15,2024/12/04,,,Communicating,14,story-telling,Story Telling,Telling stories; slide design; giving a talk,,,,,,,,,4,presentation,Presentation,2024/12/10
 16,2024/12/11,,,Communicating,15,final-presentations,Final Presentations,In-class presentation showcase w/Q&A,,,,,,,,,,,,
