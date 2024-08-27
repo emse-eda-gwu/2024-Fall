@@ -314,11 +314,12 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#get-organized" id="toc-get-organized" class="nav-link active" data-scroll-target="#get-organized">1. Get organized</a></li>
-  <li><a href="#write-a-research-question" id="toc-write-a-research-question" class="nav-link" data-scroll-target="#write-a-research-question">2. Write a research question</a></li>
-  <li><a href="#discuss-your-data-sources" id="toc-discuss-your-data-sources" class="nav-link" data-scroll-target="#discuss-your-data-sources">3. Discuss your data sources</a></li>
-  <li><a href="#describe-anticipated-results" id="toc-describe-anticipated-results" class="nav-link" data-scroll-target="#describe-anticipated-results">4. Describe anticipated results</a></li>
-  <li><a href="#attribution" id="toc-attribution" class="nav-link" data-scroll-target="#attribution">5. Attribution</a></li>
-  <li><a href="#render-and-submit" id="toc-render-and-submit" class="nav-link" data-scroll-target="#render-and-submit">6. Render and submit</a></li>
+  <li><a href="#identify-a-topic-and-research-questions" id="toc-identify-a-topic-and-research-questions" class="nav-link" data-scroll-target="#identify-a-topic-and-research-questions">2. Identify a topic and research question(s)</a></li>
+  <li><a href="#write-an-introduction" id="toc-write-an-introduction" class="nav-link" data-scroll-target="#write-an-introduction">3. Write an introduction</a></li>
+  <li><a href="#discuss-your-data-sources" id="toc-discuss-your-data-sources" class="nav-link" data-scroll-target="#discuss-your-data-sources">4. Discuss your data sources</a></li>
+  <li><a href="#describe-anticipated-results" id="toc-describe-anticipated-results" class="nav-link" data-scroll-target="#describe-anticipated-results">5. Describe anticipated results</a></li>
+  <li><a href="#attribution" id="toc-attribution" class="nav-link" data-scroll-target="#attribution">6. Attribution</a></li>
+  <li><a href="#render-and-submit" id="toc-render-and-submit" class="nav-link" data-scroll-target="#render-and-submit">7. Render and submit</a></li>
   <li><a href="#grading-rubric" id="toc-grading-rubric" class="nav-link" data-scroll-target="#grading-rubric">Grading Rubric</a>
   <ul class="collapse">
   <li><a href="#total-points" id="toc-total-points" class="nav-link" data-scroll-target="#total-points">40 Total Points</a></li>
@@ -355,17 +356,17 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Assessment</strong>: Your submission will be assessed using the <a href="#grading-rubric">rubric</a> at the bottom of this page.</p>
 </blockquote>
 <p>Write a proposal of an exploratory data analysis that you plan to conduct for your final project. The instructors will review and grade your proposal and provide feedback upon returning from spring break. If your proposal is approved, you are done and can move on towards the next project task. In some cases, the instructors may ask you to submit a revised proposal, most likely by focusing / adjusting the proposal scope and / or research question. Below is a list of specific items your proposal should include.</p>
-<section id="get-organized" class="level1">
-<h1>1. Get organized</h1>
+<section id="get-organized" class="level2">
+<h2 class="anchored" data-anchor-id="get-organized">1. Get organized</h2>
 <p>Download and unzip <a href="../templates/project-template.zip">this template</a> for your proposal report. Open the <code>project.Rproj</code> file and write your proposal in the <code>report.qmd</code> file. The template comes with some text and code explaining how to use it - should should delete this code as it is only for explanatory purposes. Be sure to adjust the content in the YAML:</p>
 <ul>
 <li>Write your project title in the <code>title</code> field (and provide a subtitle if you wish, or delete the <code>subtitle</code> field).</li>
 <li>In the <code>author</code> field, list the names of all teammates, e.g.&nbsp;<code>author: Luke Skywalker, Leia Organa, and Han Solo</code>.</li>
 </ul>
 </section>
-<section id="write-a-research-question" class="level1">
-<h1>2. Write a research question</h1>
-<p>State a clear research question. Follow <a href="https://writingcenter.gmu.edu/guides/how-to-write-a-research-question">these guidelines</a>. Your question should be:</p>
+<section id="identify-a-topic-and-research-questions" class="level2">
+<h2 class="anchored" data-anchor-id="identify-a-topic-and-research-questions">2. Identify a topic and research question(s)</h2>
+<p>Once you have identified a topic for your project, write a clear research question that you plan to answer with your analysis. You may choose to have more than one question, or one main question with multiple sub-questions. Follow <a href="https://writingcenter.gmu.edu/guides/how-to-write-a-research-question">these guidelines</a>. Your question(s) should be:</p>
 <ul>
 <li><strong>Clear</strong>: it provides enough specifics that your audience can easily understand its purpose without needing additional explanation.</li>
 <li><strong>Focused</strong>: it is narrow enough that it can be addressed thoroughly with the data available and within the limits of the final project report.</li>
@@ -373,9 +374,43 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Complex</strong>: it is not answerable with a simple “yes” or “no,” but rather requires synthesis and analysis of data.</li>
 <li><strong>Arguable</strong>: its potential answers are open to debate rather than accepted facts.</li>
 </ul>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Be sure to avoid making <strong>causal statments</strong> in your research question, such as “how does XX affect YY?” This is a causal question, and causal questions are not appropriate for this course. Instead, we are <em>exploring</em> a topic and looking for patterns in the data. We may find that some things are related, but we cannot say that one thing <em>causes</em> another.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Alternative project ideas</strong>: While most teams choose to conduct a analysis and write a report on their findings, there are two other options for your project:</p>
+<ol type="1">
+<li><strong>Replication study</strong>: While most teams choose a topic with questions that we don’t yet have answers to, it is also very valuable to conduct replication studies of existing research. If you choose to do this, discuss the original research that you aim to replicate, and note that you still have to look up your own data sources and write your own code.</li>
+<li><strong>Dashboard project</strong>: A written analysis is the typical final project output, but in some contexts a <a href="https://shiny.posit.co/">shiny</a> dashboard can be just as valuable. If you choose to do this, discuss the purpose of the dashboard you have in mind and the data that you plan to include in it. You will still be required to write a report, but the report will motivate the dashboard and key takeaways that can be seen in the dashboard.</li>
+</ol>
+</div>
+</div>
 </section>
-<section id="discuss-your-data-sources" class="level1">
-<h1>3. Discuss your data sources</h1>
+<section id="write-an-introduction" class="level2">
+<h2 class="anchored" data-anchor-id="write-an-introduction">3. Write an introduction</h2>
+<p>Introduce your topic and clearly state your research question(s). Motivate why this topic is interesting, important, etc., and motivate the significance of your research question(s). Feel free to use examples, charts, images, etc. to help motivate your points.</p>
+</section>
+<section id="discuss-your-data-sources" class="level2">
+<h2 class="anchored" data-anchor-id="discuss-your-data-sources">4. Discuss your data sources</h2>
 <p>Discuss the data source(s) you plan to use for your analysis. Follow these guidelines:</p>
 <ul>
 <li>If you have already identified the source(s), describe them and include urls and / or references to the sources.</li>
@@ -383,8 +418,8 @@ ul.task-list li input[type="checkbox"] {
 <li>Discuss the validity of the source(s). For each data source, is the data the <em>original</em> data, or has it been pre-processed by someone else? How was the original data collected and by whom? If you do not yet have a source, discuss what concerns you have about a plausible source that might have the data.</li>
 </ul>
 </section>
-<section id="describe-anticipated-results" class="level1">
-<h1>4. Describe anticipated results</h1>
+<section id="describe-anticipated-results" class="level2">
+<h2 class="anchored" data-anchor-id="describe-anticipated-results">5. Describe anticipated results</h2>
 <ul>
 <li>Choose two variables that you expect to find in your data that are relevant to your research question.</li>
 <li>Regardless of whether those variables actually exist, describe how you would <em>expect</em> each to be distributed (e.g.&nbsp;unimodal, multimodel, tightly-group, widely-spread, etc.). For example, you might expect the price of gasoline over a particular period to be rather tightly-grouped around a mean, whereas the stock price of a particular company might vary much more widely over the same period.</li>
@@ -393,8 +428,8 @@ ul.task-list li input[type="checkbox"] {
 <li>Discuss how your expectations about the variables you chose will help inform you about your research question.</li>
 </ul>
 </section>
-<section id="attribution" class="level1">
-<h1>5. Attribution</h1>
+<section id="attribution" class="level2">
+<h2 class="anchored" data-anchor-id="attribution">6. Attribution</h2>
 <p>Include a short description of the specific contributions of each team member in your team. Here is an example:</p>
 <blockquote class="blockquote">
 <ul>
@@ -406,17 +441,17 @@ ul.task-list li input[type="checkbox"] {
 <p>If all members contributed equally, you can just put the single sentence “All members contributed equally”.</p>
 <p>Team members who do not make meaningful contributions to their projects will not receive the same grade as that of their team mates. If you are having any issues or disputes among team members, please contact Professor Helveston ASAP so we can find a resolution.</p>
 </section>
-<section id="render-and-submit" class="level1">
-<h1>6. Render and submit</h1>
+<section id="render-and-submit" class="level2">
+<h2 class="anchored" data-anchor-id="render-and-submit">7. Render and submit</h2>
 <p>Click the “Render” button to compile your <code>.qmd</code> file into a html web page. Then open the <code>report.html</code> file in a web browser and proofread your report.</p>
 <p>Does all of the formatting look correct? <strong>Make sure there are no errors in the rendered file before submitting it.</strong></p>
 <p>Once you’ve proofread your report, create a zip file of all the files in your R project folder for this assignment and submit it on the corresponding assignment submission on Blackboard.</p>
 <p><strong>Only one person from your team should submit.</strong></p>
 </section>
-<section id="grading-rubric" class="level1">
-<h1>Grading Rubric</h1>
-<section id="total-points" class="level3">
-<h3 class="anchored" data-anchor-id="total-points">40 Total Points</h3>
+<section id="grading-rubric" class="level2">
+<h2 class="anchored" data-anchor-id="grading-rubric">Grading Rubric</h2>
+<section id="total-points" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="total-points">40 Total Points</h3>
 <div class="cell" data-layout-align="center">
 <div class="cell-output-display">
 <table class="table table-striped caption-top table-sm small" data-quarto-postprocess="true">

@@ -19,7 +19,7 @@ For the final project, you will:
 - Create visualizations to effectively communicate the results of your analysis using the principles of information visualization covered in this course.
 - Document your entire analysis in a reproducible format, including a detailed curation of the data you used as well as your analysis and results.
 
-**Purpose**: The skills covered in this course are rooted in design rules and principles rather than formulas and equations. As such, the _application_ of these principles to a real data problem is one of the best ways to learn and assess mastery of these skills. I guarantee you one day you will need to apply these principles to communicate an idea to colleagues, so let's make sure you have at least one chance to practice before the [stakes are higher](https://p4a.seas.gwu.edu/2020-Fall/L11.1-data-analysis-prelude.html).
+**Purpose**: The skills covered in this course are rooted in design rules and principles rather than formulas and equations. As such, the _application_ of these principles to a real data problem is one of the best ways to learn and assess mastery of these skills. I guarantee you one day you will need to apply these principles to communicate an idea to colleagues, so let's make sure you have at least one chance to practice before the [stakes are higher](https://p4a.jhelvy.com/data-analysis).
 
 **Skills & Knowledge**: Your final project should illustrate your ability to transform raw data into insights by making the non-visible visible, showing clear trends or patterns, and / or identifying outliers or missing information. The specific skills involved in achieving this goal include all of the course [learning objectives](../syllabus.html#learning-objectives).
 
