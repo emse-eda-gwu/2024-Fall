@@ -4,7 +4,6 @@
 source(here::here("_common.R"))
 
 due <- get_schedule() %>%
-  mutate(due_assign = lead(date, 1) - 1) %>%
   filter(n_assign == params$number) %>%
   pull(due_assign) %>%
   paste0(" by 11:59pm")

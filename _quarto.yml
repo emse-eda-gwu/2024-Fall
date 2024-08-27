@@ -90,6 +90,9 @@ website:
       - text: Software
         icon: download
         href: software.qmd
+      - text: FAQ
+        icon: question-square-fill
+        href: faq.qmd
       - text: Finding Data
         icon: database-fill
         href: finding-data.qmd
