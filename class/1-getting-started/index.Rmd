@@ -65,6 +65,10 @@ class: center, inverse, middle
 
 # **Class goal**: translate _data_ into _information_
 
+<center>
+<img src="images/truth.png" width=80%>
+</center>
+
 ---
 
 class: center
@@ -335,6 +339,17 @@ plot <- ggplot(data, aes(x = x, y = Engagement, group = School, color = Highligh
 ```
 
 ]]
+
+---
+
+background-color: #fff
+class: center
+
+# Data exploration: an iterative process
+
+<center>
+<img src="images/eda.png" width=600>
+</center>
 
 ---
 
