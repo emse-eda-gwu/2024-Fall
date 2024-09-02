@@ -859,10 +859,10 @@ Follow [these guidelines](https://writingcenter.gmu.edu/guides/how-to-write-a-re
 - [Genders in the Workforce](https://eda.seas.gwu.edu/showcase/2021-Spring/gender_pay_gap.html): How has the US gender wage gap changed over time for different occupations and age groups?
 - [NFL Suspensions](https://eda.seas.gwu.edu/showcase/2021-Spring/nfl_suspensions.html): What factors contribute to the severity of disciplinary actions towards NFL players from 2002-2014?
 
-**Other good examples**: See the [Example Projects](https://eda.seas.gwu.edu/2023-Fall/project/examples.html) page
+**Other good examples**: See the [Example Projects](https://eda.seas.gwu.edu/2024-Fall/project/examples.html) page
 
 ---
 
 class: inverse, middle, center
 
-# Use [this link](https://docs.google.com/spreadsheets/d/1r1hSkC8oql3aurOLUEmYfGovqEL5FYc9puAdNw1guJk/edit?usp=sharing) to form teams
+# Use [this link](https://docs.google.com/spreadsheets/d/15pn9VNtYBG3XF-1OhvdKLMoNj4hOTXCGf4U1KNx0Tco/edit?usp=sharing) to form teams
