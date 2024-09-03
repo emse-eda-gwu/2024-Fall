@@ -866,3 +866,29 @@ Follow [these guidelines](https://writingcenter.gmu.edu/guides/how-to-write-a-re
 class: inverse, middle, center
 
 # Use [this link](https://docs.google.com/spreadsheets/d/15pn9VNtYBG3XF-1OhvdKLMoNj4hOTXCGf4U1KNx0Tco/edit?usp=sharing) to form teams
+
+---
+
+.leftcol[
+
+<br>
+<center>
+<img src="images/car-size.png" width=100%>
+</center>
+
+]
+
+.rightcol[
+
+<br>
+
+## Project idea: car bloat
+
+#### Data: Webscraped from [Car and Driver](https://www.caranddriver.com/)
+
+Summary: 
+
+- [This tweet thread](https://x.com/curious_founder/status/1830623332892299510?t=keukWxtrhC-CMEeHAwbOtg&s=19)
+- [This youtube video](https://youtu.be/C5q_l8SXar0?si=fXvDE3NQVnemcm_y)
+
+]
