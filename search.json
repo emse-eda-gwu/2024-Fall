@@ -300,412 +300,425 @@
     ]
   },
   {
-    "objectID": "project/3-final-report.html",
-    "href": "project/3-final-report.html",
-    "title": "Final Report",
+    "objectID": "project/4-presentation.html",
+    "href": "project/4-presentation.html",
+    "title": "Final Presentation",
     "section": "",
-    "text": "Due: Dec 08 by 11:59pm\nWeight: This assignment is worth 15% of your final grade.\nPurpose: purpose\nAssessment: Your submission will be assessed using the rubric at the bottom of this page.\nYour final report should be a fully reproducible html webpage. It should include text, data, code, and plots. Your report should be written in a narrative format (i.e. using coherent paragraphs rather than a series of bullet points). You may use headings where appropriate to break up your report into sections. There is no length requirement - your report should be sufficiently detailed to address the requirements listed below and sufficiently concise such that it is expressed in the fewest necessary words. It is also perfectly acceptable for large portions of your final report to be identical to sections in your progress report, albeit all results should be “polished” and publication ready. Below is a list of specific items your report should include.",
+    "text": "Due: Dec 10 by 11:59pm\nWeight: This assignment is worth 6% of your final grade.\nPurpose: purpose\nAssessment: Your submission will be assessed using the rubric at the bottom of this page.\nMake a slideshow presentation of your findings in your final report. You may do one of the following:\nWe will watch all the presentations together during the period scheduled for the exam (December 13, 2023).\nBelow is a list of specific items your presentation should include.",
     "crumbs": [
       "Final Project",
-      "Final Report"
+      "Final Presentation"
     ]
   },
   {
-    "objectID": "project/3-final-report.html#get-organized",
-    "href": "project/3-final-report.html#get-organized",
-    "title": "Final Report",
+    "objectID": "project/4-presentation.html#format",
+    "href": "project/4-presentation.html#format",
+    "title": "Final Presentation",
+    "section": "1. Format",
+    "text": "1. Format\n\nYour presentation should be no longer than 10 minutes in length (it can be shorter though).\nEach team member must present at least one slide.\nYou may use as many slides as you feel helps you communicate your ideas, but keep the 10 minute limit in mind (1-2 slides / min is a good guideline).\nYour title slide should include the project title, team member names, and the presentation date.\nAll slides should be numbered in the bottom-left or bottom-right corners.",
+    "crumbs": [
+      "Final Project",
+      "Final Presentation"
+    ]
+  },
+  {
+    "objectID": "project/4-presentation.html#recording-strategies",
+    "href": "project/4-presentation.html#recording-strategies",
+    "title": "Final Presentation",
+    "section": "2. Recording strategies",
+    "text": "2. Recording strategies\nIf you choose to record your presentation, I recommend using Zoom. Have someone share their screen showing the slides and talk over the slides while recording the call.\nAnother option is to use a screen recording program, such as Quicktime (mac only), to record a screen recording on someone talking over the slides, though this may be challenging if not all teammates can be in the same room.",
+    "crumbs": [
+      "Final Project",
+      "Final Presentation"
+    ]
+  },
+  {
+    "objectID": "project/4-presentation.html#content",
+    "href": "project/4-presentation.html#content",
+    "title": "Final Presentation",
+    "section": "3. Content",
+    "text": "3. Content\nYour slides do not need to include the detailed code used to conduct your analysis - that should be accessible from your report. Rather, the purpose of your presentation is to present the “big picture” overview of your project. You should discuss:\n\nWhat you studied and why it matters (i.e. your research question).\nWhat data you used (describe your sources)\nWhat you found (show polished charts, discuss key results).\nAny conclusions or new hypotheses you learned from your analyses.",
+    "crumbs": [
+      "Final Project",
+      "Final Presentation"
+    ]
+  },
+  {
+    "objectID": "project/4-presentation.html#publish",
+    "href": "project/4-presentation.html#publish",
+    "title": "Final Presentation",
+    "section": "4. Publish",
+    "text": "4. Publish\nIf you recorded a video, publish your video recording on the web (e.g. via Youtube, Vimeo, etc.), then send a link to the published video in a DM to Professor Helveston on slack.\nOnly one team member needs to publish the video.",
+    "crumbs": [
+      "Final Project",
+      "Final Presentation"
+    ]
+  },
+  {
+    "objectID": "project/4-presentation.html#submit",
+    "href": "project/4-presentation.html#submit",
+    "title": "Final Presentation",
+    "section": "5. Submit",
+    "text": "5. Submit\nCreate a zip file of your slides as a pdf / pptx / qmd (whatever you used to make your slides) and submit it on the corresponding assignment submission on Blackboard. Only one person from your team should submit.",
+    "crumbs": [
+      "Final Project",
+      "Final Presentation"
+    ]
+  },
+  {
+    "objectID": "project/4-presentation.html#grading-rubric",
+    "href": "project/4-presentation.html#grading-rubric",
+    "title": "Final Presentation",
+    "section": "Grading Rubric",
+    "text": "Grading Rubric\n\n45 Total Points\n\n\n\n\n\nCategory\nExcellent\nGood\nNeeds work\n\n\n\n\nOrganization & Formatting\n5\nAll formatting guidelines are followed.\n4\nMost formatting guidelines are followed.\n3 / 2\nSeveral or all formatting guidelines not followed.\n\n\nResearch Question\n5\nResearch question is clear, focused, concise, complex, and arguable.\n4\nResearch question is reasonably clear and focused, but may be too simple, too complex, or too verbose.\n3 / 2\nResearch question is unclear and lacks focus; question is far too simple or overly complex.\n\n\nData Sources\n5\nData sources are clearly described; validity of and concerns about data are discussed.\n4\nSome data sources are not clearly described or are missing; validity of and concerns about data are minimally discussed.\n3 / 2\nData sources are poorly described or missing; description of validity of and concerns about data are poor or missing.\n\n\nSlide Design\n15 / 14\nSlides are well-designed and well-organized to effectively communicate a coherent story addressing research question.\n13 / 12\nSlides are largely well-designed and well-organized, but some include distracting or confusing elements; story is not fully coherent.\n11 / 10 / 9\nSlides are poorly-designed and organized; frequent use of bullets and lots of text; story is poorly developed and / or does not address research question.\n\n\nCommunication\n15 / 14\nEngaging speaking; all team members participate; research question clearly addressed.\n13 / 12\nSpeaking is somewhat engaging; all team members participate; research question clearly addressed.\n11 / 10 / 9\nSpeaking is not engaging; not all team members participate; research question poorly addressed.",
+    "crumbs": [
+      "Final Project",
+      "Final Presentation"
+    ]
+  },
+  {
+    "objectID": "project/2-progress-report.html",
+    "href": "project/2-progress-report.html",
+    "title": "Progress Report",
+    "section": "",
+    "text": "Due: Oct 27 by 11:59pm\nWeight: This assignment is worth 6% of your final grade.\nPurpose: purpose\nAssessment: Your submission will be assessed using the rubric at the bottom of this page.\nWrite a report summarizing progress you have made towards your project thus far, including summary statistics of your data and preliminary charts. You should have already identified data source(s) for your project and begun exploring the data. Your report should be written in a narrative format (i.e. using coherent paragraphs rather than a series of bullet points). You may use headings where appropriate to break up your report into sections. Below is a list of specific items your progress report should include.",
+    "crumbs": [
+      "Final Project",
+      "Progress Report"
+    ]
+  },
+  {
+    "objectID": "project/2-progress-report.html#get-organized",
+    "href": "project/2-progress-report.html#get-organized",
+    "title": "Progress Report",
     "section": "1. Get organized",
-    "text": "1. Get organized\n\nDownload and unzip this template for your proposal report. Open the project.Rproj file and write your progress report in the report.qmd file. The template comes with some text and code explaining how to use it - you should delete the template code and text as it is only for explanatory purposes. Be sure to adjust the content in the YAML:\n\nWrite your project title in the title field (and provide a subtitle if you wish, or delete the subtitle field).\nIn the author field, list the names of all teammates, e.g. author: Luke Skywalker, Leia Organa, and Han Solo.\n\nPut the data you are working with for your project in the appropriate folders. Even if you are reading in data directly from a website (e.g. data &lt;- read_csv(\"www.somewhere.com/data.csv)), be sure to download a local copy of the data and put it in the appropriate data folder.\nAt the bottom of your report, add an Appendix section that includes data dictionaries for the key data sets used in your analysis as well as a copy of all of the code used in your report, which can be automatically generated with a single chunk like this:\n\n```{r ref.label=knitr::all_labels()}\n#| echo: true\n#| eval: false\n```",
+    "text": "1. Get organized\nDownload and unzip this template for your proposal report. Open the project.Rproj file and write your progress report in the report.qmd file. The template comes with some text and code explaining how to use it - should should delete this code as it is only for explanatory purposes. Be sure to adjust the content in the YAML:\n\nWrite your project title in the title field (and provide a subtitle if you wish, or delete the subtitle field).\nIn the author field, list the names of all teammates, e.g. author: Luke Skywalker, Leia Organa, and Han Solo.\n\n\nYou should also put the data you are working with for your project in the appropriate folders.",
     "crumbs": [
       "Final Project",
-      "Final Report"
+      "Progress Report"
     ]
   },
   {
-    "objectID": "project/3-final-report.html#introduction",
-    "href": "project/3-final-report.html#introduction",
-    "title": "Final Report",
-    "section": "2. Introduction",
-    "text": "2. Introduction\nWrite an introduction section to describe the topic of your project to a general audience. Address a motivation for why the research question(s) you address in your project are interesting or important (why should the reader care about this?), and summarize key findings from your analyses.",
+    "objectID": "project/2-progress-report.html#update-your-research-questions",
+    "href": "project/2-progress-report.html#update-your-research-questions",
+    "title": "Progress Report",
+    "section": "2. Update your research question(s)",
+    "text": "2. Update your research question(s)\nBased on your proposal and the feedback you received, state your topic and revise your research question(s). Again, follow these guidelines.",
     "crumbs": [
       "Final Project",
-      "Final Report"
+      "Progress Report"
     ]
   },
   {
-    "objectID": "project/3-final-report.html#state-your-research-questions",
-    "href": "project/3-final-report.html#state-your-research-questions",
-    "title": "Final Report",
-    "section": "3. State your research question(s)",
-    "text": "3. State your research question(s)\nClearly state your research question(s). You may want to write one more general question and then list several sub-questions that address more specific points. You should follow these guidelines.",
+    "objectID": "project/2-progress-report.html#write-a-revised-introduction",
+    "href": "project/2-progress-report.html#write-a-revised-introduction",
+    "title": "Progress Report",
+    "section": "3. Write a revised introduction",
+    "text": "3. Write a revised introduction\nIntroduce your topic and clearly state your revised research question(s). Motivate why this topic is interesting, important, etc., and motivate the significance of your research question(s). Feel free to use examples, charts, images, etc. to help motivate your points.",
     "crumbs": [
       "Final Project",
-      "Final Report"
+      "Progress Report"
     ]
   },
   {
-    "objectID": "project/3-final-report.html#discuss-your-data-sources",
-    "href": "project/3-final-report.html#discuss-your-data-sources",
-    "title": "Final Report",
+    "objectID": "project/2-progress-report.html#discuss-your-data-sources",
+    "href": "project/2-progress-report.html#discuss-your-data-sources",
+    "title": "Progress Report",
     "section": "4. Discuss your data sources",
-    "text": "4. Discuss your data sources\nDiscuss the data source(s) you are using for your analysis. For each data source:\n\nDescribe it and include urls or references to the original sources as well as links to any pre-processed or formatted data you are using. These are not always the same. For example, in the Mini Project 1 assignment, the original source was the Transit Costs Project whereas the data file used was posted on this GitHub repo.\nDiscuss details about how/when/where/why the data were collected. Do not make statements about whether you feel the data is “valid” but rather describe as much detail as you can about the data and let the readers make that assessment for themselves. Be sure to include:\n\nIs the data you are using from the original source, or has it been pre-processed?\nHow was the original data collected and by whom?\nAre there perhaps any missing data that might not have been observed?\nAre there any potential biases in the data?\n\nFinally, provide a data dictionary for each data file you are using in an appendix at the end of your report. The dictionary should contain a table of each variable name along with a brief description of the variable.",
+    "text": "4. Discuss your data sources\nDiscuss the data source(s) you are using for your analysis. For each data source:\n\nDescribe it and include urls or references to the original sources as well as links to any pre-processed or formatted data you are using. These are not always the same. For example, for Mini Project 2, the original source was the Transit Costs Project whereas the data file used was posted on this GitHub repo.\nDiscuss the validity of your data:\n\nIs the data you are using from the original source, or has it been pre-processed?\nHow was the original data collected and by whom?\nAre there perhaps any missing data that might not have been observed?\nCould the data be biased in some way?\n\nFinally, provide a data dictionary for each data file you are using in an appendix at the end of your report. The dictionary should contain a table of each variable name along with a brief description of the variable.",
     "crumbs": [
       "Final Project",
-      "Final Report"
+      "Progress Report"
     ]
   },
   {
-    "objectID": "project/3-final-report.html#describe-your-results-with-text-and-charts",
-    "href": "project/3-final-report.html#describe-your-results-with-text-and-charts",
-    "title": "Final Report",
-    "section": "5. Describe your results with text and charts",
-    "text": "5. Describe your results with text and charts\n\nYour analysis must include at least three polished charts / animations, though you can of course include more. Alternatively, you can build an interactive shiny app with at least two dynamic charts. If you build a shiny app, include a link to your app and screenshots of key charts from your app in your final report.\nDisplay polished charts that either support or oppose your research question(s) or illustrate what else you might need to address your research question(s). It’s possible that your data / analyses only lead to another, more detailed question that you’re unable to fully address with the data you have - that’s okay! But we can still learn something along the way.\nYour charts should be “polished” with appropriate labels / annotations and follow the design principles we have covered in class.\nThe chart types used should highlight the main point(s) you want to make or clearly show the relationship you want to emphasize. That is, make sure to use chart types that effectively communicate key insights.\nAround your charts, write narrative text explaining what the chart shows and its significance towards addressing your research question(s). This should read as a continuous story rather than as a reply to each of the requirements described here.",
+    "objectID": "project/2-progress-report.html#evaluate-your-proposal-expectations",
+    "href": "project/2-progress-report.html#evaluate-your-proposal-expectations",
+    "title": "Progress Report",
+    "section": "5. Evaluate your proposal expectations",
+    "text": "5. Evaluate your proposal expectations\n\nDo you find support for your original proposal expectation about how one variable might be distributed? Show it by looking at summaries of the variable. If that variable doesn’t exist in your data, discuss another key variable instead and how it is distributed.\nDo you find support for the expected relationships you wrote about in your proposal? If those variables don’t exist in your data, discuss one key relationship that you have identified between two or more variables.",
     "crumbs": [
       "Final Project",
-      "Final Report"
+      "Progress Report"
     ]
   },
   {
-    "objectID": "project/3-final-report.html#conclusions",
-    "href": "project/3-final-report.html#conclusions",
-    "title": "Final Report",
-    "section": "6. Conclusions",
-    "text": "6. Conclusions\nSummarize in a paragraph or two your main findings from your analysis. What have we learned, and what else could we do next to go further on this topic? Are there other data sources that would really help extend your analyses?",
+    "objectID": "project/2-progress-report.html#include-at-least-two-preliminary-charts",
+    "href": "project/2-progress-report.html#include-at-least-two-preliminary-charts",
+    "title": "Progress Report",
+    "section": "6. Include at least two preliminary charts",
+    "text": "6. Include at least two preliminary charts\n\nYour charts should either support or oppose your research question(s), or they should illustrate what else you might need to address your research question.\nThe preliminary charts must be different in nature. For example, it would not be appropriate to make two bar charts that are otherwise the same except for having a different y axis.\nYou may choose whatever chart types you wish, but your choices should highlight the point you want to make or should clearly show the relationship you want to emphasize. Consider these resources when choosing your charts.\nYour charts cannot be simple counts summarizing just one variable in your data. You should specify what relationship you are looking for in your charts and whether or not you see evidence of that relationship.\nYour charts should follow the design principles we have covered in class. They do not have to be fully “polished” yet, but at a minimum they should be accurate (i.e. not misleading) and they should not include distracting non-data ink.",
     "crumbs": [
       "Final Project",
-      "Final Report"
+      "Progress Report"
     ]
   },
   {
-    "objectID": "project/3-final-report.html#attribution",
-    "href": "project/3-final-report.html#attribution",
-    "title": "Final Report",
+    "objectID": "project/2-progress-report.html#attribution",
+    "href": "project/2-progress-report.html#attribution",
+    "title": "Progress Report",
     "section": "7. Attribution",
-    "text": "7. Attribution\nInclude a short description of the specific contributions of each team member in your team. If all members contributed equally, you can just put the single sentence “All members contributed equally”. Team members who do not make meaningful contributions to their projects will not receive the same grade as that of their team mates.",
+    "text": "7. Attribution\nInclude a short description of the specific contributions of each team member in your team. If all members contributed equally, you can just put the single sentence “All members contributed equally”.\nTeam members who do not make meaningful contributions to their projects will not receive the same grade as that of their team mates. If you are having any issues or disputes among team members, please contact Professor Helveston ASAP so we can find a resolution.",
     "crumbs": [
       "Final Project",
-      "Final Report"
+      "Progress Report"
     ]
   },
   {
-    "objectID": "project/3-final-report.html#render-and-submit",
-    "href": "project/3-final-report.html#render-and-submit",
-    "title": "Final Report",
+    "objectID": "project/2-progress-report.html#render-and-submit",
+    "href": "project/2-progress-report.html#render-and-submit",
+    "title": "Progress Report",
     "section": "8. Render and submit",
     "text": "8. Render and submit\nClick the “Render” button to compile your .qmd file into a html web page. Then open the report.html file in a web browser and proofread your report.\nDoes all of the formatting look correct? Make sure there are no errors in the rendered file before submitting it.\nOnce you’ve proofread your report, create a zip file of all the files in your R project folder for this assignment and submit it on the corresponding assignment submission on Blackboard.\nOnly one person from your team should submit.",
     "crumbs": [
       "Final Project",
-      "Final Report"
+      "Progress Report"
     ]
   },
   {
-    "objectID": "project/3-final-report.html#grading-rubric",
-    "href": "project/3-final-report.html#grading-rubric",
-    "title": "Final Report",
+    "objectID": "project/2-progress-report.html#grading-rubric",
+    "href": "project/2-progress-report.html#grading-rubric",
+    "title": "Progress Report",
     "section": "Grading Rubric",
-    "text": "Grading Rubric\n\n70 Total Points\n\n\n\n\n\nCategory\nExcellent\nGood\nNeeds work\n\n\n\n\nOrganization & Formatting\n5\nAll formatting guidelines are followed; YAML is correct with all team members listed.\n4\nMost formatting guidelines are followed; YAML is correct with all team members listed.\n3 / 2\nSeveral or all formatting guidelines not followed; YAML contains elements that aren't updated from the template.\n\n\nResearch Question\n5\nResearch question is clear, focused, concise, complex, and arguable.\n4\nResearch question is reasonably clear and focused, but may be too simple, too complex, or too verbose.\n3 / 2\nResearch question is unclear and lacks focus; question is far too simple or overly complex.\n\n\nData Sources\n5\nData sources are clearly described with valid urls or citations used; validity of and concerns about data are discussed; data dictionaries included in appendix.\n4\nSome data sources are not clearly described or urls / citations are missnig; validity of and concerns about data are minimally discussed; data dictionaries are in appendix.\n3 / 2\nData sources are poorly described or missing; description of validity of and concerns about data are poor or missing; no data dictionaries provided.\n\n\nOverall Analysis\n18 - 20\nAnalysis and exploration of data conducted to address research questions; narrative text effectively used to describe analysis and results; overall analysis tells a coherent story addressing research question.\n15 - 17\nAnalysis and exploration of data conducted mostly addresses research questions; text used to describe analysis and results, but writing quality is poor or not in a narrative format; overall analysis not fully coherent in addressing research question.\n10 - 14\nAnalysis and exploration of data conducted does not address research questions; text poorly used or missing to describe analysis and results; overall analysis not coherent in addressing research question.\n\n\nVisualizations\n27 - 30\nCharts expertly demonstrate best practices of visual design; charts are functionally accurate and address research questions; appropriate chart types used for conveying key messages; annotations are appropriate; minimum of 3 charts met.\n22 - 26\nCharts generally demonstrate best practices of visual design; some elements are distracting or confusing; some annotations missing, incomplete, or inaccurate; minimum of 3 charts not met.\n15 - 21\nCharts generally lack best practices of visual design; multiple confusing or unclear / distracting elements; unrelated to research question; minimum of 3 charts notmet.\n\n\nTechnical Things\n5\nAll code runs without errors; all files included in the submitted .zip file; report is published on RPubs.\n4\nCode has only one or two error, otherwise runs; all files included in the submitted .zip file; or report is not published on RPubs\n3 / 2\nCode has multiple errors; submitted .zip file is missing components necessary to reproduce analysis; report not published on RPubs.",
+    "text": "Grading Rubric\n\n60 Total Points\n\n\n\n\n\nCategory\nExcellent\nGood\nNeeds work\n\n\n\n\nOrganization & Formatting\n5\nAll formatting guidelines are followed; YAML is correct with all team members listed.\n4\nMost formatting guidelines are followed; YAML is correct with all team members listed.\n3\nSeveral or all formatting guidelines not followed; YAML contains elements that aren't updated from the template.\n\n\nResearch Question\n10 / 9\nResearch question is clear, focused, concise, complex, and arguable.\n8 / 7 / 6\nResearch question is reasonably clear and focused, but may be too simple, too complex, or too verbose.\n5 / 4 / 3\nResearch question is unclear and lacks focus; question is far too simple or overly complex.\n\n\nData Sources\n10 / 9\nData sources or plausible data sources are clearly described; validity of and concerns about data are discussed.\n8 / 7 / 6\nIdentified data sources or plausible data sources are not clearly described; validity of and concerns about data are minimally discussed.\n5 / 4 / 3\nData sources are poorly described or missing; description of validity of and concerns about data are poor or missing.\n\n\nEvaluation of Expectations\n10 / 9\nClear discussion of whether or not proposal expectations about variables and relationships were met; evidence from data provided to support discussion.\n8 / 7 / 6\nDescription of only one expected variable, relationship, or chart, or minimal description of two; minimal evidence from data provided to support discussion.\n5 / 4 / 3\nPoor or missing description of variables, relationships, or charts; poor or missing evidence to support discussion.\n\n\nData Visualization 1\n10 / 9\nChart clearly communicates key message; Chart is an appropriate choice for showing the relationship / comparison; Design elements are clear and not confusing / misleading; Chart is functionally accurate and generally easy to understand; Annotations (if used) are appropriate; Chart addresses the research question posed.\n8 / 7 / 6\nChart communicates key message; Chart is generally appropriate for showing the relationship / comparison; Some design elements are distracting or confusing / misleading; Chart is functionally accurate; Annotations (if used) are appropriate; Chart mildly addresses research question.\n5 / 4 / 3\nKey message of chart is unclear; Chart is inappropriate for showing the relationship / comparison; Design elements are distracting or confusing / misleading; Chart is functionally inaccurate; Annotations are not used; Chart is unrelated to research question.\n\n\nData Visualization 2\n10 / 9\nChart clearly communicates key message; Chart is an appropriate choice for showing the relationship / comparison; Design elements are clear and not confusing / misleading; Chart is functionally accurate and generally easy to understand; Annotations (if used) are appropriate; Chart addresses the research question posed.\n8 / 7 / 6\nChart communicates key message; Chart is generally appropriate for showing the relationship / comparison; Some design elements are distracting or confusing / misleading; Chart is functionally accurate; Annotations (if used) are appropriate; Chart mildly addresses research question.\n5 / 4 / 3\nKey message of chart is unclear; Chart is inappropriate for showing the relationship / comparison; Design elements are distracting or confusing / misleading; Chart is functionally inaccurate; Annotations are not used; Chart is unrelated to research question.\n\n\nTechnical things\n5\nAll code runs without errors; all files included in the submitted .zip file.\n4\nCode has only one or two error, otherwise runs; all files included in the submitted .zip file.\n3\nCode has multiple errors; submitted .zip file is missing components necessary to reproduce analysis.",
     "crumbs": [
       "Final Project",
-      "Final Report"
+      "Progress Report"
     ]
   },
   {
-    "objectID": "project/1-proposal.html",
-    "href": "project/1-proposal.html",
-    "title": "Project Proposal",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "EMSE 4572 / 6572Exploratory Data AnalysisFall 2024",
     "section": "",
-    "text": "Due: Sep 22 by 11:59pm\nWeight: This assignment is worth 6% of your final grade.\nPurpose: The purpose of the proposal is to clarify the specific research topic of interest for your team and to ensure that you are headed in a promising direction before spending hours analyzing data for your project.\nAssessment: Your submission will be assessed using the rubric at the bottom of this page.\nWrite a proposal of an exploratory data analysis that you plan to conduct for your final project. The instructors will review and grade your proposal and provide feedback upon returning from spring break. If your proposal is approved, you are done and can move on towards the next project task. In some cases, the instructors may ask you to submit a revised proposal, most likely by focusing / adjusting the proposal scope and / or research question. Below is a list of specific items your proposal should include.",
+    "text": "EMSE 4572 / 6572Exploratory Data AnalysisFall 2024\n\n\n\n\n\nDepartment: Engineering Management and Systems Engineering @ GWU\nCredits: 3\nDescription:\nThis course provides students with a foundation in exploring data using the R programming language. Students will learn how to source, manage, transform, and explore a wide variety of data types. Students will also master the fundamental concepts for visualizing and communicating information contained in raw data, including the human psychology of visual information processing. All analyses will be conducted to support reproducibility from raw data to results using Quarto (which is built on the ideas of RMarkdown). Teaching will involve interactive lectures with plenty of class time spent working on examples and coding. Students will be assessed through in-class quizzes, reading reflections, and exploratory projects. Throughout the semester, students will work on a research project of their own design to demonstrate mastery of the course’s topics. At the end of the semester, students will submit a final, reproducible report of their project along with a 10-minute video presentation of their findings.\nLearning Objectives:\nHaving successfully completed this course, students will be able to:\n\nWrite a clear, focused, concise, complex, and arguable research question.\nImport, manipulate, clean, visualize, and export data in R.\nWrangle data from its original format into a fit-for-purpose format.\nConduct a systematic exploratory data analysis (EDA) of different types of data.\nApply fundamental principles of visualizing information for exploratory analysis and communication.\nGet data off the web and expose data, code, results on the web.\nGenerate fully reproducible reports that contain code, equations, visualizations, and narrative text.\n\nPrerequisites:\nStudents should have taken EMSE 4571/6571: Intro to Programming for Analytics or have experience working with data in at least one programming language. If you’re not sure whether you have the necessary prerequisite skills, you can try and get up to speed by completing this optional course primer assignment before class starts. Once class starts, it may be difficult to keep up without this background, and it may be more beneficial to wait and take this course next year after taking Programming for Analytics.",
     "crumbs": [
-      "Final Project",
-      "Proposal"
+      "Home"
     ]
   },
   {
-    "objectID": "project/1-proposal.html#get-organized",
-    "href": "project/1-proposal.html#get-organized",
-    "title": "Project Proposal",
-    "section": "1. Get organized",
-    "text": "1. Get organized\nDownload and unzip this template for your proposal report. Open the project.Rproj file and write your proposal in the report.qmd file. The template comes with some text and code explaining how to use it - should should delete this code as it is only for explanatory purposes. Be sure to adjust the content in the YAML:\n\nWrite your project title in the title field (and provide a subtitle if you wish, or delete the subtitle field).\nIn the author field, list the names of all teammates, e.g. author: Luke Skywalker, Leia Organa, and Han Solo.",
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "All assignments are due by 11:59pm on the due date.\n\n\n\n\n\nWeek\nDate\nQuiz\nClass\nWeekly HW\nMini Projects\nFinal Projects\n\n\n\n\n1\nAug 28\n\nGetting Started\nClass orientation; workflow; Quarto; importing data; data wrangling & plotting refresher\nHW 1\nDue: Sep 02\n\n\n\n\n2\nSep 04\n\nTidy Data\nTidy data; reshaping data; data provenance; writing a research question\nHW 2\nDue: Sep 09\n\n\n\n\n3\nSep 11\nQuiz 1:\nWeeks 1 - 2\nCleaning Data\nJoins; changing data types; dealing with messy Excel files\nHW 3\nDue: Sep 16\nData Cleaning\nDue: Sep 24\nProposal\nDue: Sep 22\n\n\n4\nSep 18\n\nExploring Data\nData types & scales; centrality & variability; correlation\n\n\n\n\n\n5\nSep 25\nQuiz 2:\nWeek 4\nProject Workshop\nTeam meetings to discuss proposal feedback\nHW 4\nDue: Sep 30\n\n\n\n\n6\nOct 02\n\nVisualizing Information\nPsychology of graphical perception; preattentive attributes; ugly, bad, & wrong charts; chart design best practices\nHW 5\nDue: Oct 07\nExploring Data\nDue: Oct 15\n\n\n\n7\nOct 09\n\nFactors, Amounts, & Proportions\nManipulating factors; plotting amounts with bars, dots, and lollipops; parts of whole\nHW 6\nDue: Oct 14\n\n\n\n\n8\nOct 16\n\nComparisons\nFacets; reference lines; dumbbells; slopes; distributions\nHW 7\nDue: Oct 21\n\nProgress Report\nDue: Oct 27\n\n\n9\nOct 23\nQuiz 3:\nWeeks 7 - 8\nTrends\nLine charts; heat maps; animation\nHW 8\nDue: Oct 28\n\n\n\n\n10\nOct 30\n\nPolishing Charts\nColors; annotations; scales; themes; multi-panel figures\nHW 9\nDue: Nov 04\n\n\n\n\n11\nNov 06\nQuiz 4:\nWeeks 9 - 10\nMaps\nMaps in ggplot; mapping data to maps; projections\nHW 10\nDue: Nov 11\nRe-design\nDue: Nov 19\n\n\n\n12\nNov 13\n\nInteractivity\nPlotly; interactive tables; shiny apps\nHW 11\nDue: Nov 18\n\n\n\n\n13\nNov 20\nQuiz 5:\nWeeks 6 - 12\nIn-Class Project Workshop\nFull day dedicated to making progress towards final analyses\nHW 12\nDue: Dec 02\n\nFinal Report\nDue: Dec 08\n\n\n14\nNov 27\n\nThanksgiving - no class\n\n\n\n\n\n\n15\nDec 04\n\nStory Telling\nTelling stories; slide design; giving a talk\n\n\nPresentation\nDue: Dec 10\n\n\n16\nDec 11\n\nFinal Presentations\nIn-class presentation showcase w/Q&A\n\n\n\n\n\n\n\n\n\n\n\nFinal Interviews will be held virtually December 11-12 (sign up here)",
     "crumbs": [
-      "Final Project",
-      "Proposal"
+      "Schedule"
     ]
   },
   {
-    "objectID": "project/1-proposal.html#identify-a-topic-and-research-questions",
-    "href": "project/1-proposal.html#identify-a-topic-and-research-questions",
-    "title": "Project Proposal",
-    "section": "2. Identify a topic and research question(s)",
-    "text": "2. Identify a topic and research question(s)\nOnce you have identified a topic for your project, write a clear research question that you plan to answer with your analysis. You may choose to have more than one question, or one main question with multiple sub-questions. Follow these guidelines. Your question(s) should be:\n\nClear: it provides enough specifics that your audience can easily understand its purpose without needing additional explanation.\nFocused: it is narrow enough that it can be addressed thoroughly with the data available and within the limits of the final project report.\nConcise: it is expressed in the fewest possible words.\nComplex: it is not answerable with a simple “yes” or “no,” but rather requires synthesis and analysis of data.\nArguable: its potential answers are open to debate rather than accepted facts.\n\n\n\n\n\n\n\nImportant\n\n\n\nBe sure to avoid making causal statments in your research question, such as “how does XX affect YY?” This is a causal question, and causal questions are not appropriate for this course. Instead, we are exploring a topic and looking for patterns in the data. We may find that some things are related, but we cannot say that one thing causes another.\n\n\n\n\n\n\n\n\nNote\n\n\n\nAlternative project ideas: While most teams choose to conduct a analysis and write a report on their findings, there are two other options for your project:\n\nReplication study: While most teams choose a topic with questions that we don’t yet have answers to, it is also very valuable to conduct replication studies of existing research. If you choose to do this, discuss the original research that you aim to replicate, and note that you still have to look up your own data sources and write your own code.\nDashboard project: A written analysis is the typical final project output, but in some contexts a shiny dashboard can be just as valuable. If you choose to do this, discuss the purpose of the dashboard you have in mind and the data that you plan to include in it. You will still be required to write a report, but the report will motivate the dashboard and key takeaways that can be seen in the dashboard.",
-    "crumbs": [
-      "Final Project",
-      "Proposal"
-    ]
+    "objectID": "hw/1-tidy-data.html",
+    "href": "hw/1-tidy-data.html",
+    "title": "Tidy Data",
+    "section": "",
+    "text": "Due: Sep 02 by 11:59pm\nWeight: This assignment is worth 1% of your final grade.\nPurpose: The purpose of this assignment is to introduce yourself to the “tidy data” concept and to practice modifying data frames between long and wide formats in R.\nAssessment: This assignment is graded using a check system:\n\n✔+ (110%): Responses shows phenomenal thought and engagement with the course content. I will not assign these often.\n✔ (100%): Responses are thoughtful, well-written, and show engagement with the course content. This is the expected level of performance.\n✔− (50%): Responses are hastily composed, too short, and/or only cursorily engages with the course content. This grade signals that you need to improve next time. I will hopefully not assign these often.\n\nNotice that this is essentially a pass/fail system. I’m not grading your writing ability and I’m not counting the number of words you write - I’m looking for thoughtful engagement. One or two sentences is not enough. Write at least a paragraph and show me that you did the readings assigned.\n\n\n1. Software\nIf you haven’t yet, go to the Course Software page and install all the software we’ll need for this course. You’ll need these tools for this assignment.\n\n\n2. Get Organized\nFollow these instructions:\n\nDownload and edit this template.\nUnzip the template folder. Make sure you actually unzip it! (in Windows, right-click it and use “extract all”)\nOpen the .Rproj file to open RStudio.\nInside RStudio, open the hw1.qmd file, take notes, and write some example code as you go through the readings / exercises below.\n\n\n\n3. Readings & Exercises\n\nGetting Familiar with the Course: Follow Snoop’s advice and read the entire Course Syllabus (actually read the whole thing). Then review the schedule and make sure to note important upcoming deadlines.\nGetting Familiar with Tidy Data: Read this tidyverse article explaining the concept of tidy data. In your hw1.qmd, copy some of the examples into a code chunk and run them to see the results of converting data between long and wide formats.\nUse AI to Practice Reshaping Messy Data: Open ChatGPT, Claude, or whatever AI tools you prefer and start a chat to practice the concept of reshaping data into long and wide formats. Ask the AI questions about what it gives you to make sure you understand the concept. Are you certain the AI is giving you good code? Play around with it and see if chatting with the AI is helpful. Include the link to your chat in your submission if you have one. Here is an example prompt (feel free to experiment with other prompts):\n\n\nI'm practicing the concept of tidy data in R. Provide me an example dataset in wide format and then show me R code for how to convert it to long format. Afterwards, do the opposite - show me an example of a dataset in long format and show me R code for how to convert it to wide format.  In each case, explain your reasoning first, then show me the code.\n\n\nOptional\n\nChapter 6 in Hadley Wickham’s R4DS book covers more detail on the concept of tidy data with even more examples. It’s worth reading through for a more comprehensive understanding.\nChapter 3 in the YARDBook also covers tidy data.\nChapter 29 in Hadley Wickham’s R4DS book is a great introduction to Quarto. I highly recommend taking a look through it to get a better understanding of Quarto (we’ll be using it the whole semester!).\n\n\n\n\n4. Reflect\nReflect on what you’ve learned while going through these readings and exercises. Is there anything that jumped out at you? Anything you found particularly interesting or confusing? Write at least a paragraph in your hw1.qmd file, and include at least one question. The teaching team will review the questions we get and will try to answer them either in Slack or in class.\nIf you’re unsure where to start with a reflection, try filling out this template:\n\n“I used to think ______, now I think ______ 🤔”\n\n\n\n5. Submit\nTo submit your assignment, follow these instructions:\n\nRender your .qmd file by either clicking the “Render” button in RStudio or running the command quarto::quarto_render(\"hw1.qmd\") command.\nOpen the rendered html file and make sure it looks good! Is all the formatting as you expected?\nCreate a zip file of all the files in your R project folder for this assignment and submit it on the corresponding assignment submission on Blackboard."
   },
   {
-    "objectID": "project/1-proposal.html#write-an-introduction",
-    "href": "project/1-proposal.html#write-an-introduction",
-    "title": "Project Proposal",
-    "section": "3. Write an introduction",
-    "text": "3. Write an introduction\nIntroduce your topic and clearly state your research question(s). Motivate why this topic is interesting, important, etc., and motivate the significance of your research question(s). Feel free to use examples, charts, images, etc. to help motivate your points.",
-    "crumbs": [
-      "Final Project",
-      "Proposal"
-    ]
+    "objectID": "class/9-trends.html",
+    "href": "class/9-trends.html",
+    "title": "Trends",
+    "section": "",
+    "text": "Coming soon!"
   },
   {
-    "objectID": "project/1-proposal.html#discuss-your-data-sources",
-    "href": "project/1-proposal.html#discuss-your-data-sources",
-    "title": "Project Proposal",
-    "section": "4. Discuss your data sources",
-    "text": "4. Discuss your data sources\nDiscuss the data source(s) you plan to use for your analysis. Follow these guidelines:\n\nIf you have already identified the source(s), describe them and include urls and / or references to the sources.\nIf you have not identified a source yet, describe the data you hope to use, and give at least one plausible source that may have the data (regardless of whether the source makes it available or not).\nDiscuss the validity of the source(s). For each data source, is the data the original data, or has it been pre-processed by someone else? How was the original data collected and by whom? If you do not yet have a source, discuss what concerns you have about a plausible source that might have the data.",
-    "crumbs": [
-      "Final Project",
-      "Proposal"
-    ]
+    "objectID": "class/7-factors-amounts-proportions.html",
+    "href": "class/7-factors-amounts-proportions.html",
+    "title": "Factors, Amounts, & Proportions",
+    "section": "",
+    "text": "Coming soon!"
   },
   {
-    "objectID": "project/1-proposal.html#describe-anticipated-results",
-    "href": "project/1-proposal.html#describe-anticipated-results",
-    "title": "Project Proposal",
-    "section": "5. Describe anticipated results",
-    "text": "5. Describe anticipated results\n\nChoose two variables that you expect to find in your data that are relevant to your research question.\nRegardless of whether those variables actually exist, describe how you would expect each to be distributed (e.g. unimodal, multimodel, tightly-group, widely-spread, etc.). For example, you might expect the price of gasoline over a particular period to be rather tightly-grouped around a mean, whereas the stock price of a particular company might vary much more widely over the same period.\nDescribe two relationships you expect to find among variables in your data (again, regardless of whether they actually exist in your data). For example, you might expect sales of hybrid vehicles to increase when gas prices increase; in this case, I am expecting that hybrid vehicle sales and gasoline prices are positively correlated.\nDescribe at least two charts that you expect will help you visualize the relationships that you expect to find. For example, a scatterplot of gasoline prices and hybrid vehicle sales over a particular time period might be useful for visualizing the level of correlation between these two variables.\nDiscuss how your expectations about the variables you chose will help inform you about your research question.",
-    "crumbs": [
-      "Final Project",
-      "Proposal"
-    ]
+    "objectID": "class/5-workshop-proposals.html",
+    "href": "class/5-workshop-proposals.html",
+    "title": "Workshop & Proposal Feedback",
+    "section": "",
+    "text": "Coming soon!"
   },
   {
-    "objectID": "project/1-proposal.html#attribution",
-    "href": "project/1-proposal.html#attribution",
-    "title": "Project Proposal",
-    "section": "6. Attribution",
-    "text": "6. Attribution\nInclude a short description of the specific contributions of each team member in your team. Here is an example:\n\n\nStudent A wrote the initial proposal draft.\nStudent B identified data sources.\nStudent C helped organize project files and edited the final draft of the proposal.\n\n\nIf all members contributed equally, you can just put the single sentence “All members contributed equally”.\nTeam members who do not make meaningful contributions to their projects will not receive the same grade as that of their team mates. If you are having any issues or disputes among team members, please contact Professor Helveston ASAP so we can find a resolution.",
-    "crumbs": [
-      "Final Project",
-      "Proposal"
-    ]
-  },
-  {
-    "objectID": "project/1-proposal.html#render-and-submit",
-    "href": "project/1-proposal.html#render-and-submit",
-    "title": "Project Proposal",
-    "section": "7. Render and submit",
-    "text": "7. Render and submit\nClick the “Render” button to compile your .qmd file into a html web page. Then open the report.html file in a web browser and proofread your report.\nDoes all of the formatting look correct? Make sure there are no errors in the rendered file before submitting it.\nOnce you’ve proofread your report, create a zip file of all the files in your R project folder for this assignment and submit it on the corresponding assignment submission on Blackboard.\nOnly one person from your team should submit.",
-    "crumbs": [
-      "Final Project",
-      "Proposal"
-    ]
-  },
-  {
-    "objectID": "project/1-proposal.html#grading-rubric",
-    "href": "project/1-proposal.html#grading-rubric",
-    "title": "Project Proposal",
-    "section": "Grading Rubric",
-    "text": "Grading Rubric\n\n40 Total Points\n\n\n\n\n\nCategory\nExcellent\nGood\nNeeds work\n\n\n\n\nOrganization & Formatting\n5\nAll formatting guidelines are followed; YAML is correct with all team members listed.\n4\nMost formatting guidelines are followed; YAML is correct with all team members listed.\n3\nSeveral or all formatting guidelines not followed; YAML contains elements that aren't updated from the template.\n\n\nResearch Question\n10 / 9\nResearch question is clear, focused, concise, complex, and arguable.\n8 / 7 / 6\nResearch question is reasonably clear and focused, but may be too simple, too complex, or too verbose.\n5 / 4 / 3\nResearch question is unclear and lacks focus; question is far too simple or overly complex.\n\n\nData Sources\n10 / 9\nData sources or plausible data sources are clearly described; validity of and concerns about data are discussed.\n8 / 7 / 6\nIdentified data sources or plausible data sources are not clearly described; validity of and concerns about data are minimally discussed.\n5 / 4 / 3\nData sources are poorly described or missing; description of validity of and concerns about data are poor or missing.\n\n\nAnticipated Results\n10 / 9\nDetailed description of: 1) two variables and their expected distribution; 2) two expected relationships; 3) two charts that help visualize expected relationships; and 4) how chosen variables will inform research questions.\n8 / 7 / 6\nDetailed description of only one expected variable, relationship, or chart; minimal description of two expected variables, relationships, or charts; minimal description of links between variables and research question.\n5 / 4 / 3\nPoor or missing descriptions of variables, relationships, or charts; poor or missing description between variables and research question.\n\n\nTechnical things\n5\nAll code runs without errors; all files included in the submitted .zip file.\n4\nCode has only one or two error, otherwise runs; all files included in the submitted .zip file.\n3\nCode has multiple errors; submitted .zip file is missing components necessary to reproduce analysis.",
-    "crumbs": [
-      "Final Project",
-      "Proposal"
-    ]
-  },
-  {
-    "objectID": "hw/2-cleaning-data.html",
-    "href": "hw/2-cleaning-data.html",
+    "objectID": "class/3-cleaning-data.html",
+    "href": "class/3-cleaning-data.html",
     "title": "Cleaning Data",
     "section": "",
-    "text": "Due: Sep 09 by 11:59pm\nWeight: This assignment is worth 1% of your final grade.\nPurpose: The purpose of this assignment is learn some techniques for dealing with messy data. Most of the time, the raw data you get is in the wrong format and variables are not properly coded, so you will need to “clean” the data before starting any analysis. Other times the data will be split into two or more data sets, and you will need to “join” them together into a single data frame.\nAssessment: This assignment is graded using a check system:\n\n✔+ (110%): Responses shows phenomenal thought and engagement with the course content. I will not assign these often.\n✔ (100%): Responses are thoughtful, well-written, and show engagement with the course content. This is the expected level of performance.\n✔− (50%): Responses are hastily composed, too short, and/or only cursorily engages with the course content. This grade signals that you need to improve next time. I will hopefully not assign these often.\n\nNotice that this is essentially a pass/fail system. I’m not grading your writing ability and I’m not counting the number of words you write - I’m looking for thoughtful engagement. One or two sentences is not enough. Write at least a paragraph and show me that you did the readings assigned.\n\n\n1. Get Organized\nFollow these instructions:\n\nDownload and edit this template.\nUnzip the template folder. Make sure you actually unzip it! (in Windows, right-click it and use “extract all”)\nOpen the .Rproj file to open RStudio.\nInside RStudio, open the hw2.qmd file, take notes, and write some example code as you go through the readings / exercises below.\n\n\n\n2. Read & Practice\n\nStat 545 chapter 15 on joining two tables\nTips for Cleaning Messy Data in R\nAlison Hill had an excellent free course on DataCamp called Working with Data in the Tidyverse, but it was unfortunately archived. The content she covered though was made available as a single webpage version archived here. The whole course is quite useful for learning some data cleaning skills. In particular, I suggest going through parts 2 (“Tame your data”) and 4 (“Transform your data”) to be best-prepared for dealing with messy real-world data.\nUse AI to Practice Joining Data: Open ChatGPT, Claude, or whatever AI tools you prefer and start a chat to practice the concept of joins. Ask the AI questions about what it gives you to make sure you understand the concept. Are you certain the AI is giving you good code? Play around with it and see if chatting with the AI is helpful. Include the link to your chat in your submission if you have one. Here is an example prompt (feel free to experiment with other prompts):\n\n\nI'm practicing the concept of joining data frames in R. Provide me an example of two datasets that have a common column and then show me R code for how to join them using the tidyverse. Afterwards, show several more slightly more complicated examples where the column names don't align, etc. In each case, explain your reasoning first, then show me the code.\n\n\n\n3. Reflect\nReflect on what you’ve learned while going through these readings and exercises. Is there anything that jumped out at you? Anything you found particularly interesting or confusing? Write at least a paragraph in your hw2.qmd file, and include at least one question. The teaching team will review the questions we get and will try to answer them either in Slack or in class.\nSome thoughts you may want to try in your reflection:\n\n“I used to think ______, now I think ______ 🤔”\nDiscuss some of the key insights or things you found interesting in the readings or recent class periods.\nWrite about the messiest data you’ve seen.\nConnect the course content to your own work or project you’re working on.\n\n\n\n4. Submit\nTo submit your assignment, follow these instructions:\n\nRender your .qmd file by either clicking the “Render” button in RStudio or running the command quarto::quarto_render(\"hw2.qmd\") command.\nOpen the rendered html file and make sure it looks good! Is all the formatting as you expected?\nCreate a zip file of all the files in your R project folder for this assignment and submit it on the corresponding assignment submission on Blackboard."
+    "text": "Coming soon!"
   },
   {
-    "objectID": "faq.html",
-    "href": "faq.html",
-    "title": "Frequenly Asked Questions",
-    "section": "",
-    "text": "Mac\nWindows\n\n\n\nbox.com\nI do not use Blackboard for showing your grades, so please ignore anything you see there. Instead, I create a unique folder for each of you on box.com. The folder will be named netID-eda. For example, my netID is jph, so my folder would be jph-eda.\nIf you log into box.com using your GW email, you should be able to find this folder. All of your graded feedback will be in that folder. You will see a pdf of feedback for each assignment as well as two CSV files: one that displays your grade for each assignment, and another that shows your current total grade in the class.\n\n\n\nI try to grade all assignments by the start of the next class from when they are due. Some weeks it can take me another whole week to grade something, so at most you can expect to see a grade one week after submitting it.\n\n\n\nSee the class late policy for details. That said, if you’ve completed an assignment but it’s now late, please do go ahead and submit it. Better to get some credit for it than none.\nIf you’re submitting late, please send your submission to Professor Helveston in slack - don’t submit on Blackboard. The Blackboard submission window will probably close anyway, and also Professor Helveston downloads all the submissions when they are due, so late submissions often get missed.",
-    "crumbs": [
-      "FAQ"
-    ]
-  },
-  {
-    "objectID": "faq.html#how-do-i-make-a-zip-file-for-my-homework",
-    "href": "faq.html#how-do-i-make-a-zip-file-for-my-homework",
-    "title": "Frequenly Asked Questions",
-    "section": "",
-    "text": "Mac\nWindows",
-    "crumbs": [
-      "FAQ"
-    ]
-  },
-  {
-    "objectID": "faq.html#where-can-i-see-my-grades",
-    "href": "faq.html#where-can-i-see-my-grades",
-    "title": "Frequenly Asked Questions",
-    "section": "",
-    "text": "box.com\nI do not use Blackboard for showing your grades, so please ignore anything you see there. Instead, I create a unique folder for each of you on box.com. The folder will be named netID-eda. For example, my netID is jph, so my folder would be jph-eda.\nIf you log into box.com using your GW email, you should be able to find this folder. All of your graded feedback will be in that folder. You will see a pdf of feedback for each assignment as well as two CSV files: one that displays your grade for each assignment, and another that shows your current total grade in the class.",
-    "crumbs": [
-      "FAQ"
-    ]
-  },
-  {
-    "objectID": "faq.html#when-can-i-expect-to-see-a-grade-for-my-assignment",
-    "href": "faq.html#when-can-i-expect-to-see-a-grade-for-my-assignment",
-    "title": "Frequenly Asked Questions",
-    "section": "",
-    "text": "I try to grade all assignments by the start of the next class from when they are due. Some weeks it can take me another whole week to grade something, so at most you can expect to see a grade one week after submitting it.",
-    "crumbs": [
-      "FAQ"
-    ]
-  },
-  {
-    "objectID": "faq.html#how-can-i-submit-my-homework-late",
-    "href": "faq.html#how-can-i-submit-my-homework-late",
-    "title": "Frequenly Asked Questions",
-    "section": "",
-    "text": "See the class late policy for details. That said, if you’ve completed an assignment but it’s now late, please do go ahead and submit it. Better to get some credit for it than none.\nIf you’re submitting late, please send your submission to Professor Helveston in slack - don’t submit on Blackboard. The Blackboard submission window will probably close anyway, and also Professor Helveston downloads all the submissions when they are due, so late submissions often get missed.",
-    "crumbs": [
-      "FAQ"
-    ]
-  },
-  {
-    "objectID": "faq.html#my-r-rstudio-is-totally-fubar-what-should-i-do",
-    "href": "faq.html#my-r-rstudio-is-totally-fubar-what-should-i-do",
-    "title": "Frequenly Asked Questions",
-    "section": "My R / RStudio is totally FUBAR, what should I do?",
-    "text": "My R / RStudio is totally FUBAR, what should I do?\nIf you want to get back up to speed quickly, you can open a cloud version of RStudio on the web at https://posit.cloud/plans/free. This is by far the easiest and fastest thing to do.\nYou can try to troubleshoot, but often the next easiest thing to do is just re-install R and RStudio. Be careful to save your work first!",
-    "crumbs": [
-      "FAQ"
-    ]
-  },
-  {
-    "objectID": "faq.html#rstudio-wont-let-me-save-my-file",
-    "href": "faq.html#rstudio-wont-let-me-save-my-file",
-    "title": "Frequenly Asked Questions",
-    "section": "RStudio won’t let me save my file",
-    "text": "RStudio won’t let me save my file\nMost often times this occurs for one of two reasons:\n\nYou may have opened the .R file instead of the .RProj file, in which case RStudio opens, but it may not be “looking” at the correct folder where your .R file lives. As a result, it can’t find it on your computer and can’t save it. In this case, copy all of the text in your .R file, then re-open RStudio by double clicking on the .RProj file, then open the .R file from inside RStudio and paste your code into the .R file.\nIf you’re on a windows computer, you may have opened RStudio from inside the zip file. As a result, you can’t save any files because everything is still zipped up. You have to go back and extract the files from the zip file before you can save anything. In this case, copy all of the text in your .R file, then quit RStudio, go unzip the folder, re-open RStudio by double clicking on the .RProj file, then open the .R file from inside RStudio and paste your code into the .R file.",
-    "crumbs": [
-      "FAQ"
-    ]
-  },
-  {
-    "objectID": "faq.html#im-trying-to-read-write-some-data-using-here-and-it-says-the-path-doesnt-exist.",
-    "href": "faq.html#im-trying-to-read-write-some-data-using-here-and-it-says-the-path-doesnt-exist.",
-    "title": "Frequenly Asked Questions",
-    "section": "I’m trying to read / write some data using here() and it says the path doesn’t exist.",
-    "text": "I’m trying to read / write some data using here() and it says the path doesn’t exist.\nHave you double-checked that the file name you defined is the same as the data file name? For example, if there is a folder called “data” and inside it a data file called “some_data.csv”, then your path should be here('data', 'some_data.csv').\nIf the file names look correct, then see the two issues in the above question",
-    "crumbs": [
-      "FAQ"
-    ]
-  },
-  {
-    "objectID": "faq.html#i-keep-seeing-a-sign-in-the-console",
-    "href": "faq.html#i-keep-seeing-a-sign-in-the-console",
-    "title": "Frequenly Asked Questions",
-    "section": "I keep seeing a + sign in the console…",
-    "text": "I keep seeing a + sign in the console…\nIf you start a command but don’t complete it, R will show a + sign because it’s waiting for you to finish it. Here’s an example:\n\n5 +\n\nIf you press enter, R will show a + sign, and each time you press enter you’ll get more + signs. This is because R wants you to “finish” the command (it expects another number).\nThe easiest way to get out of this is to press the “Escape” key. Do that, and you’ll get back to the &gt; R console.",
-    "crumbs": [
-      "FAQ"
-    ]
-  },
-  {
-    "objectID": "faq.html#i-got-this-error-message",
-    "href": "faq.html#i-got-this-error-message",
-    "title": "Frequenly Asked Questions",
-    "section": "I got this error message",
-    "text": "I got this error message\n\ncould not find function \"functionName\"\n\n\nDid you load the package that contains functionName?\nDid you spell functionName correctly?",
-    "crumbs": [
-      "FAQ"
-    ]
-  },
-  {
-    "objectID": "class/8-comparisons.html",
-    "href": "class/8-comparisons.html",
-    "title": "Comparisons",
+    "objectID": "class/15-final-presentations.html",
+    "href": "class/15-final-presentations.html",
+    "title": "Final Presentations",
     "section": "",
     "text": "Coming soon!"
   },
   {
-    "objectID": "class/6-visualizing-information.html",
-    "href": "class/6-visualizing-information.html",
-    "title": "Visualizing Information",
+    "objectID": "class/13-workshop-final-analysis.html",
+    "href": "class/13-workshop-final-analysis.html",
+    "title": "Final Analysis Workshop",
     "section": "",
     "text": "Coming soon!"
   },
   {
-    "objectID": "class/4-exploring-data.html",
-    "href": "class/4-exploring-data.html",
-    "title": "Exploring Data",
+    "objectID": "class/11-maps.html",
+    "href": "class/11-maps.html",
+    "title": "Maps",
     "section": "",
     "text": "Coming soon!"
   },
   {
-    "objectID": "class/2-tidy-data.html",
-    "href": "class/2-tidy-data.html",
-    "title": "Tidy Data",
+    "objectID": "class/1-getting-started.html",
+    "href": "class/1-getting-started.html",
+    "title": "Getting Started",
     "section": "",
     "text": "KEYBOARD SHORTCUTS FOR SLIDES:\n\nUse ← and → to navigate through the slides.\nUse f to toggle full screen.\nUse o to view an overview of all slides.\nUse h to see a list of other shortcuts.\n\n\n\n\nSLIDES\n View slides\n Download PDF\n\n\n\n\nCLASS PRACTICE\n Notes zip file"
   },
   {
-    "objectID": "class/14-story-telling.html",
-    "href": "class/14-story-telling.html",
-    "title": "Story Telling",
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
     "section": "",
-    "text": "Coming soon!"
-  },
-  {
-    "objectID": "class/12-interactivity.html",
-    "href": "class/12-interactivity.html",
-    "title": "Interactivity",
-    "section": "",
-    "text": "Coming soon!"
-  },
-  {
-    "objectID": "class/10-polishing-charts.html",
-    "href": "class/10-polishing-charts.html",
-    "title": "Polishing Charts",
-    "section": "",
-    "text": "Coming soon!"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This course provides students with a foundation in exploring data using the R programming language. Students will learn how to source, manage, transform, and explore a wide variety of data types. Students will also master the fundamental concepts for visualizing and communicating information contained in raw data, including the human psychology of visual information processing. All analyses will be conducted to support reproducibility from raw data to results using Quarto (which is built on the ideas of RMarkdown). Teaching will involve interactive lectures with plenty of class time spent working on examples and coding. Students will be assessed through in-class quizzes, reading reflections, and exploratory projects. Throughout the semester, students will work on a research project of their own design to demonstrate mastery of the course’s topics. At the end of the semester, students will submit a final, reproducible report of their project along with a 10-minute video presentation of their findings.\nThis course was inspired by many other courses / resources that cover similar material. In addition to my own developed material, I have also modified material from other courses and workshops - a full list of sources can be found in the LICENSE page.\nThis course was originally created by Dr. John Paul Helveston at the George Washington University for the Spring 2020 semester.",
+    "text": "Grolemund, Garrett. “Hands-On Programming with R” [free online], [buy on amazon]\nPeng, Roger D. “R Programming for Data Science” [online - pay what you want]\n\n\n\n\n\nGrolemund, Garrett and Wickham, Hadley. “R for Data Science” [free online], [buy on amazon]\nPeng, Roger D. “Exploratory Data Analysis with R” [online - pay what you want]\n16 HOWTO’s, by Lingyun Zhang\n\n\n\n\n\nAll cheatsheets\nData wrangling with the dplyr library\nData visualization with the ggplot2 library\nRMarkdown",
     "crumbs": [
-      "Other",
-      "About"
+      "References"
     ]
   },
   {
-    "objectID": "project/examples.html",
-    "href": "project/examples.html",
-    "title": "Example Analyses",
+    "objectID": "references.html#general-programming-in-r",
+    "href": "references.html#general-programming-in-r",
+    "title": "References",
     "section": "",
-    "text": "As inspiration for your final projects, check out these prior exploratory data analyses.\n\nPrevious course showcases\nView here\n\n\nOther exploratory analyses\nSome of these go into further detail than we will cover in this class, but hopefully they will inspire you as you prepare for your own project:\n\n\n\n\n\nSurvivors of the Titantic\nA great overview of getting started with the tidyverse.\n\n\n\n\n\n\n\nIs Usain Bolt really the fastest man on earth?\nby Anindya Mozumdar. This analysis uses some statistical modeling (which won’t cover), but the use of visualizations alone are effective for addressing the research questions posed.\n\n\n\n\n\n\n\nF1 racing data analysis\nby Jonathan Bouchet. This is an extensive exploratory data analysis of a variety of data on races, drivers, and constructors across the history of Formula 1 racing. This would probably be overkill for a course project, but sections of it (e.g. section 3 on the races, or sections 4 and 5 together on the drivers and constructors) would make a nice project. It involves mutliple data sets, some not-so-simple data cleaning, and a wide variety of nice visualizations.\n\n\n\n\n\n\n\nIncreasing Intensity of Strong Atlantic Hurricanes\nby James B. Elsner. This is a short analysis with the goal of validating the predictions of this study published in Nature in 2008, which predicted that Atlantic tropical cyclones would continue to get stronger on average over time. While this analysis is too short to be considered adequate for a final project, it is still a good example of good data source documentation and one effective visualization. An expanded inquiry into the questions addressed here would make a good course project.\n\n\n\n\n\n\n\nDeath: Reality vs Reported\nby Owen Shen. This is an interesting original analysis in which the author collected the data himself. The analysis compares whether the proportion of actual causes of death is consistent with the proportion of death causes that the media reports. This analysis also uses some interactive graphics so that the reader can view different versions of the same plot, such as scrolling through the plot over time.\n\n\n\n\n\n\n\nAre first babies more likely to be late?\nby Allen Downey. This is another relatively short analysis, but the author does a good job of documenting his data sources, stating the assumptions he makes, and also describes what data were dropped from the analysis (i.e. babies born via C-section).\n\n\n\n\nHistorically significant analyses\nExploratory data analysis has been around for a very long time. Here are some of the most historically famous.\n\n\n\n\n\nW.E.B. Du Bois’ “The Exhibit of American Negroes”\nIn 1900, W.E.B. Du Bois presented “The Exhibit of American Negroes” at the Exposition Universelle in Paris. Du Bois described the exhibition as “Thirty-two charts, 500 photographs, and numerous maps and plans form the basis of this exhibit. The charts are in two sets, one illustrating conditions in the entire United States and the other conditions in the typical State of Georgia.” The charts in his exhibition are staggeringly powerful. This six-part series published in Nightingale displays and discusses many of his impressive visualizations. You can also purchase a book on the portraits on Amazon.\n\n\n\n\n\n\n\nMinard’s Napoleon March Map\nThe “Napoleon March Map” by Charles Joseph Minard is widely viewed as one of the greatest data visualizations of all time. The chart depicts Napoleon’s disastrous campaign to conquer Moscow. Having started with around 470,000 soldiers, he returned with just 10,000. The width of the line represents the total number of soldiers and the color represents the direction (yellow for towards Moscow, black for the return trip).\n\n\n\n\n\n\n\nTableau’s Top 10 GOAT Data Visualizations\nIt’s hard to say which data visualizations are the “Greatest Of All Time,” but Tableau put together a pretty excellent collection for their top 10 list.",
+    "text": "Grolemund, Garrett. “Hands-On Programming with R” [free online], [buy on amazon]\nPeng, Roger D. “R Programming for Data Science” [online - pay what you want]",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "references.html#data-analysis-in-r",
+    "href": "references.html#data-analysis-in-r",
+    "title": "References",
+    "section": "",
+    "text": "Grolemund, Garrett and Wickham, Hadley. “R for Data Science” [free online], [buy on amazon]\nPeng, Roger D. “Exploratory Data Analysis with R” [online - pay what you want]\n16 HOWTO’s, by Lingyun Zhang",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "references.html#rstudio-cheatsheets",
+    "href": "references.html#rstudio-cheatsheets",
+    "title": "References",
+    "section": "",
+    "text": "All cheatsheets\nData wrangling with the dplyr library\nData visualization with the ggplot2 library\nRMarkdown",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "references.html#principles-of-data-visualization",
+    "href": "references.html#principles-of-data-visualization",
+    "title": "References",
+    "section": "Principles of data visualization",
+    "text": "Principles of data visualization\n\nHealy, Kieran. “Data Visualization: A practical introduction” [free online], [buy on amazon]\nWilke, Claus O. “Fundamentals of Data Visualization” [free online], [buy on amazon]\nVideo: How Humans See Data, by John Rauser. This is probably the best overviews I’ve seen on how to exploit the psychology of how our brains interpret images to make effective visualizations.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "references.html#choosing-the-right-chart",
+    "href": "references.html#choosing-the-right-chart",
+    "title": "References",
+    "section": "Choosing the right chart",
+    "text": "Choosing the right chart\nYou will want to choose different chart types depending on the relationship or message you want to convey. Fortunately, we live in the future and awesome people have created wonderful tools to help you find the most appropriate graph for your data. Take a look through some of these resources - these will come in handy when you start working on your final project:\n\n Stephen Few’s Graph Selection Matrix\nThe Data Visualisation Catalogue\nData-to-Viz\nR Graph Gallery\nVisual Vocabulary\nThe Data Viz Project",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "references.html#making-plots-with-ggplot2",
+    "href": "references.html#making-plots-with-ggplot2",
+    "title": "References",
+    "section": "Making plots with ggplot2",
+    "text": "Making plots with ggplot2\n\nThe R Graph Catalog: 124 examples (with code) for making common ggplots.\nThe ggplot2 Extensions gallery: 64 registered libraries that extend the functionality of ggplot2.\nTop 50 ggplot2 visualizations\nR Cookbook for ggplot2\nRStudio ggplot2 Cheatsheet\nTidyverse ggplot2 reference guide\nggThemeAssist: Package for customizing plot themes and layout\n16 HOWTO’s, by Lingyun Zhang - super useful for making specific types of charts",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "references.html#polishing-ggplot2-plots",
+    "href": "references.html#polishing-ggplot2-plots",
+    "title": "References",
+    "section": "Polishing ggplot2 plots",
+    "text": "Polishing ggplot2 plots\n\nggplot2: Elegant Graphics for Data Analysis\nFollow good design rules",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "references.html#choosing-colors",
+    "href": "references.html#choosing-colors",
+    "title": "References",
+    "section": "Choosing colors",
+    "text": "Choosing colors\n\nColor wheel tool\nggplot2 book chapter 12\nR graph gallery\nCoolors.co - super nice color palette generator",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "references.html#animating-ggplot2-plots",
+    "href": "references.html#animating-ggplot2-plots",
+    "title": "References",
+    "section": "Animating ggplot2 plots",
+    "text": "Animating ggplot2 plots\n\nHow to create animations in R with gganimate\nAnimate your ggplots with gganimate\nHow to make a bar chart race",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "references.html#helpful-tutorials",
+    "href": "references.html#helpful-tutorials",
+    "title": "References",
+    "section": "Helpful Tutorials",
+    "text": "Helpful Tutorials\n\nRStudio Primers\nTidyverse in R\nTransitioning from Excel to R",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "references.html#inspiration",
+    "href": "references.html#inspiration",
+    "title": "References",
+    "section": "Inspiration",
+    "text": "Inspiration\n\nAn Incomplete List of Females in Data Visualization, by Stephanie Evergreen\nThe Links Between Open Science and Star Wars",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "references.html#when-all-else-fails",
+    "href": "references.html#when-all-else-fails",
+    "title": "References",
+    "section": "When all else fails…",
+    "text": "When all else fails…\nYou will inevitably run into problems; things won’t work the way you expect, and you’ll get lots of confusing error messages. When this happens, many turn to the following tried and true problem-solving approaches:",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "project/0-overview.html",
+    "href": "project/0-overview.html",
+    "title": "Project Overview",
+    "section": "",
+    "text": "For your final project, you will take a dataset, explore it, tinker with it, and tell a nuanced story about it using at least three key charts. I want this project to be as useful for you and your future career as possible - you’ll hopefully want to show off your final project in a portfolio or during job interviews. Accordingly, you get to choose what data you will use for your project. Choose whatever one you are most interested in or will have the most fun with.\n\nCheck out these examples of other exploratory data analyses for inspiration\n\nFor the final project, you will:\n\nWrite a research question.\nConduct an exploratory data analysis of one or more data sources to address your research question.\nCreate visualizations to effectively communicate the results of your analysis using the principles of information visualization covered in this course.\nDocument your entire analysis in a reproducible format, including a detailed curation of the data you used as well as your analysis and results.\n\nPurpose: The skills covered in this course are rooted in design rules and principles rather than formulas and equations. As such, the application of these principles to a real data problem is one of the best ways to learn and assess mastery of these skills. I guarantee you one day you will need to apply these principles to communicate an idea to colleagues, so let’s make sure you have at least one chance to practice before the stakes are higher.\nSkills & Knowledge: Your final project should illustrate your ability to transform raw data into insights by making the non-visible visible, showing clear trends or patterns, and / or identifying outliers or missing information. The specific skills involved in achieving this goal include all of the course learning objectives.\nTeams: Your final project will be a team project made up of 2 to 3 classmates of your choosing. Teams will be finalized at the time of submitting your proposal. Graduate students taking the course must work on individual projects.\nSummary of Deliverables: To make the overall project more manageable, it is broken down into separate “milestone” deliverables due throughout the semester, starting with a proposal due just before spring break.\n\n\n\n\nItem\nWeight towardsfinal grade\nDue Date(by 11:59pm)\n\n\n\n\nProposal\n6 %\nSep 24\n\n\nProgress Report\n6 %\nOct 29\n\n\nFinal Report\n15 %\nDec 10\n\n\nPresentation\n6 %\nDec 12",
     "crumbs": [
       "Final Project",
-      "Examples"
+      "Overview"
     ]
   },
   {
-    "objectID": "mini/3-redesign.html",
-    "href": "mini/3-redesign.html",
-    "title": "Mini Project 3: Data Viz Re-Design",
+    "objectID": "mini/2-exploring-data.html",
+    "href": "mini/2-exploring-data.html",
+    "title": "Mini Project 2: Exploring Data",
     "section": "",
     "text": "Coming soon!",
     "crumbs": [
       "Mini Projects",
-      "3: Re-design"
-    ]
-  },
-  {
-    "objectID": "mini/1-data-cleaning.html",
-    "href": "mini/1-data-cleaning.html",
-    "title": "Mini Project 1: Data Cleaning",
-    "section": "",
-    "text": "Coming soon!",
-    "crumbs": [
-      "Mini Projects",
-      "1: Data Cleaning"
+      "2: Exploring Data"
     ]
   },
   {
@@ -841,425 +854,555 @@
     "text": "Coming soon!"
   },
   {
-    "objectID": "mini/2-exploring-data.html",
-    "href": "mini/2-exploring-data.html",
-    "title": "Mini Project 2: Exploring Data",
+    "objectID": "mini/3-redesign.html",
+    "href": "mini/3-redesign.html",
+    "title": "Mini Project 3: Data Viz Re-Design",
     "section": "",
     "text": "Coming soon!",
     "crumbs": [
       "Mini Projects",
-      "2: Exploring Data"
+      "3: Re-design"
     ]
   },
   {
-    "objectID": "project/0-overview.html",
-    "href": "project/0-overview.html",
-    "title": "Project Overview",
+    "objectID": "project/examples.html",
+    "href": "project/examples.html",
+    "title": "Example Analyses",
     "section": "",
-    "text": "For your final project, you will take a dataset, explore it, tinker with it, and tell a nuanced story about it using at least three key charts. I want this project to be as useful for you and your future career as possible - you’ll hopefully want to show off your final project in a portfolio or during job interviews. Accordingly, you get to choose what data you will use for your project. Choose whatever one you are most interested in or will have the most fun with.\n\nCheck out these examples of other exploratory data analyses for inspiration\n\nFor the final project, you will:\n\nWrite a research question.\nConduct an exploratory data analysis of one or more data sources to address your research question.\nCreate visualizations to effectively communicate the results of your analysis using the principles of information visualization covered in this course.\nDocument your entire analysis in a reproducible format, including a detailed curation of the data you used as well as your analysis and results.\n\nPurpose: The skills covered in this course are rooted in design rules and principles rather than formulas and equations. As such, the application of these principles to a real data problem is one of the best ways to learn and assess mastery of these skills. I guarantee you one day you will need to apply these principles to communicate an idea to colleagues, so let’s make sure you have at least one chance to practice before the stakes are higher.\nSkills & Knowledge: Your final project should illustrate your ability to transform raw data into insights by making the non-visible visible, showing clear trends or patterns, and / or identifying outliers or missing information. The specific skills involved in achieving this goal include all of the course learning objectives.\nTeams: Your final project will be a team project made up of 2 to 3 classmates of your choosing. Teams will be finalized at the time of submitting your proposal. Graduate students taking the course must work on individual projects.\nSummary of Deliverables: To make the overall project more manageable, it is broken down into separate “milestone” deliverables due throughout the semester, starting with a proposal due just before spring break.\n\n\n\n\nItem\nWeight towardsfinal grade\nDue Date(by 11:59pm)\n\n\n\n\nProposal\n6 %\nSep 24\n\n\nProgress Report\n6 %\nOct 29\n\n\nFinal Report\n15 %\nDec 10\n\n\nPresentation\n6 %\nDec 12",
+    "text": "As inspiration for your final projects, check out these prior exploratory data analyses.\n\nPrevious course showcases\nView here\n\n\nOther exploratory analyses\nSome of these go into further detail than we will cover in this class, but hopefully they will inspire you as you prepare for your own project:\n\n\n\n\n\nSurvivors of the Titantic\nA great overview of getting started with the tidyverse.\n\n\n\n\n\n\n\nIs Usain Bolt really the fastest man on earth?\nby Anindya Mozumdar. This analysis uses some statistical modeling (which won’t cover), but the use of visualizations alone are effective for addressing the research questions posed.\n\n\n\n\n\n\n\nF1 racing data analysis\nby Jonathan Bouchet. This is an extensive exploratory data analysis of a variety of data on races, drivers, and constructors across the history of Formula 1 racing. This would probably be overkill for a course project, but sections of it (e.g. section 3 on the races, or sections 4 and 5 together on the drivers and constructors) would make a nice project. It involves mutliple data sets, some not-so-simple data cleaning, and a wide variety of nice visualizations.\n\n\n\n\n\n\n\nIncreasing Intensity of Strong Atlantic Hurricanes\nby James B. Elsner. This is a short analysis with the goal of validating the predictions of this study published in Nature in 2008, which predicted that Atlantic tropical cyclones would continue to get stronger on average over time. While this analysis is too short to be considered adequate for a final project, it is still a good example of good data source documentation and one effective visualization. An expanded inquiry into the questions addressed here would make a good course project.\n\n\n\n\n\n\n\nDeath: Reality vs Reported\nby Owen Shen. This is an interesting original analysis in which the author collected the data himself. The analysis compares whether the proportion of actual causes of death is consistent with the proportion of death causes that the media reports. This analysis also uses some interactive graphics so that the reader can view different versions of the same plot, such as scrolling through the plot over time.\n\n\n\n\n\n\n\nAre first babies more likely to be late?\nby Allen Downey. This is another relatively short analysis, but the author does a good job of documenting his data sources, stating the assumptions he makes, and also describes what data were dropped from the analysis (i.e. babies born via C-section).\n\n\n\n\nHistorically significant analyses\nExploratory data analysis has been around for a very long time. Here are some of the most historically famous.\n\n\n\n\n\nW.E.B. Du Bois’ “The Exhibit of American Negroes”\nIn 1900, W.E.B. Du Bois presented “The Exhibit of American Negroes” at the Exposition Universelle in Paris. Du Bois described the exhibition as “Thirty-two charts, 500 photographs, and numerous maps and plans form the basis of this exhibit. The charts are in two sets, one illustrating conditions in the entire United States and the other conditions in the typical State of Georgia.” The charts in his exhibition are staggeringly powerful. This six-part series published in Nightingale displays and discusses many of his impressive visualizations. You can also purchase a book on the portraits on Amazon.\n\n\n\n\n\n\n\nMinard’s Napoleon March Map\nThe “Napoleon March Map” by Charles Joseph Minard is widely viewed as one of the greatest data visualizations of all time. The chart depicts Napoleon’s disastrous campaign to conquer Moscow. Having started with around 470,000 soldiers, he returned with just 10,000. The width of the line represents the total number of soldiers and the color represents the direction (yellow for towards Moscow, black for the return trip).\n\n\n\n\n\n\n\nTableau’s Top 10 GOAT Data Visualizations\nIt’s hard to say which data visualizations are the “Greatest Of All Time,” but Tableau put together a pretty excellent collection for their top 10 list.",
     "crumbs": [
       "Final Project",
-      "Overview"
+      "Examples"
     ]
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Grolemund, Garrett. “Hands-On Programming with R” [free online], [buy on amazon]\nPeng, Roger D. “R Programming for Data Science” [online - pay what you want]\n\n\n\n\n\nGrolemund, Garrett and Wickham, Hadley. “R for Data Science” [free online], [buy on amazon]\nPeng, Roger D. “Exploratory Data Analysis with R” [online - pay what you want]\n16 HOWTO’s, by Lingyun Zhang\n\n\n\n\n\nAll cheatsheets\nData wrangling with the dplyr library\nData visualization with the ggplot2 library\nRMarkdown",
+    "text": "This course provides students with a foundation in exploring data using the R programming language. Students will learn how to source, manage, transform, and explore a wide variety of data types. Students will also master the fundamental concepts for visualizing and communicating information contained in raw data, including the human psychology of visual information processing. All analyses will be conducted to support reproducibility from raw data to results using Quarto (which is built on the ideas of RMarkdown). Teaching will involve interactive lectures with plenty of class time spent working on examples and coding. Students will be assessed through in-class quizzes, reading reflections, and exploratory projects. Throughout the semester, students will work on a research project of their own design to demonstrate mastery of the course’s topics. At the end of the semester, students will submit a final, reproducible report of their project along with a 10-minute video presentation of their findings.\nThis course was inspired by many other courses / resources that cover similar material. In addition to my own developed material, I have also modified material from other courses and workshops - a full list of sources can be found in the LICENSE page.\nThis course was originally created by Dr. John Paul Helveston at the George Washington University for the Spring 2020 semester.",
     "crumbs": [
-      "References"
+      "Other",
+      "About"
     ]
   },
   {
-    "objectID": "references.html#general-programming-in-r",
-    "href": "references.html#general-programming-in-r",
-    "title": "References",
+    "objectID": "class/10-polishing-charts.html",
+    "href": "class/10-polishing-charts.html",
+    "title": "Polishing Charts",
     "section": "",
-    "text": "Grolemund, Garrett. “Hands-On Programming with R” [free online], [buy on amazon]\nPeng, Roger D. “R Programming for Data Science” [online - pay what you want]",
-    "crumbs": [
-      "References"
-    ]
+    "text": "Coming soon!"
   },
   {
-    "objectID": "references.html#data-analysis-in-r",
-    "href": "references.html#data-analysis-in-r",
-    "title": "References",
+    "objectID": "class/12-interactivity.html",
+    "href": "class/12-interactivity.html",
+    "title": "Interactivity",
     "section": "",
-    "text": "Grolemund, Garrett and Wickham, Hadley. “R for Data Science” [free online], [buy on amazon]\nPeng, Roger D. “Exploratory Data Analysis with R” [online - pay what you want]\n16 HOWTO’s, by Lingyun Zhang",
-    "crumbs": [
-      "References"
-    ]
+    "text": "Coming soon!"
   },
   {
-    "objectID": "references.html#rstudio-cheatsheets",
-    "href": "references.html#rstudio-cheatsheets",
-    "title": "References",
+    "objectID": "class/14-story-telling.html",
+    "href": "class/14-story-telling.html",
+    "title": "Story Telling",
     "section": "",
-    "text": "All cheatsheets\nData wrangling with the dplyr library\nData visualization with the ggplot2 library\nRMarkdown",
-    "crumbs": [
-      "References"
-    ]
+    "text": "Coming soon!"
   },
   {
-    "objectID": "references.html#principles-of-data-visualization",
-    "href": "references.html#principles-of-data-visualization",
-    "title": "References",
-    "section": "Principles of data visualization",
-    "text": "Principles of data visualization\n\nHealy, Kieran. “Data Visualization: A practical introduction” [free online], [buy on amazon]\nWilke, Claus O. “Fundamentals of Data Visualization” [free online], [buy on amazon]\nVideo: How Humans See Data, by John Rauser. This is probably the best overviews I’ve seen on how to exploit the psychology of how our brains interpret images to make effective visualizations.",
-    "crumbs": [
-      "References"
-    ]
-  },
-  {
-    "objectID": "references.html#choosing-the-right-chart",
-    "href": "references.html#choosing-the-right-chart",
-    "title": "References",
-    "section": "Choosing the right chart",
-    "text": "Choosing the right chart\nYou will want to choose different chart types depending on the relationship or message you want to convey. Fortunately, we live in the future and awesome people have created wonderful tools to help you find the most appropriate graph for your data. Take a look through some of these resources - these will come in handy when you start working on your final project:\n\n Stephen Few’s Graph Selection Matrix\nThe Data Visualisation Catalogue\nData-to-Viz\nR Graph Gallery\nVisual Vocabulary\nThe Data Viz Project",
-    "crumbs": [
-      "References"
-    ]
-  },
-  {
-    "objectID": "references.html#making-plots-with-ggplot2",
-    "href": "references.html#making-plots-with-ggplot2",
-    "title": "References",
-    "section": "Making plots with ggplot2",
-    "text": "Making plots with ggplot2\n\nThe R Graph Catalog: 124 examples (with code) for making common ggplots.\nThe ggplot2 Extensions gallery: 64 registered libraries that extend the functionality of ggplot2.\nTop 50 ggplot2 visualizations\nR Cookbook for ggplot2\nRStudio ggplot2 Cheatsheet\nTidyverse ggplot2 reference guide\nggThemeAssist: Package for customizing plot themes and layout\n16 HOWTO’s, by Lingyun Zhang - super useful for making specific types of charts",
-    "crumbs": [
-      "References"
-    ]
-  },
-  {
-    "objectID": "references.html#polishing-ggplot2-plots",
-    "href": "references.html#polishing-ggplot2-plots",
-    "title": "References",
-    "section": "Polishing ggplot2 plots",
-    "text": "Polishing ggplot2 plots\n\nggplot2: Elegant Graphics for Data Analysis\nFollow good design rules",
-    "crumbs": [
-      "References"
-    ]
-  },
-  {
-    "objectID": "references.html#choosing-colors",
-    "href": "references.html#choosing-colors",
-    "title": "References",
-    "section": "Choosing colors",
-    "text": "Choosing colors\n\nColor wheel tool\nggplot2 book chapter 12\nR graph gallery\nCoolors.co - super nice color palette generator",
-    "crumbs": [
-      "References"
-    ]
-  },
-  {
-    "objectID": "references.html#animating-ggplot2-plots",
-    "href": "references.html#animating-ggplot2-plots",
-    "title": "References",
-    "section": "Animating ggplot2 plots",
-    "text": "Animating ggplot2 plots\n\nHow to create animations in R with gganimate\nAnimate your ggplots with gganimate\nHow to make a bar chart race",
-    "crumbs": [
-      "References"
-    ]
-  },
-  {
-    "objectID": "references.html#helpful-tutorials",
-    "href": "references.html#helpful-tutorials",
-    "title": "References",
-    "section": "Helpful Tutorials",
-    "text": "Helpful Tutorials\n\nRStudio Primers\nTidyverse in R\nTransitioning from Excel to R",
-    "crumbs": [
-      "References"
-    ]
-  },
-  {
-    "objectID": "references.html#inspiration",
-    "href": "references.html#inspiration",
-    "title": "References",
-    "section": "Inspiration",
-    "text": "Inspiration\n\nAn Incomplete List of Females in Data Visualization, by Stephanie Evergreen\nThe Links Between Open Science and Star Wars",
-    "crumbs": [
-      "References"
-    ]
-  },
-  {
-    "objectID": "references.html#when-all-else-fails",
-    "href": "references.html#when-all-else-fails",
-    "title": "References",
-    "section": "When all else fails…",
-    "text": "When all else fails…\nYou will inevitably run into problems; things won’t work the way you expect, and you’ll get lots of confusing error messages. When this happens, many turn to the following tried and true problem-solving approaches:",
-    "crumbs": [
-      "References"
-    ]
-  },
-  {
-    "objectID": "class/1-getting-started.html",
-    "href": "class/1-getting-started.html",
-    "title": "Getting Started",
+    "objectID": "class/2-tidy-data.html",
+    "href": "class/2-tidy-data.html",
+    "title": "Tidy Data",
     "section": "",
     "text": "KEYBOARD SHORTCUTS FOR SLIDES:\n\nUse ← and → to navigate through the slides.\nUse f to toggle full screen.\nUse o to view an overview of all slides.\nUse h to see a list of other shortcuts.\n\n\n\n\nSLIDES\n View slides\n Download PDF\n\n\n\n\nCLASS PRACTICE\n Notes zip file"
   },
   {
-    "objectID": "class/11-maps.html",
-    "href": "class/11-maps.html",
-    "title": "Maps",
+    "objectID": "class/4-exploring-data.html",
+    "href": "class/4-exploring-data.html",
+    "title": "Exploring Data",
     "section": "",
     "text": "Coming soon!"
   },
   {
-    "objectID": "class/13-workshop-final-analysis.html",
-    "href": "class/13-workshop-final-analysis.html",
-    "title": "Final Analysis Workshop",
+    "objectID": "class/6-visualizing-information.html",
+    "href": "class/6-visualizing-information.html",
+    "title": "Visualizing Information",
     "section": "",
     "text": "Coming soon!"
   },
   {
-    "objectID": "class/15-final-presentations.html",
-    "href": "class/15-final-presentations.html",
-    "title": "Final Presentations",
+    "objectID": "class/8-comparisons.html",
+    "href": "class/8-comparisons.html",
+    "title": "Comparisons",
     "section": "",
     "text": "Coming soon!"
   },
   {
-    "objectID": "class/3-cleaning-data.html",
-    "href": "class/3-cleaning-data.html",
+    "objectID": "faq.html",
+    "href": "faq.html",
+    "title": "Frequenly Asked Questions",
+    "section": "",
+    "text": "Mac\nWindows\n\n\n\nbox.com\nI do not use Blackboard for showing your grades, so please ignore anything you see there. Instead, I create a unique folder for each of you on box.com. The folder will be named netID-eda. For example, my netID is jph, so my folder would be jph-eda.\nIf you log into box.com using your GW email, you should be able to find this folder. All of your graded feedback will be in that folder. You will see a pdf of feedback for each assignment as well as two CSV files: one that displays your grade for each assignment, and another that shows your current total grade in the class.\n\n\n\nI try to grade all assignments by the start of the next class from when they are due. Some weeks it can take me another whole week to grade something, so at most you can expect to see a grade one week after submitting it.\n\n\n\nSee the class late policy for details. That said, if you’ve completed an assignment but it’s now late, please do go ahead and submit it. Better to get some credit for it than none.\nIf you’re submitting late, please send your submission to Professor Helveston in slack - don’t submit on Blackboard. The Blackboard submission window will probably close anyway, and also Professor Helveston downloads all the submissions when they are due, so late submissions often get missed.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "faq.html#how-do-i-make-a-zip-file-for-my-homework",
+    "href": "faq.html#how-do-i-make-a-zip-file-for-my-homework",
+    "title": "Frequenly Asked Questions",
+    "section": "",
+    "text": "Mac\nWindows",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "faq.html#where-can-i-see-my-grades",
+    "href": "faq.html#where-can-i-see-my-grades",
+    "title": "Frequenly Asked Questions",
+    "section": "",
+    "text": "box.com\nI do not use Blackboard for showing your grades, so please ignore anything you see there. Instead, I create a unique folder for each of you on box.com. The folder will be named netID-eda. For example, my netID is jph, so my folder would be jph-eda.\nIf you log into box.com using your GW email, you should be able to find this folder. All of your graded feedback will be in that folder. You will see a pdf of feedback for each assignment as well as two CSV files: one that displays your grade for each assignment, and another that shows your current total grade in the class.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "faq.html#when-can-i-expect-to-see-a-grade-for-my-assignment",
+    "href": "faq.html#when-can-i-expect-to-see-a-grade-for-my-assignment",
+    "title": "Frequenly Asked Questions",
+    "section": "",
+    "text": "I try to grade all assignments by the start of the next class from when they are due. Some weeks it can take me another whole week to grade something, so at most you can expect to see a grade one week after submitting it.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "faq.html#how-can-i-submit-my-homework-late",
+    "href": "faq.html#how-can-i-submit-my-homework-late",
+    "title": "Frequenly Asked Questions",
+    "section": "",
+    "text": "See the class late policy for details. That said, if you’ve completed an assignment but it’s now late, please do go ahead and submit it. Better to get some credit for it than none.\nIf you’re submitting late, please send your submission to Professor Helveston in slack - don’t submit on Blackboard. The Blackboard submission window will probably close anyway, and also Professor Helveston downloads all the submissions when they are due, so late submissions often get missed.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "faq.html#my-r-rstudio-is-totally-fubar-what-should-i-do",
+    "href": "faq.html#my-r-rstudio-is-totally-fubar-what-should-i-do",
+    "title": "Frequenly Asked Questions",
+    "section": "My R / RStudio is totally FUBAR, what should I do?",
+    "text": "My R / RStudio is totally FUBAR, what should I do?\nIf you want to get back up to speed quickly, you can open a cloud version of RStudio on the web at https://posit.cloud/plans/free. This is by far the easiest and fastest thing to do.\nYou can try to troubleshoot, but often the next easiest thing to do is just re-install R and RStudio. Be careful to save your work first!",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "faq.html#rstudio-wont-let-me-save-my-file",
+    "href": "faq.html#rstudio-wont-let-me-save-my-file",
+    "title": "Frequenly Asked Questions",
+    "section": "RStudio won’t let me save my file",
+    "text": "RStudio won’t let me save my file\nMost often times this occurs for one of two reasons:\n\nYou may have opened the .R file instead of the .RProj file, in which case RStudio opens, but it may not be “looking” at the correct folder where your .R file lives. As a result, it can’t find it on your computer and can’t save it. In this case, copy all of the text in your .R file, then re-open RStudio by double clicking on the .RProj file, then open the .R file from inside RStudio and paste your code into the .R file.\nIf you’re on a windows computer, you may have opened RStudio from inside the zip file. As a result, you can’t save any files because everything is still zipped up. You have to go back and extract the files from the zip file before you can save anything. In this case, copy all of the text in your .R file, then quit RStudio, go unzip the folder, re-open RStudio by double clicking on the .RProj file, then open the .R file from inside RStudio and paste your code into the .R file.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "faq.html#im-trying-to-read-write-some-data-using-here-and-it-says-the-path-doesnt-exist.",
+    "href": "faq.html#im-trying-to-read-write-some-data-using-here-and-it-says-the-path-doesnt-exist.",
+    "title": "Frequenly Asked Questions",
+    "section": "I’m trying to read / write some data using here() and it says the path doesn’t exist.",
+    "text": "I’m trying to read / write some data using here() and it says the path doesn’t exist.\nHave you double-checked that the file name you defined is the same as the data file name? For example, if there is a folder called “data” and inside it a data file called “some_data.csv”, then your path should be here('data', 'some_data.csv').\nIf the file names look correct, then see the two issues in the above question",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "faq.html#i-keep-seeing-a-sign-in-the-console",
+    "href": "faq.html#i-keep-seeing-a-sign-in-the-console",
+    "title": "Frequenly Asked Questions",
+    "section": "I keep seeing a + sign in the console…",
+    "text": "I keep seeing a + sign in the console…\nIf you start a command but don’t complete it, R will show a + sign because it’s waiting for you to finish it. Here’s an example:\n\n5 +\n\nIf you press enter, R will show a + sign, and each time you press enter you’ll get more + signs. This is because R wants you to “finish” the command (it expects another number).\nThe easiest way to get out of this is to press the “Escape” key. Do that, and you’ll get back to the &gt; R console.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "faq.html#i-got-this-error-message",
+    "href": "faq.html#i-got-this-error-message",
+    "title": "Frequenly Asked Questions",
+    "section": "I got this error message",
+    "text": "I got this error message\n\ncould not find function \"functionName\"\n\n\nDid you load the package that contains functionName?\nDid you spell functionName correctly?",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "hw/2-cleaning-data.html",
+    "href": "hw/2-cleaning-data.html",
     "title": "Cleaning Data",
     "section": "",
-    "text": "Coming soon!"
+    "text": "Due: Sep 09 by 11:59pm\nWeight: This assignment is worth 1% of your final grade.\nPurpose: The purpose of this assignment is learn some techniques for dealing with messy data. Most of the time, the raw data you get is in the wrong format and variables are not properly coded, so you will need to “clean” the data before starting any analysis. Other times the data will be split into two or more data sets, and you will need to “join” them together into a single data frame.\nAssessment: This assignment is graded using a check system:\n\n✔+ (110%): Responses shows phenomenal thought and engagement with the course content. I will not assign these often.\n✔ (100%): Responses are thoughtful, well-written, and show engagement with the course content. This is the expected level of performance.\n✔− (50%): Responses are hastily composed, too short, and/or only cursorily engages with the course content. This grade signals that you need to improve next time. I will hopefully not assign these often.\n\nNotice that this is essentially a pass/fail system. I’m not grading your writing ability and I’m not counting the number of words you write - I’m looking for thoughtful engagement. One or two sentences is not enough. Write at least a paragraph and show me that you did the readings assigned.\n\n\n1. Get Organized\nFollow these instructions:\n\nDownload and edit this template.\nUnzip the template folder. Make sure you actually unzip it! (in Windows, right-click it and use “extract all”)\nOpen the .Rproj file to open RStudio.\nInside RStudio, open the hw2.qmd file, take notes, and write some example code as you go through the readings / exercises below.\n\n\n\n2. Read & Practice\n\nStat 545 chapter 15 on joining two tables\nTips for Cleaning Messy Data in R\nAlison Hill had an excellent free course on DataCamp called Working with Data in the Tidyverse, but it was unfortunately archived. The content she covered though was made available as a single webpage version that I archived here. The whole course is quite useful for learning some data cleaning skills. In particular, I suggest going through parts 2 (“Tame your data”) and 4 (“Transform your data”) to be best-prepared for dealing with messy real-world data.\nUse AI to Practice Joining Data: Open ChatGPT, Claude, or whatever AI tools you prefer and start a chat to practice the concept of joins. Ask the AI questions about what it gives you to make sure you understand the concept. Are you certain the AI is giving you good code? Play around with it and see if chatting with the AI is helpful. Include the link to your chat in your submission if you have one. Here is an example prompt (feel free to experiment with other prompts):\n\n\nI'm practicing the concept of joining data frames in R. Provide me an example of two datasets that have a common column and then show me R code for how to join them using the tidyverse. Afterwards, show several more slightly more complicated examples where the column names don't align, etc. In each case, explain your reasoning first, then show me the code.\n\n\n\n3. Reflect\nReflect on what you’ve learned while going through these readings and exercises. Is there anything that jumped out at you? Anything you found particularly interesting or confusing? Write at least a paragraph in your hw2.qmd file, and include at least one question. The teaching team will review the questions we get and will try to answer them either in Slack or in class.\nSome thoughts you may want to try in your reflection:\n\n“I used to think ______, now I think ______ 🤔”\nDiscuss some of the key insights or things you found interesting in the readings or recent class periods.\nWrite about the messiest data you’ve seen.\nConnect the course content to your own work or project you’re working on.\n\n\n\n4. Submit\nTo submit your assignment, follow these instructions:\n\nRender your .qmd file by either clicking the “Render” button in RStudio or running the command quarto::quarto_render(\"hw2.qmd\") command.\nOpen the rendered html file and make sure it looks good! Is all the formatting as you expected?\nCreate a zip file of all the files in your R project folder for this assignment and submit it on the corresponding assignment submission on Blackboard."
   },
   {
-    "objectID": "class/5-workshop-proposals.html",
-    "href": "class/5-workshop-proposals.html",
-    "title": "Workshop & Proposal Feedback",
+    "objectID": "project/1-proposal.html",
+    "href": "project/1-proposal.html",
+    "title": "Project Proposal",
     "section": "",
-    "text": "Coming soon!"
-  },
-  {
-    "objectID": "class/7-factors-amounts-proportions.html",
-    "href": "class/7-factors-amounts-proportions.html",
-    "title": "Factors, Amounts, & Proportions",
-    "section": "",
-    "text": "Coming soon!"
-  },
-  {
-    "objectID": "class/9-trends.html",
-    "href": "class/9-trends.html",
-    "title": "Trends",
-    "section": "",
-    "text": "Coming soon!"
-  },
-  {
-    "objectID": "hw/1-tidy-data.html",
-    "href": "hw/1-tidy-data.html",
-    "title": "Tidy Data",
-    "section": "",
-    "text": "Due: Sep 02 by 11:59pm\nWeight: This assignment is worth 1% of your final grade.\nPurpose: The purpose of this assignment is to introduce yourself to the “tidy data” concept and to practice modifying data frames between long and wide formats in R.\nAssessment: This assignment is graded using a check system:\n\n✔+ (110%): Responses shows phenomenal thought and engagement with the course content. I will not assign these often.\n✔ (100%): Responses are thoughtful, well-written, and show engagement with the course content. This is the expected level of performance.\n✔− (50%): Responses are hastily composed, too short, and/or only cursorily engages with the course content. This grade signals that you need to improve next time. I will hopefully not assign these often.\n\nNotice that this is essentially a pass/fail system. I’m not grading your writing ability and I’m not counting the number of words you write - I’m looking for thoughtful engagement. One or two sentences is not enough. Write at least a paragraph and show me that you did the readings assigned.\n\n\n1. Software\nIf you haven’t yet, go to the Course Software page and install all the software we’ll need for this course. You’ll need these tools for this assignment.\n\n\n2. Get Organized\nFollow these instructions:\n\nDownload and edit this template.\nUnzip the template folder. Make sure you actually unzip it! (in Windows, right-click it and use “extract all”)\nOpen the .Rproj file to open RStudio.\nInside RStudio, open the hw1.qmd file, take notes, and write some example code as you go through the readings / exercises below.\n\n\n\n3. Readings & Exercises\n\nGetting Familiar with the Course: Follow Snoop’s advice and read the entire Course Syllabus (actually read the whole thing). Then review the schedule and make sure to note important upcoming deadlines.\nGetting Familiar with Tidy Data: Read this tidyverse article explaining the concept of tidy data. In your hw1.qmd, copy some of the examples into a code chunk and run them to see the results of converting data between long and wide formats.\nUse AI to Practice Reshaping Messy Data: Open ChatGPT, Claude, or whatever AI tools you prefer and start a chat to practice the concept of reshaping data into long and wide formats. Ask the AI questions about what it gives you to make sure you understand the concept. Are you certain the AI is giving you good code? Play around with it and see if chatting with the AI is helpful. Include the link to your chat in your submission if you have one. Here is an example prompt (feel free to experiment with other prompts):\n\n\nI'm practicing the concept of tidy data in R. Provide me an example dataset in wide format and then show me R code for how to convert it to long format. Afterwards, do the opposite - show me an example of a dataset in long format and show me R code for how to convert it to wide format.  In each case, explain your reasoning first, then show me the code.\n\n\nOptional\n\nChapter 6 in Hadley Wickham’s R4DS book covers more detail on the concept of tidy data with even more examples. It’s worth reading through for a more comprehensive understanding.\nChapter 3 in the YARDBook also covers tidy data.\nChapter 29 in Hadley Wickham’s R4DS book is a great introduction to Quarto. I highly recommend taking a look through it to get a better understanding of Quarto (we’ll be using it the whole semester!).\n\n\n\n\n4. Reflect\nReflect on what you’ve learned while going through these readings and exercises. Is there anything that jumped out at you? Anything you found particularly interesting or confusing? Write at least a paragraph in your hw1.qmd file, and include at least one question. The teaching team will review the questions we get and will try to answer them either in Slack or in class.\nIf you’re unsure where to start with a reflection, try filling out this template:\n\n“I used to think ______, now I think ______ 🤔”\n\n\n\n5. Submit\nTo submit your assignment, follow these instructions:\n\nRender your .qmd file by either clicking the “Render” button in RStudio or running the command quarto::quarto_render(\"hw1.qmd\") command.\nOpen the rendered html file and make sure it looks good! Is all the formatting as you expected?\nCreate a zip file of all the files in your R project folder for this assignment and submit it on the corresponding assignment submission on Blackboard."
-  },
-  {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "All assignments are due by 11:59pm on the due date.\n\n\n\n\n\nWeek\nDate\nQuiz\nClass\nWeekly HW\nMini Projects\nFinal Projects\n\n\n\n\n1\nAug 28\n\nGetting Started\nClass orientation; workflow; Quarto; importing data; data wrangling & plotting refresher\nHW 1\nDue: Sep 02\n\n\n\n\n2\nSep 04\n\nTidy Data\nTidy data; reshaping data; data provenance; writing a research question\nHW 2\nDue: Sep 09\n\n\n\n\n3\nSep 11\nQuiz 1:\nWeeks 1 - 2\nCleaning Data\nJoins; changing data types; dealing with messy Excel files\nHW 3\nDue: Sep 16\nData Cleaning\nDue: Sep 24\nProposal\nDue: Sep 22\n\n\n4\nSep 18\n\nExploring Data\nData types & scales; centrality & variability; correlation\n\n\n\n\n\n5\nSep 25\nQuiz 2:\nWeek 4\nProject Workshop\nTeam meetings to discuss proposal feedback\nHW 4\nDue: Sep 30\n\n\n\n\n6\nOct 02\n\nVisualizing Information\nPsychology of graphical perception; preattentive attributes; ugly, bad, & wrong charts; chart design best practices\nHW 5\nDue: Oct 07\nExploring Data\nDue: Oct 15\n\n\n\n7\nOct 09\n\nFactors, Amounts, & Proportions\nManipulating factors; plotting amounts with bars, dots, and lollipops; parts of whole\nHW 6\nDue: Oct 14\n\n\n\n\n8\nOct 16\n\nComparisons\nFacets; reference lines; dumbbells; slopes; distributions\nHW 7\nDue: Oct 21\n\nProgress Report\nDue: Oct 27\n\n\n9\nOct 23\nQuiz 3:\nWeeks 7 - 8\nTrends\nLine charts; heat maps; animation\nHW 8\nDue: Oct 28\n\n\n\n\n10\nOct 30\n\nPolishing Charts\nColors; annotations; scales; themes; multi-panel figures\nHW 9\nDue: Nov 04\n\n\n\n\n11\nNov 06\nQuiz 4:\nWeeks 9 - 10\nMaps\nMaps in ggplot; mapping data to maps; projections\nHW 10\nDue: Nov 11\nRe-design\nDue: Nov 19\n\n\n\n12\nNov 13\n\nInteractivity\nPlotly; interactive tables; shiny apps\nHW 11\nDue: Nov 18\n\n\n\n\n13\nNov 20\nQuiz 5:\nWeeks 6 - 12\nIn-Class Project Workshop\nFull day dedicated to making progress towards final analyses\nHW 12\nDue: Dec 02\n\nFinal Report\nDue: Dec 08\n\n\n14\nNov 27\n\nThanksgiving - no class\n\n\n\n\n\n\n15\nDec 04\n\nStory Telling\nTelling stories; slide design; giving a talk\n\n\nPresentation\nDue: Dec 10\n\n\n16\nDec 11\n\nFinal Presentations\nIn-class presentation showcase w/Q&A\n\n\n\n\n\n\n\n\n\n\n\nFinal Interviews will be held virtually December 11-12 (sign up here)",
-    "crumbs": [
-      "Schedule"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "EMSE 4572 / 6572Exploratory Data AnalysisFall 2024",
-    "section": "",
-    "text": "EMSE 4572 / 6572Exploratory Data AnalysisFall 2024\n\n\n\n\n\nDepartment: Engineering Management and Systems Engineering @ GWU\nCredits: 3\nDescription:\nThis course provides students with a foundation in exploring data using the R programming language. Students will learn how to source, manage, transform, and explore a wide variety of data types. Students will also master the fundamental concepts for visualizing and communicating information contained in raw data, including the human psychology of visual information processing. All analyses will be conducted to support reproducibility from raw data to results using Quarto (which is built on the ideas of RMarkdown). Teaching will involve interactive lectures with plenty of class time spent working on examples and coding. Students will be assessed through in-class quizzes, reading reflections, and exploratory projects. Throughout the semester, students will work on a research project of their own design to demonstrate mastery of the course’s topics. At the end of the semester, students will submit a final, reproducible report of their project along with a 10-minute video presentation of their findings.\nLearning Objectives:\nHaving successfully completed this course, students will be able to:\n\nWrite a clear, focused, concise, complex, and arguable research question.\nImport, manipulate, clean, visualize, and export data in R.\nWrangle data from its original format into a fit-for-purpose format.\nConduct a systematic exploratory data analysis (EDA) of different types of data.\nApply fundamental principles of visualizing information for exploratory analysis and communication.\nGet data off the web and expose data, code, results on the web.\nGenerate fully reproducible reports that contain code, equations, visualizations, and narrative text.\n\nPrerequisites:\nStudents should have taken EMSE 4571/6571: Intro to Programming for Analytics or have experience working with data in at least one programming language. If you’re not sure whether you have the necessary prerequisite skills, you can try and get up to speed by completing this optional course primer assignment before class starts. Once class starts, it may be difficult to keep up without this background, and it may be more beneficial to wait and take this course next year after taking Programming for Analytics.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "project/2-progress-report.html",
-    "href": "project/2-progress-report.html",
-    "title": "Progress Report",
-    "section": "",
-    "text": "Due: Oct 27 by 11:59pm\nWeight: This assignment is worth 6% of your final grade.\nPurpose: purpose\nAssessment: Your submission will be assessed using the rubric at the bottom of this page.\nWrite a report summarizing progress you have made towards your project thus far, including summary statistics of your data and preliminary charts. You should have already identified data source(s) for your project and begun exploring the data. Your report should be written in a narrative format (i.e. using coherent paragraphs rather than a series of bullet points). You may use headings where appropriate to break up your report into sections. Below is a list of specific items your progress report should include.",
+    "text": "Due: Sep 22 by 11:59pm\nWeight: This assignment is worth 6% of your final grade.\nPurpose: The purpose of the proposal is to clarify the specific research topic of interest for your team and to ensure that you are headed in a promising direction before spending hours analyzing data for your project.\nAssessment: Your submission will be assessed using the rubric at the bottom of this page.\nWrite a proposal of an exploratory data analysis that you plan to conduct for your final project. The instructors will review and grade your proposal and provide feedback upon returning from spring break. If your proposal is approved, you are done and can move on towards the next project task. In some cases, the instructors may ask you to submit a revised proposal, most likely by focusing / adjusting the proposal scope and / or research question. Below is a list of specific items your proposal should include.",
     "crumbs": [
       "Final Project",
-      "Progress Report"
+      "Proposal"
     ]
   },
   {
-    "objectID": "project/2-progress-report.html#get-organized",
-    "href": "project/2-progress-report.html#get-organized",
-    "title": "Progress Report",
+    "objectID": "project/1-proposal.html#get-organized",
+    "href": "project/1-proposal.html#get-organized",
+    "title": "Project Proposal",
     "section": "1. Get organized",
-    "text": "1. Get organized\nDownload and unzip this template for your proposal report. Open the project.Rproj file and write your progress report in the report.qmd file. The template comes with some text and code explaining how to use it - should should delete this code as it is only for explanatory purposes. Be sure to adjust the content in the YAML:\n\nWrite your project title in the title field (and provide a subtitle if you wish, or delete the subtitle field).\nIn the author field, list the names of all teammates, e.g. author: Luke Skywalker, Leia Organa, and Han Solo.\n\n\nYou should also put the data you are working with for your project in the appropriate folders.",
+    "text": "1. Get organized\nDownload and unzip this template for your proposal report. Open the project.Rproj file and write your proposal in the report.qmd file. The template comes with some text and code explaining how to use it - should should delete this code as it is only for explanatory purposes. Be sure to adjust the content in the YAML:\n\nWrite your project title in the title field (and provide a subtitle if you wish, or delete the subtitle field).\nIn the author field, list the names of all teammates, e.g. author: Luke Skywalker, Leia Organa, and Han Solo.",
     "crumbs": [
       "Final Project",
-      "Progress Report"
+      "Proposal"
     ]
   },
   {
-    "objectID": "project/2-progress-report.html#update-your-research-questions",
-    "href": "project/2-progress-report.html#update-your-research-questions",
-    "title": "Progress Report",
-    "section": "2. Update your research question(s)",
-    "text": "2. Update your research question(s)\nBased on your proposal and the feedback you received, state your topic and revise your research question(s). Again, follow these guidelines.",
+    "objectID": "project/1-proposal.html#identify-a-topic-and-research-questions",
+    "href": "project/1-proposal.html#identify-a-topic-and-research-questions",
+    "title": "Project Proposal",
+    "section": "2. Identify a topic and research question(s)",
+    "text": "2. Identify a topic and research question(s)\nOnce you have identified a topic for your project, write a clear research question that you plan to answer with your analysis. You may choose to have more than one question, or one main question with multiple sub-questions. Follow these guidelines. Your question(s) should be:\n\nClear: it provides enough specifics that your audience can easily understand its purpose without needing additional explanation.\nFocused: it is narrow enough that it can be addressed thoroughly with the data available and within the limits of the final project report.\nConcise: it is expressed in the fewest possible words.\nComplex: it is not answerable with a simple “yes” or “no,” but rather requires synthesis and analysis of data.\nArguable: its potential answers are open to debate rather than accepted facts.\n\n\n\n\n\n\n\nImportant\n\n\n\nBe sure to avoid making causal statments in your research question, such as “how does XX affect YY?” This is a causal question, and causal questions are not appropriate for this course. Instead, we are exploring a topic and looking for patterns in the data. We may find that some things are related, but we cannot say that one thing causes another.\n\n\n\n\n\n\n\n\nNote\n\n\n\nAlternative project ideas: While most teams choose to conduct a analysis and write a report on their findings, there are two other options for your project:\n\nReplication study: While most teams choose a topic with questions that we don’t yet have answers to, it is also very valuable to conduct replication studies of existing research. If you choose to do this, discuss the original research that you aim to replicate, and note that you still have to look up your own data sources and write your own code.\nDashboard project: A written analysis is the typical final project output, but in some contexts a shiny dashboard can be just as valuable. If you choose to do this, discuss the purpose of the dashboard you have in mind and the data that you plan to include in it. You will still be required to write a report, but the report will motivate the dashboard and key takeaways that can be seen in the dashboard.",
     "crumbs": [
       "Final Project",
-      "Progress Report"
+      "Proposal"
     ]
   },
   {
-    "objectID": "project/2-progress-report.html#write-a-revised-introduction",
-    "href": "project/2-progress-report.html#write-a-revised-introduction",
-    "title": "Progress Report",
-    "section": "3. Write a revised introduction",
-    "text": "3. Write a revised introduction\nIntroduce your topic and clearly state your revised research question(s). Motivate why this topic is interesting, important, etc., and motivate the significance of your research question(s). Feel free to use examples, charts, images, etc. to help motivate your points.",
+    "objectID": "project/1-proposal.html#write-an-introduction",
+    "href": "project/1-proposal.html#write-an-introduction",
+    "title": "Project Proposal",
+    "section": "3. Write an introduction",
+    "text": "3. Write an introduction\nIntroduce your topic and clearly state your research question(s). Motivate why this topic is interesting, important, etc., and motivate the significance of your research question(s). Feel free to use examples, charts, images, etc. to help motivate your points.",
     "crumbs": [
       "Final Project",
-      "Progress Report"
+      "Proposal"
     ]
   },
   {
-    "objectID": "project/2-progress-report.html#discuss-your-data-sources",
-    "href": "project/2-progress-report.html#discuss-your-data-sources",
-    "title": "Progress Report",
+    "objectID": "project/1-proposal.html#discuss-your-data-sources",
+    "href": "project/1-proposal.html#discuss-your-data-sources",
+    "title": "Project Proposal",
     "section": "4. Discuss your data sources",
-    "text": "4. Discuss your data sources\nDiscuss the data source(s) you are using for your analysis. For each data source:\n\nDescribe it and include urls or references to the original sources as well as links to any pre-processed or formatted data you are using. These are not always the same. For example, for Mini Project 2, the original source was the Transit Costs Project whereas the data file used was posted on this GitHub repo.\nDiscuss the validity of your data:\n\nIs the data you are using from the original source, or has it been pre-processed?\nHow was the original data collected and by whom?\nAre there perhaps any missing data that might not have been observed?\nCould the data be biased in some way?\n\nFinally, provide a data dictionary for each data file you are using in an appendix at the end of your report. The dictionary should contain a table of each variable name along with a brief description of the variable.",
+    "text": "4. Discuss your data sources\nDiscuss the data source(s) you plan to use for your analysis. Follow these guidelines:\n\nIf you have already identified the source(s), describe them and include urls and / or references to the sources.\nIf you have not identified a source yet, describe the data you hope to use, and give at least one plausible source that may have the data (regardless of whether the source makes it available or not).\nDiscuss the validity of the source(s). For each data source, is the data the original data, or has it been pre-processed by someone else? How was the original data collected and by whom? If you do not yet have a source, discuss what concerns you have about a plausible source that might have the data.",
     "crumbs": [
       "Final Project",
-      "Progress Report"
+      "Proposal"
     ]
   },
   {
-    "objectID": "project/2-progress-report.html#evaluate-your-proposal-expectations",
-    "href": "project/2-progress-report.html#evaluate-your-proposal-expectations",
-    "title": "Progress Report",
-    "section": "5. Evaluate your proposal expectations",
-    "text": "5. Evaluate your proposal expectations\n\nDo you find support for your original proposal expectation about how one variable might be distributed? Show it by looking at summaries of the variable. If that variable doesn’t exist in your data, discuss another key variable instead and how it is distributed.\nDo you find support for the expected relationships you wrote about in your proposal? If those variables don’t exist in your data, discuss one key relationship that you have identified between two or more variables.",
+    "objectID": "project/1-proposal.html#describe-anticipated-results",
+    "href": "project/1-proposal.html#describe-anticipated-results",
+    "title": "Project Proposal",
+    "section": "5. Describe anticipated results",
+    "text": "5. Describe anticipated results\n\nChoose two variables that you expect to find in your data that are relevant to your research question.\nRegardless of whether those variables actually exist, describe how you would expect each to be distributed (e.g. unimodal, multimodel, tightly-group, widely-spread, etc.). For example, you might expect the price of gasoline over a particular period to be rather tightly-grouped around a mean, whereas the stock price of a particular company might vary much more widely over the same period.\nDescribe two relationships you expect to find among variables in your data (again, regardless of whether they actually exist in your data). For example, you might expect sales of hybrid vehicles to increase when gas prices increase; in this case, I am expecting that hybrid vehicle sales and gasoline prices are positively correlated.\nDescribe at least two charts that you expect will help you visualize the relationships that you expect to find. For example, a scatterplot of gasoline prices and hybrid vehicle sales over a particular time period might be useful for visualizing the level of correlation between these two variables.\nDiscuss how your expectations about the variables you chose will help inform you about your research question.",
     "crumbs": [
       "Final Project",
-      "Progress Report"
+      "Proposal"
     ]
   },
   {
-    "objectID": "project/2-progress-report.html#include-at-least-two-preliminary-charts",
-    "href": "project/2-progress-report.html#include-at-least-two-preliminary-charts",
-    "title": "Progress Report",
-    "section": "6. Include at least two preliminary charts",
-    "text": "6. Include at least two preliminary charts\n\nYour charts should either support or oppose your research question(s), or they should illustrate what else you might need to address your research question.\nThe preliminary charts must be different in nature. For example, it would not be appropriate to make two bar charts that are otherwise the same except for having a different y axis.\nYou may choose whatever chart types you wish, but your choices should highlight the point you want to make or should clearly show the relationship you want to emphasize. Consider these resources when choosing your charts.\nYour charts cannot be simple counts summarizing just one variable in your data. You should specify what relationship you are looking for in your charts and whether or not you see evidence of that relationship.\nYour charts should follow the design principles we have covered in class. They do not have to be fully “polished” yet, but at a minimum they should be accurate (i.e. not misleading) and they should not include distracting non-data ink.",
+    "objectID": "project/1-proposal.html#attribution",
+    "href": "project/1-proposal.html#attribution",
+    "title": "Project Proposal",
+    "section": "6. Attribution",
+    "text": "6. Attribution\nInclude a short description of the specific contributions of each team member in your team. Here is an example:\n\n\nStudent A wrote the initial proposal draft.\nStudent B identified data sources.\nStudent C helped organize project files and edited the final draft of the proposal.\n\n\nIf all members contributed equally, you can just put the single sentence “All members contributed equally”.\nTeam members who do not make meaningful contributions to their projects will not receive the same grade as that of their team mates. If you are having any issues or disputes among team members, please contact Professor Helveston ASAP so we can find a resolution.",
     "crumbs": [
       "Final Project",
-      "Progress Report"
+      "Proposal"
     ]
   },
   {
-    "objectID": "project/2-progress-report.html#attribution",
-    "href": "project/2-progress-report.html#attribution",
-    "title": "Progress Report",
+    "objectID": "project/1-proposal.html#render-and-submit",
+    "href": "project/1-proposal.html#render-and-submit",
+    "title": "Project Proposal",
+    "section": "7. Render and submit",
+    "text": "7. Render and submit\nClick the “Render” button to compile your .qmd file into a html web page. Then open the report.html file in a web browser and proofread your report.\nDoes all of the formatting look correct? Make sure there are no errors in the rendered file before submitting it.\nOnce you’ve proofread your report, create a zip file of all the files in your R project folder for this assignment and submit it on the corresponding assignment submission on Blackboard.\nOnly one person from your team should submit.",
+    "crumbs": [
+      "Final Project",
+      "Proposal"
+    ]
+  },
+  {
+    "objectID": "project/1-proposal.html#grading-rubric",
+    "href": "project/1-proposal.html#grading-rubric",
+    "title": "Project Proposal",
+    "section": "Grading Rubric",
+    "text": "Grading Rubric\n\n40 Total Points\n\n\n\n\n\nCategory\nExcellent\nGood\nNeeds work\n\n\n\n\nOrganization & Formatting\n5\nAll formatting guidelines are followed; YAML is correct with all team members listed.\n4\nMost formatting guidelines are followed; YAML is correct with all team members listed.\n3\nSeveral or all formatting guidelines not followed; YAML contains elements that aren't updated from the template.\n\n\nResearch Question\n10 / 9\nResearch question is clear, focused, concise, complex, and arguable.\n8 / 7 / 6\nResearch question is reasonably clear and focused, but may be too simple, too complex, or too verbose.\n5 / 4 / 3\nResearch question is unclear and lacks focus; question is far too simple or overly complex.\n\n\nData Sources\n10 / 9\nData sources or plausible data sources are clearly described; validity of and concerns about data are discussed.\n8 / 7 / 6\nIdentified data sources or plausible data sources are not clearly described; validity of and concerns about data are minimally discussed.\n5 / 4 / 3\nData sources are poorly described or missing; description of validity of and concerns about data are poor or missing.\n\n\nAnticipated Results\n10 / 9\nDetailed description of: 1) two variables and their expected distribution; 2) two expected relationships; 3) two charts that help visualize expected relationships; and 4) how chosen variables will inform research questions.\n8 / 7 / 6\nDetailed description of only one expected variable, relationship, or chart; minimal description of two expected variables, relationships, or charts; minimal description of links between variables and research question.\n5 / 4 / 3\nPoor or missing descriptions of variables, relationships, or charts; poor or missing description between variables and research question.\n\n\nTechnical things\n5\nAll code runs without errors; all files included in the submitted .zip file.\n4\nCode has only one or two error, otherwise runs; all files included in the submitted .zip file.\n3\nCode has multiple errors; submitted .zip file is missing components necessary to reproduce analysis.",
+    "crumbs": [
+      "Final Project",
+      "Proposal"
+    ]
+  },
+  {
+    "objectID": "project/3-final-report.html",
+    "href": "project/3-final-report.html",
+    "title": "Final Report",
+    "section": "",
+    "text": "Due: Dec 08 by 11:59pm\nWeight: This assignment is worth 15% of your final grade.\nPurpose: purpose\nAssessment: Your submission will be assessed using the rubric at the bottom of this page.\nYour final report should be a fully reproducible html webpage. It should include text, data, code, and plots. Your report should be written in a narrative format (i.e. using coherent paragraphs rather than a series of bullet points). You may use headings where appropriate to break up your report into sections. There is no length requirement - your report should be sufficiently detailed to address the requirements listed below and sufficiently concise such that it is expressed in the fewest necessary words. It is also perfectly acceptable for large portions of your final report to be identical to sections in your progress report, albeit all results should be “polished” and publication ready. Below is a list of specific items your report should include.",
+    "crumbs": [
+      "Final Project",
+      "Final Report"
+    ]
+  },
+  {
+    "objectID": "project/3-final-report.html#get-organized",
+    "href": "project/3-final-report.html#get-organized",
+    "title": "Final Report",
+    "section": "1. Get organized",
+    "text": "1. Get organized\n\nDownload and unzip this template for your proposal report. Open the project.Rproj file and write your progress report in the report.qmd file. The template comes with some text and code explaining how to use it - you should delete the template code and text as it is only for explanatory purposes. Be sure to adjust the content in the YAML:\n\nWrite your project title in the title field (and provide a subtitle if you wish, or delete the subtitle field).\nIn the author field, list the names of all teammates, e.g. author: Luke Skywalker, Leia Organa, and Han Solo.\n\nPut the data you are working with for your project in the appropriate folders. Even if you are reading in data directly from a website (e.g. data &lt;- read_csv(\"www.somewhere.com/data.csv)), be sure to download a local copy of the data and put it in the appropriate data folder.\nAt the bottom of your report, add an Appendix section that includes data dictionaries for the key data sets used in your analysis as well as a copy of all of the code used in your report, which can be automatically generated with a single chunk like this:\n\n```{r ref.label=knitr::all_labels()}\n#| echo: true\n#| eval: false\n```",
+    "crumbs": [
+      "Final Project",
+      "Final Report"
+    ]
+  },
+  {
+    "objectID": "project/3-final-report.html#introduction",
+    "href": "project/3-final-report.html#introduction",
+    "title": "Final Report",
+    "section": "2. Introduction",
+    "text": "2. Introduction\nWrite an introduction section to describe the topic of your project to a general audience. Address a motivation for why the research question(s) you address in your project are interesting or important (why should the reader care about this?), and summarize key findings from your analyses.",
+    "crumbs": [
+      "Final Project",
+      "Final Report"
+    ]
+  },
+  {
+    "objectID": "project/3-final-report.html#state-your-research-questions",
+    "href": "project/3-final-report.html#state-your-research-questions",
+    "title": "Final Report",
+    "section": "3. State your research question(s)",
+    "text": "3. State your research question(s)\nClearly state your research question(s). You may want to write one more general question and then list several sub-questions that address more specific points. You should follow these guidelines.",
+    "crumbs": [
+      "Final Project",
+      "Final Report"
+    ]
+  },
+  {
+    "objectID": "project/3-final-report.html#discuss-your-data-sources",
+    "href": "project/3-final-report.html#discuss-your-data-sources",
+    "title": "Final Report",
+    "section": "4. Discuss your data sources",
+    "text": "4. Discuss your data sources\nDiscuss the data source(s) you are using for your analysis. For each data source:\n\nDescribe it and include urls or references to the original sources as well as links to any pre-processed or formatted data you are using. These are not always the same. For example, in the Mini Project 1 assignment, the original source was the Transit Costs Project whereas the data file used was posted on this GitHub repo.\nDiscuss details about how/when/where/why the data were collected. Do not make statements about whether you feel the data is “valid” but rather describe as much detail as you can about the data and let the readers make that assessment for themselves. Be sure to include:\n\nIs the data you are using from the original source, or has it been pre-processed?\nHow was the original data collected and by whom?\nAre there perhaps any missing data that might not have been observed?\nAre there any potential biases in the data?\n\nFinally, provide a data dictionary for each data file you are using in an appendix at the end of your report. The dictionary should contain a table of each variable name along with a brief description of the variable.",
+    "crumbs": [
+      "Final Project",
+      "Final Report"
+    ]
+  },
+  {
+    "objectID": "project/3-final-report.html#describe-your-results-with-text-and-charts",
+    "href": "project/3-final-report.html#describe-your-results-with-text-and-charts",
+    "title": "Final Report",
+    "section": "5. Describe your results with text and charts",
+    "text": "5. Describe your results with text and charts\n\nYour analysis must include at least three polished charts / animations, though you can of course include more. Alternatively, you can build an interactive shiny app with at least two dynamic charts. If you build a shiny app, include a link to your app and screenshots of key charts from your app in your final report.\nDisplay polished charts that either support or oppose your research question(s) or illustrate what else you might need to address your research question(s). It’s possible that your data / analyses only lead to another, more detailed question that you’re unable to fully address with the data you have - that’s okay! But we can still learn something along the way.\nYour charts should be “polished” with appropriate labels / annotations and follow the design principles we have covered in class.\nThe chart types used should highlight the main point(s) you want to make or clearly show the relationship you want to emphasize. That is, make sure to use chart types that effectively communicate key insights.\nAround your charts, write narrative text explaining what the chart shows and its significance towards addressing your research question(s). This should read as a continuous story rather than as a reply to each of the requirements described here.",
+    "crumbs": [
+      "Final Project",
+      "Final Report"
+    ]
+  },
+  {
+    "objectID": "project/3-final-report.html#conclusions",
+    "href": "project/3-final-report.html#conclusions",
+    "title": "Final Report",
+    "section": "6. Conclusions",
+    "text": "6. Conclusions\nSummarize in a paragraph or two your main findings from your analysis. What have we learned, and what else could we do next to go further on this topic? Are there other data sources that would really help extend your analyses?",
+    "crumbs": [
+      "Final Project",
+      "Final Report"
+    ]
+  },
+  {
+    "objectID": "project/3-final-report.html#attribution",
+    "href": "project/3-final-report.html#attribution",
+    "title": "Final Report",
     "section": "7. Attribution",
-    "text": "7. Attribution\nInclude a short description of the specific contributions of each team member in your team. If all members contributed equally, you can just put the single sentence “All members contributed equally”.\nTeam members who do not make meaningful contributions to their projects will not receive the same grade as that of their team mates. If you are having any issues or disputes among team members, please contact Professor Helveston ASAP so we can find a resolution.",
+    "text": "7. Attribution\nInclude a short description of the specific contributions of each team member in your team. If all members contributed equally, you can just put the single sentence “All members contributed equally”. Team members who do not make meaningful contributions to their projects will not receive the same grade as that of their team mates.",
     "crumbs": [
       "Final Project",
-      "Progress Report"
+      "Final Report"
     ]
   },
   {
-    "objectID": "project/2-progress-report.html#render-and-submit",
-    "href": "project/2-progress-report.html#render-and-submit",
-    "title": "Progress Report",
+    "objectID": "project/3-final-report.html#render-and-submit",
+    "href": "project/3-final-report.html#render-and-submit",
+    "title": "Final Report",
     "section": "8. Render and submit",
     "text": "8. Render and submit\nClick the “Render” button to compile your .qmd file into a html web page. Then open the report.html file in a web browser and proofread your report.\nDoes all of the formatting look correct? Make sure there are no errors in the rendered file before submitting it.\nOnce you’ve proofread your report, create a zip file of all the files in your R project folder for this assignment and submit it on the corresponding assignment submission on Blackboard.\nOnly one person from your team should submit.",
     "crumbs": [
       "Final Project",
-      "Progress Report"
+      "Final Report"
     ]
   },
   {
-    "objectID": "project/2-progress-report.html#grading-rubric",
-    "href": "project/2-progress-report.html#grading-rubric",
-    "title": "Progress Report",
+    "objectID": "project/3-final-report.html#grading-rubric",
+    "href": "project/3-final-report.html#grading-rubric",
+    "title": "Final Report",
     "section": "Grading Rubric",
-    "text": "Grading Rubric\n\n60 Total Points\n\n\n\n\n\nCategory\nExcellent\nGood\nNeeds work\n\n\n\n\nOrganization & Formatting\n5\nAll formatting guidelines are followed; YAML is correct with all team members listed.\n4\nMost formatting guidelines are followed; YAML is correct with all team members listed.\n3\nSeveral or all formatting guidelines not followed; YAML contains elements that aren't updated from the template.\n\n\nResearch Question\n10 / 9\nResearch question is clear, focused, concise, complex, and arguable.\n8 / 7 / 6\nResearch question is reasonably clear and focused, but may be too simple, too complex, or too verbose.\n5 / 4 / 3\nResearch question is unclear and lacks focus; question is far too simple or overly complex.\n\n\nData Sources\n10 / 9\nData sources or plausible data sources are clearly described; validity of and concerns about data are discussed.\n8 / 7 / 6\nIdentified data sources or plausible data sources are not clearly described; validity of and concerns about data are minimally discussed.\n5 / 4 / 3\nData sources are poorly described or missing; description of validity of and concerns about data are poor or missing.\n\n\nEvaluation of Expectations\n10 / 9\nClear discussion of whether or not proposal expectations about variables and relationships were met; evidence from data provided to support discussion.\n8 / 7 / 6\nDescription of only one expected variable, relationship, or chart, or minimal description of two; minimal evidence from data provided to support discussion.\n5 / 4 / 3\nPoor or missing description of variables, relationships, or charts; poor or missing evidence to support discussion.\n\n\nData Visualization 1\n10 / 9\nChart clearly communicates key message; Chart is an appropriate choice for showing the relationship / comparison; Design elements are clear and not confusing / misleading; Chart is functionally accurate and generally easy to understand; Annotations (if used) are appropriate; Chart addresses the research question posed.\n8 / 7 / 6\nChart communicates key message; Chart is generally appropriate for showing the relationship / comparison; Some design elements are distracting or confusing / misleading; Chart is functionally accurate; Annotations (if used) are appropriate; Chart mildly addresses research question.\n5 / 4 / 3\nKey message of chart is unclear; Chart is inappropriate for showing the relationship / comparison; Design elements are distracting or confusing / misleading; Chart is functionally inaccurate; Annotations are not used; Chart is unrelated to research question.\n\n\nData Visualization 2\n10 / 9\nChart clearly communicates key message; Chart is an appropriate choice for showing the relationship / comparison; Design elements are clear and not confusing / misleading; Chart is functionally accurate and generally easy to understand; Annotations (if used) are appropriate; Chart addresses the research question posed.\n8 / 7 / 6\nChart communicates key message; Chart is generally appropriate for showing the relationship / comparison; Some design elements are distracting or confusing / misleading; Chart is functionally accurate; Annotations (if used) are appropriate; Chart mildly addresses research question.\n5 / 4 / 3\nKey message of chart is unclear; Chart is inappropriate for showing the relationship / comparison; Design elements are distracting or confusing / misleading; Chart is functionally inaccurate; Annotations are not used; Chart is unrelated to research question.\n\n\nTechnical things\n5\nAll code runs without errors; all files included in the submitted .zip file.\n4\nCode has only one or two error, otherwise runs; all files included in the submitted .zip file.\n3\nCode has multiple errors; submitted .zip file is missing components necessary to reproduce analysis.",
+    "text": "Grading Rubric\n\n70 Total Points\n\n\n\n\n\nCategory\nExcellent\nGood\nNeeds work\n\n\n\n\nOrganization & Formatting\n5\nAll formatting guidelines are followed; YAML is correct with all team members listed.\n4\nMost formatting guidelines are followed; YAML is correct with all team members listed.\n3 / 2\nSeveral or all formatting guidelines not followed; YAML contains elements that aren't updated from the template.\n\n\nResearch Question\n5\nResearch question is clear, focused, concise, complex, and arguable.\n4\nResearch question is reasonably clear and focused, but may be too simple, too complex, or too verbose.\n3 / 2\nResearch question is unclear and lacks focus; question is far too simple or overly complex.\n\n\nData Sources\n5\nData sources are clearly described with valid urls or citations used; validity of and concerns about data are discussed; data dictionaries included in appendix.\n4\nSome data sources are not clearly described or urls / citations are missnig; validity of and concerns about data are minimally discussed; data dictionaries are in appendix.\n3 / 2\nData sources are poorly described or missing; description of validity of and concerns about data are poor or missing; no data dictionaries provided.\n\n\nOverall Analysis\n18 - 20\nAnalysis and exploration of data conducted to address research questions; narrative text effectively used to describe analysis and results; overall analysis tells a coherent story addressing research question.\n15 - 17\nAnalysis and exploration of data conducted mostly addresses research questions; text used to describe analysis and results, but writing quality is poor or not in a narrative format; overall analysis not fully coherent in addressing research question.\n10 - 14\nAnalysis and exploration of data conducted does not address research questions; text poorly used or missing to describe analysis and results; overall analysis not coherent in addressing research question.\n\n\nVisualizations\n27 - 30\nCharts expertly demonstrate best practices of visual design; charts are functionally accurate and address research questions; appropriate chart types used for conveying key messages; annotations are appropriate; minimum of 3 charts met.\n22 - 26\nCharts generally demonstrate best practices of visual design; some elements are distracting or confusing; some annotations missing, incomplete, or inaccurate; minimum of 3 charts not met.\n15 - 21\nCharts generally lack best practices of visual design; multiple confusing or unclear / distracting elements; unrelated to research question; minimum of 3 charts notmet.\n\n\nTechnical Things\n5\nAll code runs without errors; all files included in the submitted .zip file; report is published on RPubs.\n4\nCode has only one or two error, otherwise runs; all files included in the submitted .zip file; or report is not published on RPubs\n3 / 2\nCode has multiple errors; submitted .zip file is missing components necessary to reproduce analysis; report not published on RPubs.",
     "crumbs": [
       "Final Project",
-      "Progress Report"
+      "Final Report"
     ]
   },
   {
-    "objectID": "project/4-presentation.html",
-    "href": "project/4-presentation.html",
-    "title": "Final Presentation",
+    "objectID": "mini/1-data-cleaning.html",
+    "href": "mini/1-data-cleaning.html",
+    "title": "Mini Project 1: Data Cleaning",
     "section": "",
-    "text": "Due: Dec 10 by 11:59pm\nWeight: This assignment is worth 6% of your final grade.\nPurpose: purpose\nAssessment: Your submission will be assessed using the rubric at the bottom of this page.\nMake a slideshow presentation of your findings in your final report. You may do one of the following:\nWe will watch all the presentations together during the period scheduled for the exam (December 13, 2023).\nBelow is a list of specific items your presentation should include.",
+    "text": "Due: Sep 24 by 11:59pm\nWeight: This assignment is worth 10% of your final grade.\nPurpose: When you start looking for data to address your project for this course, you will inevitably come across some rather messy data. Fear not! After completing this assignment, you will be well-prepared to tackle the messiness of real-world data! This assignment will put your data wrangling and cleaning skills to the test and will challenge you to become a master data janitor!\nAssessment: Your submission will be assessed using the rubric at the bottom of this page.\nYour mission, should you choose to accept it, is to clean up a relatively messy data file that contains sales of passenger cars by country between 2019 and 2023. The data are from the International Organization of Motor Vehicle Manufacturers (OICA). Your final product should be a tidy (long format) data frame with three columns: country, year, and sales. It should look like this:\nhead(df)\n\n#&gt; # A tibble: 6 × 3\n#&gt;   country    year   sales\n#&gt;   &lt;chr&gt;     &lt;dbl&gt;   &lt;dbl&gt;\n#&gt; 1 Argentina  2019  333183\n#&gt; 2 Australia  2019  799263\n#&gt; 3 Austria    2019  320381\n#&gt; 4 Belgium    2019  550008\n#&gt; 5 Brazil     2019 2262073\n#&gt; 6 Bulgaria   2019   35371\nThat’s the goal - in this assignment, we’ll walk through how to get there step-by-step.",
     "crumbs": [
-      "Final Project",
-      "Final Presentation"
+      "Mini Projects",
+      "1: Data Cleaning"
     ]
   },
   {
-    "objectID": "project/4-presentation.html#format",
-    "href": "project/4-presentation.html#format",
-    "title": "Final Presentation",
-    "section": "1. Format",
-    "text": "1. Format\n\nYour presentation should be no longer than 10 minutes in length (it can be shorter though).\nEach team member must present at least one slide.\nYou may use as many slides as you feel helps you communicate your ideas, but keep the 10 minute limit in mind (1-2 slides / min is a good guideline).\nYour title slide should include the project title, team member names, and the presentation date.\nAll slides should be numbered in the bottom-left or bottom-right corners.",
+    "objectID": "mini/1-data-cleaning.html#get-organized",
+    "href": "mini/1-data-cleaning.html#get-organized",
+    "title": "Mini Project 1: Data Cleaning",
+    "section": "1. Get organized",
+    "text": "1. Get organized\nDownload and unzip this template for your project, then open the report.Rproj file.\nOnce RStudio opens, click on the report.qmd file. That is the primary file you will edit to conduct your analysis.",
     "crumbs": [
-      "Final Project",
-      "Final Presentation"
+      "Mini Projects",
+      "1: Data Cleaning"
     ]
   },
   {
-    "objectID": "project/4-presentation.html#recording-strategies",
-    "href": "project/4-presentation.html#recording-strategies",
-    "title": "Final Presentation",
-    "section": "2. Recording strategies",
-    "text": "2. Recording strategies\nIf you choose to record your presentation, I recommend using Zoom. Have someone share their screen showing the slides and talk over the slides while recording the call.\nAnother option is to use a screen recording program, such as Quicktime (mac only), to record a screen recording on someone talking over the slides, though this may be challenging if not all teammates can be in the same room.",
+    "objectID": "mini/1-data-cleaning.html#document-the-data",
+    "href": "mini/1-data-cleaning.html#document-the-data",
+    "title": "Mini Project 1: Data Cleaning",
+    "section": "2. Document the data",
+    "text": "2. Document the data\nInside the data folder, there is a README.md file with some missing information. Click on that file and edit it to fill in the missing information. Here is some info that will help:\nThe main data file we’ll be working with is the pc_sales_2023.xlsx file in the data folder. You can find this file online at https://www.oica.net/category/sales-statistics/. The link to the original data file can be found by right-clicking on the Excel icon on the right side of the page, like this:",
     "crumbs": [
-      "Final Project",
-      "Final Presentation"
+      "Mini Projects",
+      "1: Data Cleaning"
     ]
   },
   {
-    "objectID": "project/4-presentation.html#content",
-    "href": "project/4-presentation.html#content",
-    "title": "Final Presentation",
-    "section": "3. Content",
-    "text": "3. Content\nYour slides do not need to include the detailed code used to conduct your analysis - that should be accessible from your report. Rather, the purpose of your presentation is to present the “big picture” overview of your project. You should discuss:\n\nWhat you studied and why it matters (i.e. your research question).\nWhat data you used (describe your sources)\nWhat you found (show polished charts, discuss key results).\nAny conclusions or new hypotheses you learned from your analyses.",
+    "objectID": "mini/1-data-cleaning.html#preview-the-data",
+    "href": "mini/1-data-cleaning.html#preview-the-data",
+    "title": "Mini Project 1: Data Cleaning",
+    "section": "3. Preview the data",
+    "text": "3. Preview the data\nWith messy Excel files, it is often helpful to first open and view them so you can learn about what might be needed to clean them up in R, such as how many lines you may need to skip at the top when reading in the data. To make sure Excel doesn’t corrupt your data, make a copy of the Excel file and open that copy with Microsoft Excel. You can keep that copy open throughout your data cleaning journey and can be confident that you haven’t corrupted the original file!",
     "crumbs": [
-      "Final Project",
-      "Final Presentation"
+      "Mini Projects",
+      "1: Data Cleaning"
     ]
   },
   {
-    "objectID": "project/4-presentation.html#publish",
-    "href": "project/4-presentation.html#publish",
-    "title": "Final Presentation",
-    "section": "4. Publish",
-    "text": "4. Publish\nIf you recorded a video, publish your video recording on the web (e.g. via Youtube, Vimeo, etc.), then send a link to the published video in a DM to Professor Helveston on slack.\nOnly one team member needs to publish the video.",
+    "objectID": "mini/1-data-cleaning.html#load-the-data",
+    "href": "mini/1-data-cleaning.html#load-the-data",
+    "title": "Mini Project 1: Data Cleaning",
+    "section": "4. Load the data",
+    "text": "4. Load the data\nUse read_excel() from the readxl package to read in the pc_sales_2023.xlsx data file.",
     "crumbs": [
-      "Final Project",
-      "Final Presentation"
+      "Mini Projects",
+      "1: Data Cleaning"
     ]
   },
   {
-    "objectID": "project/4-presentation.html#submit",
-    "href": "project/4-presentation.html#submit",
-    "title": "Final Presentation",
-    "section": "5. Submit",
-    "text": "5. Submit\nCreate a zip file of your slides as a pdf / pptx / qmd (whatever you used to make your slides) and submit it on the corresponding assignment submission on Blackboard. Only one person from your team should submit.",
+    "objectID": "mini/1-data-cleaning.html#clean-the-names",
+    "href": "mini/1-data-cleaning.html#clean-the-names",
+    "title": "Mini Project 1: Data Cleaning",
+    "section": "5. Clean the names",
+    "text": "5. Clean the names\nWhen reading in a messy data file, one of the first things you’ll want to do is clean up the names. Try using clean_names() from the janitor package to clean all the names and use rename to rename a country column.",
     "crumbs": [
-      "Final Project",
-      "Final Presentation"
+      "Mini Projects",
+      "1: Data Cleaning"
     ]
   },
   {
-    "objectID": "project/4-presentation.html#grading-rubric",
-    "href": "project/4-presentation.html#grading-rubric",
-    "title": "Final Presentation",
+    "objectID": "mini/1-data-cleaning.html#reshape-the-data",
+    "href": "mini/1-data-cleaning.html#reshape-the-data",
+    "title": "Mini Project 1: Data Cleaning",
+    "section": "6. Reshape the data",
+    "text": "6. Reshape the data\nConvert the data into a long format.",
+    "crumbs": [
+      "Mini Projects",
+      "1: Data Cleaning"
+    ]
+  },
+  {
+    "objectID": "mini/1-data-cleaning.html#convert-year-to-a-number",
+    "href": "mini/1-data-cleaning.html#convert-year-to-a-number",
+    "title": "Mini Project 1: Data Cleaning",
+    "section": "7. Convert year to a number",
+    "text": "7. Convert year to a number\nThe values under the year column are characters with values like q1_q4_2019 in it. Get rid of those pesky q1_q4_ things and just keep the year values as a number.",
+    "crumbs": [
+      "Mini Projects",
+      "1: Data Cleaning"
+    ]
+  },
+  {
+    "objectID": "mini/1-data-cleaning.html#drop-rows-that-arent-countries",
+    "href": "mini/1-data-cleaning.html#drop-rows-that-arent-countries",
+    "title": "Mini Project 1: Data Cleaning",
+    "section": "8. Drop rows that aren’t countries",
+    "text": "8. Drop rows that aren’t countries\nThe country column contains a mix of countries and regions (e.g. \"EUROPE\"). We only want countries, so we need to use filter() to drop rows that contain regions. One way to do this is to define a regions vector and then use it to filter out rows that contain those regions (and anything else that isn’t a country). You’ll be hand-coding the regions, but there isn’t a really better way.\nWhen finished filtering out the regions, convert the country values from “upper” case to “title” case (e.g. \"FRANCE\" should become \"France\").",
+    "crumbs": [
+      "Mini Projects",
+      "1: Data Cleaning"
+    ]
+  },
+  {
+    "objectID": "mini/1-data-cleaning.html#rearrange-the-rows",
+    "href": "mini/1-data-cleaning.html#rearrange-the-rows",
+    "title": "Mini Project 1: Data Cleaning",
+    "section": "9. Rearrange the rows",
+    "text": "9. Rearrange the rows\nUse the arrange() function to sort the rows by year and country.",
+    "crumbs": [
+      "Mini Projects",
+      "1: Data Cleaning"
+    ]
+  },
+  {
+    "objectID": "mini/1-data-cleaning.html#save-the-cleaned-file",
+    "href": "mini/1-data-cleaning.html#save-the-cleaned-file",
+    "title": "Mini Project 1: Data Cleaning",
+    "section": "10. Save the cleaned file",
+    "text": "10. Save the cleaned file\nSave your cleaned data frame to your data folder as a CSV file. Name the file my_clean_data.csv.",
+    "crumbs": [
+      "Mini Projects",
+      "1: Data Cleaning"
+    ]
+  },
+  {
+    "objectID": "mini/1-data-cleaning.html#render-and-submit",
+    "href": "mini/1-data-cleaning.html#render-and-submit",
+    "title": "Mini Project 1: Data Cleaning",
+    "section": "11. Render and submit",
+    "text": "11. Render and submit\nClick the “Render” button to compile your .qmd file into a html web page. Then open the report.html file in a web browser and proofread your report.\nDoes all of the formatting look correct? Make sure there are no errors in the rendered file before submitting it.\nOnce you’ve proofread your report, create a zip file of all the files in your R project folder for this assignment and submit it on the corresponding assignment submission on Blackboard.",
+    "crumbs": [
+      "Mini Projects",
+      "1: Data Cleaning"
+    ]
+  },
+  {
+    "objectID": "mini/1-data-cleaning.html#bonus-make-a-summary-visualization-5",
+    "href": "mini/1-data-cleaning.html#bonus-make-a-summary-visualization-5",
+    "title": "Mini Project 1: Data Cleaning",
+    "section": "BONUS: Make a summary visualization (+5%)",
+    "text": "BONUS: Make a summary visualization (+5%)\nFor a 5% bonus, add a code chunk at the bottom of your report to generate the plot below. If your cleaned data is not properly formatted, you can read in the pc_sales_clean.csv file and use it to make the plot.\nSome hints to perfectly replicate the figure:\n\nConsider using ifelse() to make a new variable for the bar color based on the country variable.\nYou can use fct_relevel() to re-order the country factors (the order of how they are stacked).\nThe fill colors are 'grey', 'red', and 'blue'.\nThe theme is theme_minimal().",
+    "crumbs": [
+      "Mini Projects",
+      "1: Data Cleaning"
+    ]
+  },
+  {
+    "objectID": "mini/1-data-cleaning.html#grading-rubric",
+    "href": "mini/1-data-cleaning.html#grading-rubric",
+    "title": "Mini Project 1: Data Cleaning",
     "section": "Grading Rubric",
-    "text": "Grading Rubric\n\n45 Total Points\n\n\n\n\n\nCategory\nExcellent\nGood\nNeeds work\n\n\n\n\nOrganization & Formatting\n5\nAll formatting guidelines are followed.\n4\nMost formatting guidelines are followed.\n3 / 2\nSeveral or all formatting guidelines not followed.\n\n\nResearch Question\n5\nResearch question is clear, focused, concise, complex, and arguable.\n4\nResearch question is reasonably clear and focused, but may be too simple, too complex, or too verbose.\n3 / 2\nResearch question is unclear and lacks focus; question is far too simple or overly complex.\n\n\nData Sources\n5\nData sources are clearly described; validity of and concerns about data are discussed.\n4\nSome data sources are not clearly described or are missing; validity of and concerns about data are minimally discussed.\n3 / 2\nData sources are poorly described or missing; description of validity of and concerns about data are poor or missing.\n\n\nSlide Design\n15 / 14\nSlides are well-designed and well-organized to effectively communicate a coherent story addressing research question.\n13 / 12\nSlides are largely well-designed and well-organized, but some include distracting or confusing elements; story is not fully coherent.\n11 / 10 / 9\nSlides are poorly-designed and organized; frequent use of bullets and lots of text; story is poorly developed and / or does not address research question.\n\n\nCommunication\n15 / 14\nEngaging speaking; all team members participate; research question clearly addressed.\n13 / 12\nSpeaking is somewhat engaging; all team members participate; research question clearly addressed.\n11 / 10 / 9\nSpeaking is not engaging; not all team members participate; research question poorly addressed.",
+    "text": "Grading Rubric\n\n35 Total Points\n\n\n\n\n\nCategory\nExcellent\nGood\nNeeds work\n\n\n\n\nOrganization & Formatting\n5\nAll formatting guidelines are followed; YAML is correctly filled out.\n4\nMost formatting guidelines are followed; YAML is correctly filled out.\n3\nSeveral or all formatting guidelines not followed; YAML contains elements that aren't updated from the template; template file wasn’t used.\n\n\nData Documentation\n5\nThe README file included in the template was updated with thoughtful and accurate information about the data.\n4\nThe README file included in the template was updated, but some of the information was missing or inaccurate.\n3\nThe README file included in the template was not updated, missing, or most of the information in it was inaccurate.\n\n\nData Cleaning\n18 - 20\nAll cleaning steps are completed and the resulting \"clean\" data frame is exactly (or very close to) the desired final state.\n15 - 17\nAll cleaning steps are completed, though there are one or two significant errors that prevents the resulting \"clean\" data frame from being in the desired final state.\n10 - 14\nMore than one of the cleaning steps are missing; multiple errors prevent the resulting \"clean\" data frame from being in the desired final state.\n\n\nTechnical things\n5\nAll code runs without errors; the html file can be compiled from the Rmd; all files included in the submitted .zip file.\n4\nCode has only one or two error, otherwise runs; all files included in the submitted .zip file.\n3\nCode has multiple errors; html file cannot be rendered without significant changes to the Rmd file; submitted .zip file is missing components necessary to reproduce analysis.",
     "crumbs": [
-      "Final Project",
-      "Final Presentation"
+      "Mini Projects",
+      "1: Data Cleaning"
     ]
   }
 ]

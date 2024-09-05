@@ -20,6 +20,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -70,6 +104,8 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
+<script src="../site_libs/kePrint-0.0.1/kePrint.js"></script>
+<link href="../site_libs/lightable-0.0.1/lightable.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="../styles.css">
@@ -306,8 +342,29 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#get-organized" id="toc-get-organized" class="nav-link active" data-scroll-target="#get-organized">1. Get organized</a></li>
+  <li><a href="#document-the-data" id="toc-document-the-data" class="nav-link" data-scroll-target="#document-the-data">2. Document the data</a></li>
+  <li><a href="#preview-the-data" id="toc-preview-the-data" class="nav-link" data-scroll-target="#preview-the-data">3. Preview the data</a></li>
+  <li><a href="#load-the-data" id="toc-load-the-data" class="nav-link" data-scroll-target="#load-the-data">4. Load the data</a></li>
+  <li><a href="#clean-the-names" id="toc-clean-the-names" class="nav-link" data-scroll-target="#clean-the-names">5. Clean the names</a></li>
+  <li><a href="#reshape-the-data" id="toc-reshape-the-data" class="nav-link" data-scroll-target="#reshape-the-data">6. Reshape the data</a></li>
+  <li><a href="#convert-year-to-a-number" id="toc-convert-year-to-a-number" class="nav-link" data-scroll-target="#convert-year-to-a-number">7. Convert <code>year</code> to a number</a></li>
+  <li><a href="#drop-rows-that-arent-countries" id="toc-drop-rows-that-arent-countries" class="nav-link" data-scroll-target="#drop-rows-that-arent-countries">8. Drop rows that aren’t countries</a></li>
+  <li><a href="#rearrange-the-rows" id="toc-rearrange-the-rows" class="nav-link" data-scroll-target="#rearrange-the-rows">9. Rearrange the rows</a></li>
+  <li><a href="#save-the-cleaned-file" id="toc-save-the-cleaned-file" class="nav-link" data-scroll-target="#save-the-cleaned-file">10. Save the cleaned file</a></li>
+  <li><a href="#render-and-submit" id="toc-render-and-submit" class="nav-link" data-scroll-target="#render-and-submit">11. Render and submit</a></li>
+  <li><a href="#bonus-make-a-summary-visualization-5" id="toc-bonus-make-a-summary-visualization-5" class="nav-link" data-scroll-target="#bonus-make-a-summary-visualization-5">BONUS: Make a summary visualization (+5%)</a></li>
+  <li><a href="#grading-rubric" id="toc-grading-rubric" class="nav-link" data-scroll-target="#grading-rubric">Grading Rubric</a>
+  <ul class="collapse">
+  <li><a href="#total-points" id="toc-total-points" class="nav-link" data-scroll-target="#total-points">35 Total Points</a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/emse-eda-gwu/2024-Fall/edit/main/mini/1-data-cleaning.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/emse-eda-gwu/2024-Fall/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -331,9 +388,156 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Coming soon!</p>
+<blockquote class="blockquote">
+<p><strong>Due</strong>: Sep 24 by 11:59pm</p>
+<p><strong>Weight</strong>: This assignment is worth 10% of your final grade.</p>
+<p><strong>Purpose</strong>: When you start looking for data to address your project for this course, you will inevitably come across some rather messy data. Fear not! After completing this assignment, you will be well-prepared to tackle the messiness of real-world data! This assignment will put your data wrangling and cleaning skills to the test and will challenge you to become a master data janitor!</p>
+<p><strong>Assessment</strong>: Your submission will be assessed using the <a href="#grading-rubric">rubric</a> at the bottom of this page.</p>
+</blockquote>
+<p>Your mission, should you choose to accept it, is to clean up a relatively messy data file that contains sales of passenger cars by country between 2019 and 2023. The data are from the <a href="https://www.oica.net/">International Organization of Motor Vehicle Manufacturers (OICA)</a>. Your final product should be a tidy (long format) data frame with three columns: <code>country</code>, <code>year</code>, and <code>sales</code>. It should look like this:</p>
+<div class="cell" data-layout-align="center">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(df)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>#&gt; # A tibble: 6 × 3
+#&gt;   country    year   sales
+#&gt;   &lt;chr&gt;     &lt;dbl&gt;   &lt;dbl&gt;
+#&gt; 1 Argentina  2019  333183
+#&gt; 2 Australia  2019  799263
+#&gt; 3 Austria    2019  320381
+#&gt; 4 Belgium    2019  550008
+#&gt; 5 Brazil     2019 2262073
+#&gt; 6 Bulgaria   2019   35371</code></pre>
+</div>
+</div>
+<p>That’s the goal - in this assignment, we’ll walk through how to get there step-by-step.</p>
+<section id="get-organized" class="level2">
+<h2 class="anchored" data-anchor-id="get-organized">1. Get organized</h2>
+<p>Download and <strong>unzip</strong> <a href="../templates/mini1.zip">this template</a> for your project, then open the <code>report.Rproj</code> file.</p>
+<p>Once RStudio opens, click on the <code>report.qmd</code> file. That is the primary file you will edit to conduct your analysis.</p>
+</section>
+<section id="document-the-data" class="level2">
+<h2 class="anchored" data-anchor-id="document-the-data">2. Document the data</h2>
+<p>Inside the <code>data</code> folder, there is a <code>README.md</code> file with some missing information. Click on that file and edit it to fill in the missing information. Here is some info that will help:</p>
+<p>The main data file we’ll be working with is the <code>pc_sales_2023.xlsx</code> file in the <code>data</code> folder. You can find this file online at <a href="https://www.oica.net/category/sales-statistics/">https://www.oica.net/category/sales-statistics/</a>. The link to the original data file can be found by right-clicking on the Excel icon on the right side of the page, like this:</p>
+<center>
+<img src="images/oica-data-url.png" width="100%">
+</center>
+</section>
+<section id="preview-the-data" class="level2">
+<h2 class="anchored" data-anchor-id="preview-the-data">3. Preview the data</h2>
+<p>With messy Excel files, it is often helpful to first open and view them so you can learn about what might be needed to clean them up in R, such as how many lines you may need to skip at the top when reading in the data. To make sure Excel doesn’t corrupt your data, <strong>make a copy</strong> of the Excel file and open that copy with Microsoft Excel. You can keep that copy open throughout your data cleaning journey and can be confident that you haven’t corrupted the original file!</p>
+</section>
+<section id="load-the-data" class="level2">
+<h2 class="anchored" data-anchor-id="load-the-data">4. Load the data</h2>
+<p>Use <code>read_excel()</code> from the <code>readxl</code> package to read in the <code>pc_sales_2023.xlsx</code> data file.</p>
+</section>
+<section id="clean-the-names" class="level2">
+<h2 class="anchored" data-anchor-id="clean-the-names">5. Clean the names</h2>
+<p>When reading in a messy data file, one of the first things you’ll want to do is clean up the names. Try using <code>clean_names()</code> from the <code>janitor</code> package to clean all the names and use <code>rename</code> to rename a <code>country</code> column.</p>
+</section>
+<section id="reshape-the-data" class="level2">
+<h2 class="anchored" data-anchor-id="reshape-the-data">6. Reshape the data</h2>
+<p>Convert the data into a long format.</p>
+</section>
+<section id="convert-year-to-a-number" class="level2">
+<h2 class="anchored" data-anchor-id="convert-year-to-a-number">7. Convert <code>year</code> to a number</h2>
+<p>The values under the <code>year</code> column are characters with values like <code>q1_q4_2019</code> in it. Get rid of those pesky <code>q1_q4_</code> things and just keep the year values as a number.</p>
+</section>
+<section id="drop-rows-that-arent-countries" class="level2">
+<h2 class="anchored" data-anchor-id="drop-rows-that-arent-countries">8. Drop rows that aren’t countries</h2>
+<p>The <code>country</code> column contains a mix of countries and regions (e.g.&nbsp;<code>"EUROPE"</code>). We only want countries, so we need to use <code>filter()</code> to drop rows that contain regions. One way to do this is to define a <code>regions</code> vector and then use it to filter out rows that contain those regions (and anything else that isn’t a country). You’ll be hand-coding the regions, but there isn’t a really better way.</p>
+<p>When finished filtering out the regions, convert the <code>country</code> values from “upper” case to “title” case (e.g.&nbsp;<code>"FRANCE"</code> should become <code>"France"</code>).</p>
+</section>
+<section id="rearrange-the-rows" class="level2">
+<h2 class="anchored" data-anchor-id="rearrange-the-rows">9. Rearrange the rows</h2>
+<p>Use the <code>arrange()</code> function to sort the rows by year and country.</p>
+</section>
+<section id="save-the-cleaned-file" class="level2">
+<h2 class="anchored" data-anchor-id="save-the-cleaned-file">10. Save the cleaned file</h2>
+<p>Save your cleaned data frame to your <code>data</code> folder as a CSV file. Name the file <code>my_clean_data.csv</code>.</p>
+</section>
+<section id="render-and-submit" class="level2">
+<h2 class="anchored" data-anchor-id="render-and-submit">11. Render and submit</h2>
+<p>Click the “Render” button to compile your <code>.qmd</code> file into a html web page. Then open the <code>report.html</code> file in a web browser and proofread your report.</p>
+<p>Does all of the formatting look correct? <strong>Make sure there are no errors in the rendered file before submitting it.</strong></p>
+<p>Once you’ve proofread your report, create a zip file of all the files in your R project folder for this assignment and submit it on the corresponding assignment submission on Blackboard.</p>
+</section>
+<section id="bonus-make-a-summary-visualization-5" class="level2">
+<h2 class="anchored" data-anchor-id="bonus-make-a-summary-visualization-5">BONUS: Make a summary visualization (+5%)</h2>
+<p>For a 5% bonus, add a code chunk at the bottom of your report to generate the plot below. If your cleaned data is not properly formatted, you can read in the <code>pc_sales_clean.csv</code> file and use it to make the plot.</p>
+<p>Some hints to perfectly replicate the figure:</p>
+<ul>
+<li>Consider using <code>ifelse()</code> to make a new variable for the bar color based on the <code>country</code> variable.</li>
+<li>You can use <code>fct_relevel()</code> to re-order the country factors (the order of how they are stacked).</li>
+<li>The fill colors are <code>'grey'</code>, <code>'red'</code>, and <code>'blue'</code>.</li>
+<li>The theme is <code>theme_minimal()</code>.</li>
+</ul>
+<center>
+<img src="images/barplot.png" width="80%">
+</center>
+</section>
+<section id="grading-rubric" class="level2">
+<h2 class="anchored" data-anchor-id="grading-rubric">Grading Rubric</h2>
+<section id="total-points" class="level3">
+<h3 class="anchored" data-anchor-id="total-points">35 Total Points</h3>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<table class="table table-striped caption-top table-sm small" data-quarto-postprocess="true">
+<thead>
+<tr class="header">
+<th style="text-align: left;" data-quarto-table-cell-role="th">Category</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">Excellent</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">Good</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">Needs work</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Organization &amp; Formatting</td>
+<td style="text-align: left;"><strong>5</strong><br>
+All formatting guidelines are followed; YAML is correctly filled out.</td>
+<td style="text-align: left;"><strong>4</strong><br>
+Most formatting guidelines are followed; YAML is correctly filled out.</td>
+<td style="text-align: left;"><strong>3</strong><br>
+Several or all formatting guidelines not followed; YAML contains elements that aren't updated from the template; template file wasn’t used.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Data Documentation</td>
+<td style="text-align: left;"><strong>5</strong><br>
+The README file included in the template was updated with thoughtful and accurate information about the data.</td>
+<td style="text-align: left;"><strong>4</strong><br>
+The README file included in the template was updated, but some of the information was missing or inaccurate.</td>
+<td style="text-align: left;"><strong>3</strong><br>
+The README file included in the template was not updated, missing, or most of the information in it was inaccurate.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Data Cleaning</td>
+<td style="text-align: left;"><strong>18 - 20</strong><br>
+All cleaning steps are completed and the resulting "clean" data frame is exactly (or very close to) the desired final state.</td>
+<td style="text-align: left;"><strong>15 - 17</strong><br>
+All cleaning steps are completed, though there are one or two significant errors that prevents the resulting "clean" data frame from being in the desired final state.</td>
+<td style="text-align: left;"><strong>10 - 14</strong><br>
+More than one of the cleaning steps are missing; multiple errors prevent the resulting "clean" data frame from being in the desired final state.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Technical things</td>
+<td style="text-align: left;"><strong>5</strong><br>
+All code runs without errors; the html file can be compiled from the Rmd; all files included in the submitted .zip file.</td>
+<td style="text-align: left;"><strong>4</strong><br>
+Code has only one or two error, otherwise runs; all files included in the submitted .zip file.</td>
+<td style="text-align: left;"><strong>3</strong><br>
+Code has multiple errors; html file cannot be rendered without significant changes to the Rmd file; submitted .zip file is missing components necessary to reproduce analysis.</td>
+</tr>
+</tbody>
+</table>
 
 
+</div>
+</div>
+
+
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -773,7 +977,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
  © 2024 John Paul Helveston  <a href="LICENSE.html"><i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i><i class="fab fa-creative-commons-sa"></i></a><br><i class="far fa-calendar-alt"></i> Wednesdays | <i class="far fa-clock"></i> 12:45PM - 3:15PM EST | <a href="https://it.gwu.edu/classroom-search/tompkins-hall-402"><i class="fa fa-map-marker-alt"></i> Tompkins 402</a><br><a href="https://www.jhelvy.com"><i class="fas fa-user"></i> Dr. John Paul Helveston</a> | <a href="mailto:jph@gwu.edu"><i class="fas fa-envelope"></i> jph@gwu.edu</a> | <a href="https://github.com/emse-eda-gwu/2024-Fall"><i class="fab fa-github"></i></a>
   </li>  
 </ul>
-    <div class="toc-actions"><ul><li><a href="https://github.com/emse-eda-gwu/2024-Fall/edit/main/mini/1-data-cleaning.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/emse-eda-gwu/2024-Fall/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/emse-eda-gwu/2024-Fall/edit/main/mini/1-data-cleaning.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/emse-eda-gwu/2024-Fall/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>
