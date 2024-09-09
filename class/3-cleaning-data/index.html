@@ -4,7 +4,7 @@
     <title>Cleaning Data</title>
     <meta charset="utf-8" />
     <meta name="author" content="John Paul Helveston" />
-    <meta name="date" content="2023-09-13" />
+    <meta name="date" content="2024-09-11" />
     <script src="libs/header-attrs/header-attrs.js"></script>
     <link href="libs/remark-css/default.css" rel="stylesheet" />
     <link href="libs/tile-view/tile-view.css" rel="stylesheet" />
@@ -58,13 +58,42 @@ class: middle, inverse
 
 # Week 3: .fancy[Cleaning Data]
 
-### <svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:white;overflow:visible;position:relative;"><path d="M243.4 2.6l-224 96c-14 6-21.8 21-18.7 35.8S16.8 160 32 160v8c0 13.3 10.7 24 24 24H456c13.3 0 24-10.7 24-24v-8c15.2 0 28.3-10.7 31.3-25.6s-4.8-29.9-18.7-35.8l-224-96c-8.1-3.4-17.2-3.4-25.2 0zM128 224H64V420.3c-.6 .3-1.2 .7-1.8 1.1l-48 32c-11.7 7.8-17 22.4-12.9 35.9S17.9 512 32 512H480c14.1 0 26.5-9.2 30.6-22.7s-1.1-28.1-12.9-35.9l-48-32c-.6-.4-1.2-.7-1.8-1.1V224H384V416H344V224H280V416H232V224H168V416H128V224zm128-96c-17.7 0-32-14.3-32-32s14.3-32 32-32s32 14.3 32 32s-14.3 32-32 32z"/></svg> EMSE 4572/6572: Exploratory Data Analysis
-### <svg aria-hidden="true" role="img" viewBox="0 0 448 512" style="height:1em;width:0.88em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:white;overflow:visible;position:relative;"><path d="M272 304h-96C78.8 304 0 382.8 0 480c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32C448 382.8 369.2 304 272 304zM48.99 464C56.89 400.9 110.8 352 176 352h96c65.16 0 119.1 48.95 127 112H48.99zM224 256c70.69 0 128-57.31 128-128c0-70.69-57.31-128-128-128S96 57.31 96 128C96 198.7 153.3 256 224 256zM224 48c44.11 0 80 35.89 80 80c0 44.11-35.89 80-80 80S144 172.1 144 128C144 83.89 179.9 48 224 48z"/></svg> John Paul Helveston
-### <svg aria-hidden="true" role="img" viewBox="0 0 448 512" style="height:1em;width:0.88em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:white;overflow:visible;position:relative;"><path d="M152 64H296V24C296 10.75 306.7 0 320 0C333.3 0 344 10.75 344 24V64H384C419.3 64 448 92.65 448 128V448C448 483.3 419.3 512 384 512H64C28.65 512 0 483.3 0 448V128C0 92.65 28.65 64 64 64H104V24C104 10.75 114.7 0 128 0C141.3 0 152 10.75 152 24V64zM48 448C48 456.8 55.16 464 64 464H384C392.8 464 400 456.8 400 448V192H48V448z"/></svg> September 13, 2023
+### <svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:white;overflow:visible;position:relative;"><path d="M243.4 2.6l-224 96c-14 6-21.8 21-18.7 35.8S16.8 160 32 160v8c0 13.3 10.7 24 24 24H456c13.3 0 24-10.7 24-24v-8c15.2 0 28.3-10.7 31.3-25.6s-4.8-29.9-18.7-35.8l-224-96c-8-3.4-17.2-3.4-25.2 0zM128 224H64V420.3c-.6 .3-1.2 .7-1.8 1.1l-48 32c-11.7 7.8-17 22.4-12.9 35.9S17.9 512 32 512H480c14.1 0 26.5-9.2 30.6-22.7s-1.1-28.1-12.9-35.9l-48-32c-.6-.4-1.2-.7-1.8-1.1V224H384V416H344V224H280V416H232V224H168V416H128V224zM256 64a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/></svg> EMSE 4572/6572: Exploratory Data Analysis
+### <svg aria-hidden="true" role="img" viewBox="0 0 448 512" style="height:1em;width:0.88em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:white;overflow:visible;position:relative;"><path d="M304 128a80 80 0 1 0 -160 0 80 80 0 1 0 160 0zM96 128a128 128 0 1 1 256 0A128 128 0 1 1 96 128zM49.3 464H398.7c-8.9-63.3-63.3-112-129-112H178.3c-65.7 0-120.1 48.7-129 112zM0 482.3C0 383.8 79.8 304 178.3 304h91.4C368.2 304 448 383.8 448 482.3c0 16.4-13.3 29.7-29.7 29.7H29.7C13.3 512 0 498.7 0 482.3z"/></svg> John Paul Helveston
+### <svg aria-hidden="true" role="img" viewBox="0 0 448 512" style="height:1em;width:0.88em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:white;overflow:visible;position:relative;"><path d="M152 24c0-13.3-10.7-24-24-24s-24 10.7-24 24V64H64C28.7 64 0 92.7 0 128v16 48V448c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V192 144 128c0-35.3-28.7-64-64-64H344V24c0-13.3-10.7-24-24-24s-24 10.7-24 24V64H152V24zM48 192H400V448c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192z"/></svg> September 11, 2024
 
 ]
 
 
+
+---
+
+class: inverse
+
+# Quiz 1
+
+<div class="countdown" id="timer_aecacede" data-warn-when="30" data-update-every="1" tabindex="0" style="bottom:0;left:0;font-size:4em;">
+<div class="countdown-controls"><button class="countdown-bump-down">&minus;</button><button class="countdown-bump-up">&plus;</button></div>
+<code class="countdown-time"><span class="countdown-digits minutes">10</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
+</div>
+
+.leftcol[
+
+### Download the template from the #class channel
+
+### Make sure you unzip it!
+
+### When done, submit your `quiz1.qmd` on Blackboard
+
+]
+
+.rightcol[
+
+&lt;center&gt;
+&lt;img src="https://github.com/emse-p4a-gwu/2022-Spring/raw/main/images/quiz_doge.png" width="400"&gt;
+&lt;/center&gt;
+
+]
 
 ---
 
@@ -85,7 +114,7 @@ class: center, middle, inverse
 "Clean" data
 
 
-```r
+``` r
 wildlife_impacts &lt;- read_csv(here::here('data', 'wildlife_impacts.csv'))
 milk_production &lt;- read_csv(here::here('data', 'milk_production.csv'))
 msleep &lt;- read_csv(here::here('data', 'msleep.csv'))
@@ -94,7 +123,7 @@ msleep &lt;- read_csv(here::here('data', 'msleep.csv'))
 "Messy" data
 
 
-```r
+``` r
 wind &lt;- read_excel(here::here('data', 'US_State_Wind_Energy_Facts_2018.xlsx'))
 hot_dogs &lt;- read_excel(here::here('data', 'hot_dog_winners.xlsx'))
 ```
@@ -104,7 +133,7 @@ hot_dogs &lt;- read_excel(here::here('data', 'hot_dog_winners.xlsx'))
 ## Plus two new packages:
 
 
-```r
+``` r
 # For manipulating dates
 install.packages('lubridate')
 
@@ -124,7 +153,7 @@ class: inverse, middle
 ### 2. Are your variables the right _type_?
 ### 3. Are your variables the right _name_?
 
-### QUIZ 1
+### Break
 
 ### 4. Re-coding variables
 ### 5. Dates
@@ -142,7 +171,7 @@ class: inverse, middle
 ### 2. Are your variables the right _type_?
 ### 3. Are your variables the right _name_?
 
-### QUIZ 1
+### Break
 
 ### 4. Re-coding variables
 ### 5. Dates
@@ -172,7 +201,7 @@ class: inverse, middle
 
 
 
-```r
+``` r
 head(names)
 ```
 
@@ -186,7 +215,7 @@ head(names)
 #&gt; 6   Colorado
 ```
 
-```r
+``` r
 head(abbs)
 ```
 
@@ -207,7 +236,7 @@ head(abbs)
 .rightcol[
 
 
-```r
+``` r
 result &lt;- bind_cols(names, abbs)
 head(result)
 ```
@@ -239,7 +268,7 @@ Example: `band_members` &amp; `band_instruments`
 .leftcol[
 
 
-```r
+``` r
 band_members
 ```
 
@@ -257,7 +286,7 @@ band_members
 .rightcol[
 
 
-```r
+``` r
 band_instruments
 ```
 
@@ -279,7 +308,7 @@ band_instruments
 ## `inner_join()`
 
 
-```r
+``` r
 band_members %&gt;%
     inner_join(band_instruments)
 ```
@@ -310,7 +339,7 @@ band_members %&gt;%
 ## `full_join()`
 
 
-```r
+``` r
 band_members %&gt;%
     full_join(band_instruments)
 ```
@@ -343,7 +372,7 @@ band_members %&gt;%
 ## `left_join()`
 
 
-```r
+``` r
 band_members %&gt;%
     left_join(band_instruments)
 ```
@@ -375,7 +404,7 @@ band_members %&gt;%
 ## `right_join()`
 
 
-```r
+``` r
 band_members %&gt;%
     right_join(band_instruments)
 ```
@@ -407,13 +436,13 @@ band_members %&gt;%
 .leftcol[
 
 
-```r
+``` r
 band_members %&gt;%
     left_join(band_instruments)
 ```
 
 ```
-#&gt; Joining, by = "name"
+#&gt; Joining with `by = join_by(name)`
 ```
 
 ```
@@ -430,7 +459,7 @@ band_members %&gt;%
 .rightcol[
 
 
-```r
+``` r
 band_members %&gt;%
     left_join(
         band_instruments,
@@ -458,7 +487,7 @@ If the names differ, use `by = c("left_name" = "joining_name")`
 .leftcol[
 
 
-```r
+``` r
 band_members
 ```
 
@@ -472,7 +501,7 @@ band_members
 ```
 
 
-```r
+``` r
 band_instruments2
 ```
 
@@ -492,7 +521,7 @@ band_instruments2
 .rightcol[
 
 
-```r
+``` r
 band_members %&gt;%
     left_join(
         band_instruments2,
@@ -520,7 +549,7 @@ Or just rename the joining variable in a pipe
 .leftcol[
 
 
-```r
+``` r
 band_members
 ```
 
@@ -534,7 +563,7 @@ band_members
 ```
 
 
-```r
+``` r
 band_instruments2
 ```
 
@@ -552,7 +581,7 @@ band_instruments2
 .rightcol[
 
 
-```r
+``` r
 band_members %&gt;%
 *   rename(artist = name) %&gt;%
     left_join(
@@ -576,7 +605,8 @@ band_members %&gt;%
 
 class: inverse
 
-<div class="countdown" id="timer_65044cb6" style="top:0;right:0;font-size:2em;" data-warnwhen="15">
+<div class="countdown" id="timer_56b0dc9e" data-warn-when="15" data-update-every="1" tabindex="0" style="top:0;right:0;font-size:2em;">
+<div class="countdown-controls"><button class="countdown-bump-down">&minus;</button><button class="countdown-bump-up">&plus;</button></div>
 <code class="countdown-time"><span class="countdown-digits minutes">15</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
 
@@ -593,7 +623,7 @@ Your result should look like this:
 
 
 
-```r
+``` r
 head(state_data)
 ```
 
@@ -620,7 +650,7 @@ head(state_data)
 .code50[
 
 
-```r
+``` r
 glimpse(wildlife_impacts)
 ```
 
@@ -668,7 +698,7 @@ class: inverse, middle
 ### 2. .orange[Are your variables the right _type_?]
 ### 3. Are your variables the right _name_?
 
-### QUIZ 1
+### Break
 
 ### 4. Re-coding variables
 ### 5. Dates
@@ -679,7 +709,7 @@ class: inverse, middle
 ## Always check variable types after reading in data!
 
 
-```r
+``` r
 wind &lt;- read_excel(here::here(
   'data', 'US_State_Wind_Energy_Facts_2018.xlsx'))
 
@@ -707,7 +737,7 @@ glimpse(wind)
 ## .center[`as.numeric()`]
 
 
-```r
+``` r
 as.numeric(c("2.1", "3.7", "4.50"))
 ```
 
@@ -715,7 +745,7 @@ as.numeric(c("2.1", "3.7", "4.50"))
 #&gt; [1] 2.1 3.7 4.5
 ```
 
-```r
+``` r
 as.numeric(c("$2.1", "$3.7", "$4.50"))
 ```
 
@@ -732,7 +762,7 @@ as.numeric(c("$2.1", "$3.7", "$4.50"))
 ## .center[`parse_number()`]
 
 
-```r
+``` r
 parse_number(c("2.1", "3.7", "4.50"))
 ```
 
@@ -740,7 +770,7 @@ parse_number(c("2.1", "3.7", "4.50"))
 #&gt; [1] 2.1 3.7 4.5
 ```
 
-```r
+``` r
 parse_number(c("$2.1", "$3.7", "$4.50"))
 ```
 
@@ -748,7 +778,7 @@ parse_number(c("$2.1", "$3.7", "$4.50"))
 #&gt; [1] 2.1 3.7 4.5
 ```
 
-```r
+``` r
 parse_number(c("1-800-123-4567"))
 ```
 
@@ -760,10 +790,8 @@ parse_number(c("1-800-123-4567"))
 
 ---
 
-.leftcol[
 
-
-```r
+``` r
 wind &lt;- read_excel(here::here(
   'data', 'US_State_Wind_Energy_Facts_2018.xlsx')) %&gt;%
   mutate(
@@ -800,7 +828,7 @@ class: inverse, middle
 ### 2. Are your variables the right _type_?
 ### 3. .orange[Are your variables the right _name_?]
 
-### QUIZ 1
+### Break
 
 ### 4. Re-coding variables
 ### 5. Dates
@@ -830,7 +858,7 @@ https://suzan.rbind.io/2018/01/dplyr-tutorial-1/
 .rightcol65[
 
 
-```r
+``` r
 wind &lt;- read_excel(here::here(
   'data', 'US_State_Wind_Energy_Facts_2018.xlsx'))
 
@@ -868,7 +896,7 @@ glimpse(wind)
 .rightcol65[
 
 
-```r
+``` r
 *library(janitor)
 
 wind &lt;- read_excel(here::here(
@@ -909,7 +937,7 @@ glimpse(wind)
 .rightcol65[
 
 
-```r
+``` r
 *library(janitor)
 
 wind &lt;- read_excel(here::here(
@@ -950,7 +978,7 @@ glimpse(wind)
 .rightcol65[
 
 
-```r
+``` r
 *library(janitor)
 
 wind &lt;- read_excel(here::here(
@@ -985,7 +1013,7 @@ glimpse(wind)
 Example: data on sleeping patterns of different mammals
 
 
-```r
+``` r
 glimpse(msleep)
 ```
 
@@ -1016,7 +1044,7 @@ glimpse(msleep)
 Use `select()` to choose which columns to **keep**
 
 
-```r
+``` r
 msleep %&gt;%
 * select(name:order, sleep_total:sleep_cycle) %&gt;%
   glimpse()
@@ -1043,7 +1071,7 @@ msleep %&gt;%
 Use `select()` to choose which columns to **drop**
 
 
-```r
+``` r
 msleep %&gt;%
   select(-(name:order)) %&gt;%
   glimpse()
@@ -1074,7 +1102,7 @@ msleep %&gt;%
 Select columns that start with "sleep":
 
 
-```r
+``` r
 msleep %&gt;%
   select(name, starts_with("sleep")) %&gt;%
   glimpse()
@@ -1098,7 +1126,7 @@ msleep %&gt;%
 Select columns that contain "eep" and end with "wt":
 
 
-```r
+``` r
 msleep %&gt;%
   select(contains("eep"), ends_with("wt")) %&gt;%
   glimpse()
@@ -1125,7 +1153,7 @@ msleep %&gt;%
 Select only numeric columns:
 
 
-```r
+``` r
 msleep %&gt;%
     select_if(is.numeric) %&gt;%
     glimpse()
@@ -1151,7 +1179,7 @@ msleep %&gt;%
 Select only character columns:
 
 
-```r
+``` r
 msleep %&gt;%
     select_if(is.character) %&gt;%
     glimpse()
@@ -1178,7 +1206,7 @@ msleep %&gt;%
 .leftcol45[.code70[
 
 
-```r
+``` r
 msleep %&gt;%
     select(everything()) %&gt;%
     glimpse()
@@ -1207,7 +1235,7 @@ msleep %&gt;%
 .rightcol55[.code70[
 
 
-```r
+``` r
 msleep %&gt;%
     select(conservation, awake, everything()) %&gt;%
     glimpse()
@@ -1242,7 +1270,7 @@ msleep %&gt;%
 Use `rename()` to just change the name
 
 
-```r
+``` r
 msleep %&gt;%
 * rename(
     animal = name,
@@ -1276,7 +1304,7 @@ msleep %&gt;%
 Use `select()` to change the name **and drop everything else**
 
 
-```r
+``` r
 msleep %&gt;%
 * select(
     animal = name,
@@ -1303,7 +1331,7 @@ msleep %&gt;%
 Use `rename()` to just change the name
 
 
-```r
+``` r
 msleep %&gt;%
 * rename(
     animal = name,
@@ -1335,7 +1363,7 @@ msleep %&gt;%
 Use `select()` + `everything()` to change names **and keep everything else**
 
 
-```r
+``` r
 msleep %&gt;%
 * select(
     animal = name,
@@ -1367,7 +1395,8 @@ msleep %&gt;%
 
 class: inverse
 
-<div class="countdown" id="timer_65044d78" style="bottom:0;left:0;font-size:2em;" data-warnwhen="15">
+<div class="countdown" id="timer_dd6ae9b9" data-warn-when="15" data-update-every="1" tabindex="0" style="bottom:0;left:0;font-size:2em;">
+<div class="countdown-controls"><button class="countdown-bump-down">&minus;</button><button class="countdown-bump-up">&plus;</button></div>
 <code class="countdown-time"><span class="countdown-digits minutes">15</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
 
@@ -1402,34 +1431,6 @@ Read in the `hot_dog_winners.xlsx` file and adjust the variable names and types 
 
 ---
 
-class: inverse
-
-# Quiz 1
-
-<div class="countdown" id="timer_65044e48" style="bottom:0;left:0;font-size:4em;" data-warnwhen="30">
-<code class="countdown-time"><span class="countdown-digits minutes">10</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
-</div>
-
-.leftcol[
-
-### Download the template from the #class channel
-
-### Make sure you unzip it!
-
-### When done, submit your `quiz1.qmd` on Blackboard
-
-]
-
-.rightcol[
-
-&lt;center&gt;
-&lt;img src="https://github.com/emse-p4a-gwu/2022-Spring/raw/main/images/quiz_doge.png" width="400"&gt;
-&lt;/center&gt;
-
-]
-
----
-
 
 
 class: inverse, middle
@@ -1440,11 +1441,22 @@ class: inverse, middle
 ### 2. Are your variables the right _type_?
 ### 3. Are your variables the right _name_?
 
-### QUIZ 1
+### Break
 
 ### 4. .orange[Re-coding variables]
 ### 5. Dates
 ### 6. Dealing with messy Excel files
+
+---
+
+class: inverse, center
+
+# .fancy[Break]
+
+<div class="countdown" id="timer_df19e3ad" data-warn-when="30" data-update-every="1" tabindex="0" style="top:1;right:0;bottom:0;left:0;margin:5%;font-size:8em;">
+<div class="countdown-controls"><button class="countdown-bump-down">&minus;</button><button class="countdown-bump-up">&plus;</button></div>
+<code class="countdown-time"><span class="countdown-digits minutes">05</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
+</div>
 
 ---
 
@@ -1459,7 +1471,7 @@ Example: Create a variable, `cost_high`, that is `TRUE` if the repair costs were
 .rightcol65[.code70[
 
 
-```r
+``` r
 wildlife_impacts1 &lt;- wildlife_impacts %&gt;%
   rename(cost = cost_repairs_infl_adj) %&gt;%
   filter(!is.na(cost)) %&gt;%
@@ -1500,7 +1512,7 @@ Create a variable, `season`, based on the `incident_month` variable.
 .rightcol65[.code70[
 
 
-```r
+``` r
 wildlife_impacts2 &lt;- wildlife_impacts %&gt;%
 * mutate(season = ifelse(
 *   incident_month %in% c(3, 4, 5), 'spring', ifelse(
@@ -1542,7 +1554,7 @@ Create a variable, `season`, based on the `incident_month` variable.
 .rightcol65[.code70[
 
 
-```r
+``` r
 wildlife_impacts2 &lt;- wildlife_impacts %&gt;%
 * mutate(season = case_when(
 *   incident_month %in% c(3, 4, 5) ~ 'spring',
@@ -1583,7 +1595,7 @@ Create a variable, `season`, based on the `incident_month` variable.
 .rightcol65[.code70[
 
 
-```r
+``` r
 wildlife_impacts2 &lt;- wildlife_impacts %&gt;%
   mutate(season = case_when(
 *   between(incident_month, 3, 5) ~ 'spring',
@@ -1624,7 +1636,7 @@ Convert the `num_engs` variable into a word of the number.
 `ifelse()`
 
 
-```r
+``` r
 wildlife_impacts3 &lt;- wildlife_impacts %&gt;%
   mutate(num_engs = ifelse(
     num_engs == 1, 'one', ifelse(
@@ -1650,7 +1662,7 @@ unique(wildlife_impacts3$num_engs)
 `case_when()`
 
 
-```r
+``` r
 wildlife_impacts3 &lt;- wildlife_impacts %&gt;%
   mutate(num_engs = case_when(
     num_engs == 1 ~ 'one',
@@ -1675,7 +1687,7 @@ unique(wildlife_impacts3$num_engs)
 .leftcol40[
 
 
-```r
+``` r
 tb_rates
 ```
 
@@ -1698,7 +1710,7 @@ tb_rates
 .rightcol60[
 
 
-```r
+``` r
 tb_rates %&gt;%
 * separate(rate, into = c("cases", "population"))
 ```
@@ -1724,7 +1736,7 @@ tb_rates %&gt;%
 .leftcol40[
 
 
-```r
+``` r
 tb_rates
 ```
 
@@ -1745,7 +1757,7 @@ tb_rates
 .rightcol60[
 
 
-```r
+``` r
 tb_rates %&gt;%
   separate(
 *     rate,
@@ -1775,7 +1787,7 @@ tb_rates %&gt;%
 .leftcol40[
 
 
-```r
+``` r
 tb_rates
 ```
 
@@ -1796,7 +1808,7 @@ tb_rates
 .rightcol60[
 
 
-```r
+``` r
 tb_rates %&gt;%
   separate(
       rate, 
@@ -1827,7 +1839,7 @@ tb_rates %&gt;%
 .leftcol40[
 
 
-```r
+``` r
 tb_rates
 ```
 
@@ -1848,7 +1860,7 @@ tb_rates
 .rightcol60[
 
 
-```r
+``` r
 tb_rates %&gt;%
   separate(
       year, 
@@ -1878,7 +1890,7 @@ tb_rates %&gt;%
 .leftcol40[
 
 
-```r
+``` r
 tb_rates
 ```
 
@@ -1899,7 +1911,7 @@ tb_rates
 .rightcol60[
 
 
-```r
+``` r
 tb_rates %&gt;%
   separate(year, into = c("century", "year"),
            sep = 2) %&gt;%
@@ -1927,7 +1939,7 @@ tb_rates %&gt;%
 .leftcol40[
 
 
-```r
+``` r
 tb_rates
 ```
 
@@ -1948,7 +1960,7 @@ tb_rates
 .rightcol60[
 
 
-```r
+``` r
 tb_rates %&gt;%
   separate(year, into = c("century", "year"),
            sep = 2) %&gt;%
@@ -1982,7 +1994,7 @@ class: inverse, middle
 ### 2. Are your variables the right _type_?
 ### 3. Are your variables the right _name_?
 
-### QUIZ 1
+### Break
 
 ### 4. Re-coding variables
 ### 5. .orange[Dates]
@@ -2007,7 +2019,7 @@ class: inverse, middle, center
 .center[Year-Month-Day]
 
 
-```r
+``` r
 ymd('2020-02-26')
 ```
 
@@ -2025,7 +2037,7 @@ ymd('2020-02-26')
 .center[Year-Month-Day]
 
 
-```r
+``` r
 ymd('2020-02-26')
 ```
 
@@ -2033,7 +2045,7 @@ ymd('2020-02-26')
 #&gt; [1] "2020-02-26"
 ```
 
-```r
+``` r
 ymd('2020 Feb 26')
 ```
 
@@ -2052,7 +2064,7 @@ ymd('2020 Feb 26')
 .center[Year-Month-Day]
 
 
-```r
+``` r
 ymd('2020-02-26')
 ```
 
@@ -2060,7 +2072,7 @@ ymd('2020-02-26')
 #&gt; [1] "2020-02-26"
 ```
 
-```r
+``` r
 ymd('2020 Feb 26')
 ```
 
@@ -2068,7 +2080,7 @@ ymd('2020 Feb 26')
 #&gt; [1] "2020-02-26"
 ```
 
-```r
+``` r
 ymd('2020 Feb. 26')
 ```
 
@@ -2076,7 +2088,7 @@ ymd('2020 Feb. 26')
 #&gt; [1] "2020-02-26"
 ```
 
-```r
+``` r
 ymd('2020 february 26')
 ```
 
@@ -2093,7 +2105,7 @@ ymd('2020 february 26')
 .center[Month-Day-Year]
 
 
-```r
+``` r
 mdy('February 26, 2020')
 ```
 
@@ -2101,7 +2113,7 @@ mdy('February 26, 2020')
 #&gt; [1] "2020-02-26"
 ```
 
-```r
+``` r
 mdy('Feb. 26, 2020')
 ```
 
@@ -2109,7 +2121,7 @@ mdy('Feb. 26, 2020')
 #&gt; [1] "2020-02-26"
 ```
 
-```r
+``` r
 mdy('Feb 26 2020')
 ```
 
@@ -2126,7 +2138,7 @@ mdy('Feb 26 2020')
 .center[Day-Month-Year]
 
 
-```r
+``` r
 dmy('26 February 2020')
 ```
 
@@ -2134,7 +2146,7 @@ dmy('26 February 2020')
 #&gt; [1] "2020-02-26"
 ```
 
-```r
+``` r
 dmy('26 Feb. 2020')
 ```
 
@@ -2142,7 +2154,7 @@ dmy('26 Feb. 2020')
 #&gt; [1] "2020-02-26"
 ```
 
-```r
+``` r
 dmy('26 Feb, 2020')
 ```
 
@@ -2165,13 +2177,13 @@ class: center, middle
 .code60[
 
 
-```r
+``` r
 date &lt;- today()
 date
 ```
 
 ```
-#&gt; [1] "2023-09-15"
+#&gt; [1] "2024-09-09"
 ```
 
 ]
@@ -2181,13 +2193,13 @@ date
 .leftcol[.code60[
 
 
-```r
+``` r
 # Get the year
 year(date)
 ```
 
 ```
-#&gt; [1] 2023
+#&gt; [1] 2024
 ```
 
 ]]
@@ -2199,13 +2211,13 @@ year(date)
 .code60[
 
 
-```r
+``` r
 date &lt;- today()
 date
 ```
 
 ```
-#&gt; [1] "2023-09-15"
+#&gt; [1] "2024-09-09"
 ```
 
 ]
@@ -2213,16 +2225,16 @@ date
 .leftcol[.code60[
 
 
-```r
+``` r
 # Get the year
 year(date)
 ```
 
 ```
-#&gt; [1] 2023
+#&gt; [1] 2024
 ```
 
-```r
+``` r
 # Get the month
 month(date)
 ```
@@ -2231,7 +2243,7 @@ month(date)
 #&gt; [1] 9
 ```
 
-```r
+``` r
 # Get the month name
 month(date, label = TRUE, abbr = FALSE)
 ```
@@ -2248,31 +2260,31 @@ month(date, label = TRUE, abbr = FALSE)
 .rightcol[.code60[
 
 
-```r
+``` r
 # Get the day
 day(date)
 ```
 
 ```
-#&gt; [1] 15
+#&gt; [1] 9
 ```
 
-```r
+``` r
 # Get the weekday
 wday(date)
 ```
 
 ```
-#&gt; [1] 6
+#&gt; [1] 2
 ```
 
-```r
+``` r
 # Get the weekday name
 wday(date, label = TRUE, abbr = TRUE)
 ```
 
 ```
-#&gt; [1] Fri
+#&gt; [1] Mon
 #&gt; Levels: Sun &lt; Mon &lt; Tue &lt; Wed &lt; Thu &lt; Fri &lt; Sat
 ```
 
@@ -2288,12 +2300,12 @@ On what day of the week were you born?
 .leftcol60[
 
 
-```r
-wday("2023-09-13", label = TRUE)
+``` r
+wday("2024-09-01", label = TRUE)
 ```
 
 ```
-#&gt; [1] Wed
+#&gt; [1] Sun
 #&gt; Levels: Sun &lt; Mon &lt; Tue &lt; Wed &lt; Thu &lt; Fri &lt; Sat
 ```
 
@@ -2304,32 +2316,32 @@ wday("2023-09-13", label = TRUE)
 ## Modifying date elements
 
 
-```r
+``` r
 date &lt;- today()
 date
 ```
 
 ```
-#&gt; [1] "2023-09-15"
+#&gt; [1] "2024-09-09"
 ```
 
 --
 
 
-```r
+``` r
 # Change the year
 year(date) &lt;- 2016
 date
 ```
 
 ```
-#&gt; [1] "2016-09-15"
+#&gt; [1] "2016-09-09"
 ```
 
 --
 
 
-```r
+``` r
 # Change the day
 day(date) &lt;- 30
 ```
@@ -2337,7 +2349,7 @@ day(date) &lt;- 30
 --
 
 
-```r
+``` r
 date
 ```
 
@@ -2354,20 +2366,20 @@ class: inverse
 What do you think will happen if we do this?
 
 
-```r
-date &lt;- ymd("2023-02-28")
+``` r
+date &lt;- ymd("2024-02-28")
 day(date) &lt;- 30
 ```
 
 --
 
 
-```r
+``` r
 date
 ```
 
 ```
-#&gt; [1] "2023-03-02"
+#&gt; [1] "2024-03-01"
 ```
 
 ---
@@ -2389,7 +2401,7 @@ Before:
 .code70[
 
 
-```r
+``` r
 unique(str_to_lower(wildlife_impacts$phase_of_flt))
 ```
 
@@ -2408,7 +2420,8 @@ After:
 
 .rightcol[.font80[
 
-<div class="countdown blink-colon noupdate-15" id="timer_65044db8" style="right:0;bottom:0;font-size:1.5em;position: relative; width: min-content;&#10;             display: block; margin-left: 300px;" data-warnwhen="30">
+<div class="countdown" id="timer_7f73b494" data-warn-when="30" data-update-every="15" data-blink-colon="true" tabindex="0" style="right:0;bottom:0;font-size:1.5em;position: relative; width: min-content;&#10;             display: block; margin-left: 300px;">
+<div class="countdown-controls"><button class="countdown-bump-down">&minus;</button><button class="countdown-bump-up">&plus;</button></div>
 <code class="countdown-time"><span class="countdown-digits minutes">20</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
 
@@ -2416,7 +2429,7 @@ After:
 
 3) Use `weekday_name` and `phase_of_flt` to make this plot of "arrival" and "departure" impacts from **Mar. 2016**.
 
-&lt;img src="figs/unnamed-chunk-97-1.png" width="648" style="display: block; margin: auto;" /&gt;
+&lt;img src="figs/unnamed-chunk-98-1.png" width="648" style="display: block; margin: auto;" /&gt;
 ]]
 
 ---
@@ -2431,11 +2444,18 @@ class: inverse, middle
 ### 2. Are your variables the right _type_?
 ### 3. Are your variables the right _name_?
 
-### QUIZ 1
+### Break
 
 ### 4. Re-coding variables
 ### 5. Dates
 ### 6. .orange[Dealing with messy Excel files]
+
+---
+
+# Reminders:
+
+- You have **11** days until your [Project Proposal](https://eda.seas.gwu.edu/2024-Fall/project/1-proposal.html) is due. 
+- You have **13** days until your [Mini Project 1](https://eda.seas.gwu.edu/2024-Fall/mini/1-data-cleaning.html) is due.
 
 ---
 
@@ -2477,7 +2497,7 @@ Steps:
 .rightcol60[
 
 
-```r
+``` r
 hot_dogs &lt;- read_excel(
     here::here('data', 'hot_dog_winners.xlsx'),
     sheet = 'hot_dog_winners') %&gt;%
@@ -2520,7 +2540,7 @@ Steps
 .rightcol60[
 
 
-```r
+``` r
 hot_dogs_m &lt;- hot_dogs %&gt;%
     select(
         year,
@@ -2562,7 +2582,7 @@ Steps
 .rightcol60[
 
 
-```r
+``` r
 *hot_dogs &lt;- bind_rows(hot_dogs_m, hot_dogs_w) %&gt;%
     mutate(
         new_record = str_detect(dogs_eaten, "\\*"),
@@ -2596,7 +2616,7 @@ glimpse(hot_dogs)
 .rightcol55[.code50[
 
 
-```r
+``` r
 head(hot_dogs)
 ```
 
@@ -2631,7 +2651,7 @@ Steps:
 .rightcol60[
 
 
-```r
+``` r
 hot_dogs &lt;- read_excel(
     here::here('data', 'hot_dog_winners.xlsx'),
     sheet = 'hot_dog_winners') %&gt;%
@@ -2674,7 +2694,7 @@ Steps:
 .rightcol60[
 
 
-```r
+``` r
 hot_dogs &lt;- hot_dogs %&gt;%
     select(
         year,
@@ -2721,7 +2741,7 @@ Steps:
 .rightcol70[
 
 
-```r
+``` r
 hot_dogs &lt;- hot_dogs %&gt;%
 *   separate(variable, into = c('variable', 'competition'),
 *            sep = '\\.')
@@ -2765,7 +2785,7 @@ Steps:
 .rightcol70[
 
 
-```r
+``` r
 hot_dogs &lt;- hot_dogs %&gt;%
 *   spread(key = variable, value = value) %&gt;%
     mutate(
@@ -2796,7 +2816,7 @@ glimpse(hot_dogs)
 Divide &amp; conquer
 
 
-```r
+``` r
 hot_dogs &lt;- read_excel(
     here::here('data', 'hot_dog_winners.xlsx'),
     sheet = 'hot_dog_winners') %&gt;%
@@ -2835,7 +2855,7 @@ hot_dogs &lt;- read_excel(
 Pivot long, separate, pivot wide
 
 
-```r
+``` r
 hot_dogs &lt;- read_excel(
     here::here('data', 'hot_dog_winners.xlsx'),
     sheet = 'hot_dog_winners') %&gt;%
@@ -2907,7 +2927,7 @@ Steps:
 .rightcol60[
 
 
-```r
+``` r
 pc_sales &lt;- read_excel(
     here::here('data', 'pc_sales_2018.xlsx'),
 *   sheet = 'pc_sales', skip = 5) %&gt;%
@@ -2964,7 +2984,7 @@ Use **datapasta** to get rows to drop
 .rightcol70[
 
 
-```r
+``` r
 drop &lt;- c(
     'EUROPE', 'EU 28 countries + EFTA',
     'EU 15 countries + EFTA', 'EUROPE NEW MEMBERS',
@@ -3013,7 +3033,7 @@ Steps:
 .rightcol70[
 
 
-```r
+``` r
 pc_sales &lt;- pc_sales %&gt;%
     pivot_longer(names_to = 'year', values_to = 'num_cars', 
 *                cols = x2005:x2018)
@@ -3055,7 +3075,7 @@ Steps:
 .rightcol70[
 
 
-```r
+``` r
 pc_sales &lt;- pc_sales %&gt;%
 *   separate(year, into = c('drop', 'year'), sep = 'x',
 *            convert = TRUE)
@@ -3099,7 +3119,7 @@ Steps:
 .rightcol70[
 
 
-```r
+``` r
 pc_sales &lt;- pc_sales %&gt;%
 * select(-drop) %&gt;%
   mutate(country  = str_to_title(country))
@@ -3136,7 +3156,7 @@ class: middle, center
 .code70[
 
 
-```r
+``` r
 drop &lt;- c(
   'EUROPE', 'EU 28 countries + EFTA',
   'EU 15 countries + EFTA', 'EUROPE NEW MEMBERS',
@@ -3184,7 +3204,7 @@ head(pc_sales, 3)
 .leftcol[
 
 
-```r
+``` r
 pc_regions &lt;- read_csv(here::here(
   "data", "pc_regions.csv"))
 
@@ -3210,7 +3230,7 @@ head(pc_regions)
 .rightcol[
 
 
-```r
+``` r
 pc_sales &lt;- pc_sales %&gt;% 
 * left_join(pc_regions)
 
@@ -3244,7 +3264,7 @@ head(pc_sales)
 .code50[
 
 
-```r
+``` r
 drop &lt;- c(
   'EUROPE', 'EU 28 countries + EFTA',
   'EU 15 countries + EFTA', 'EUROPE NEW MEMBERS',

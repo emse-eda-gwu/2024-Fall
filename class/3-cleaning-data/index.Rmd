@@ -124,6 +124,41 @@ state_abbs_50 <- state_abbs %>%
 
 ---
 
+class: inverse
+
+# Quiz 1
+
+```{r, echo=FALSE}
+countdown(
+    minutes = 10,
+    warn_when = 30,
+    update_every = 1,
+    bottom = 0,
+    left = 0,
+    font_size = '4em'
+)
+```
+
+.leftcol[
+
+### Download the template from the #class channel
+
+### Make sure you unzip it!
+
+### When done, submit your `quiz1.qmd` on Blackboard
+
+]
+
+.rightcol[
+
+<center>
+<img src="https://github.com/emse-p4a-gwu/2022-Spring/raw/main/images/quiz_doge.png" width="400">
+</center>
+
+]
+
+---
+
 class: center, middle, inverse
 
 # .fancy[.blue[Tip of the week]]
@@ -530,8 +565,6 @@ parse_number(c("1-800-123-4567"))
 
 ---
 
-.leftcol[
-
 ```{r}
 wind <- read_excel(here::here(
   'data', 'US_State_Wind_Energy_Facts_2018.xlsx')) %>%
@@ -929,42 +962,24 @@ glimpse(hot_dogs)
 
 ---
 
-class: inverse
-
-# Quiz 1
-
-```{r, echo=FALSE}
-countdown(
-    minutes = 10,
-    warn_when = 30,
-    update_every = 1,
-    bottom = 0,
-    left = 0,
-    font_size = '4em'
-)
-```
-
-.leftcol[
-
-### Download the template from the #class channel
-
-### Make sure you unzip it!
-
-### When done, submit your `quiz1.qmd` on Blackboard
-
-]
-
-.rightcol[
-
-<center>
-<img src="https://github.com/emse-p4a-gwu/2022-Spring/raw/main/images/quiz_doge.png" width="400">
-</center>
-
-]
+```{r child="topics/4.Rmd"}
+``` 
 
 ---
 
-```{r child="topics/4.Rmd"}
+class: inverse, center
+
+# .fancy[Break]
+
+```{r, echo=FALSE}
+countdown(
+    minutes      = 5,
+    warn_when    = 30,
+    update_every = 1,
+    left         = 0, right = 0, top = 1, bottom = 0,
+    margin       = "5%",
+    font_size    = "8em"
+)
 ```
 
 ---
@@ -1446,7 +1461,7 @@ On what day of the week were you born?
 .leftcol60[
 
 ```{r}
-wday("2023-09-13", label = TRUE)
+wday("2024-09-01", label = TRUE)
 ```
 
 ]
@@ -1490,7 +1505,7 @@ class: inverse
 What do you think will happen if we do this?
 
 ```{r}
-date <- ymd("2023-02-28")
+date <- ymd("2024-02-28")
 day(date) <- 30
 ```
 
@@ -1535,7 +1550,9 @@ unique(str_to_lower(wildlife_impacts$phase_of_flt))
 
 .rightcol[.font80[
 
-```{r, echo=FALSE}
+```{r}
+#| echo: false
+
 countdown(
     minutes = 20,
     warn_when = 30,
@@ -1543,7 +1560,8 @@ countdown(
     right = 0,
     font_size = '1.5em',
     style = "position: relative; width: min-content;
-             display: block; margin-left: 300px;")
+             display: block; margin-left: 300px;"
+)
 ```
 
 2) Use the **lubridate** package to create a new variable, `weekday_name`, from the `incident_date` variable in the `wildlife_impacts` data.
@@ -1570,6 +1588,13 @@ wildlife_impacts %>%
 
 ```{r child="topics/6.Rmd"}
 ```
+
+---
+
+# Reminders:
+
+- You have **11** days until your [Project Proposal](https://eda.seas.gwu.edu/2024-Fall/project/1-proposal.html) is due. 
+- You have **13** days until your [Mini Project 1](https://eda.seas.gwu.edu/2024-Fall/mini/1-data-cleaning.html) is due.
 
 ---
 
