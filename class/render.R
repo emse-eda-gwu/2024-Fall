@@ -19,8 +19,9 @@ files2 <- c(
     'practice-solutions.qmd',
     'practice.qmd'
 )
+files3 <- files2
 
-files <- files2
+files <- files3
 
 # Create zip files of class notes
 zip::zip(

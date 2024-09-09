@@ -7,7 +7,7 @@ class: inverse, middle
 ### 2. Are your variables the right _type_?
 ### 3. .orange[Are your variables the right _name_?]
 
-### QUIZ 1
+### Break
 
 ### 4. Re-coding variables
 ### 5. Dates
