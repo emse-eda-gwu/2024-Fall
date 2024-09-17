@@ -20,8 +20,9 @@ files2 <- c(
     'practice.qmd'
 )
 files3 <- files2
+files4 <- files2
 
-files <- files3
+files <- files4
 
 # Create zip files of class notes
 zip::zip(
