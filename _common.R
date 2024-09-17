@@ -116,7 +116,7 @@ get_schedule <- function() {
             due_assign = format(due_assign, format = "%b %d"),
             assign = ifelse(
                 is.na(due_assign),
-                "",
+                name_assign,
                 paste0(
                     '<a href="hw/', n_assign, "-", stub_assign, '.html"><b>HW ',
                     n_assign, "</b></a><br>Due: ", due_assign))
