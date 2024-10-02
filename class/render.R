@@ -21,8 +21,8 @@ files2 <- c(
 )
 files3 <- files2
 files4 <- files2
-
-files <- files4
+files5 <- files2
+files <- files5
 
 # Create zip files of class notes
 zip::zip(

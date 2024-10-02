@@ -68,10 +68,10 @@ meta() %>%
     description = rmarkdown::metadata$subtitle,
     generator = "xaringan and remark.js"
   ) %>%
-  meta_name("github-repo" = "emse-eda-gwu/2023-Fall") %>%
+  meta_name("github-repo" = "emse-eda-gwu/2024-Fall") %>%
   meta_social(
     title = rmarkdown::metadata$title,
-    url = "https://eda.seas.gwu.edu/2023-Fall/",
+    url = "https://eda.seas.gwu.edu/2024-Fall/",
     og_type = "website",
     og_author = "John Paul Helveston",
     twitter_card_type = "summary_large_image",
@@ -80,7 +80,7 @@ meta() %>%
 
 # Setup class-specific paths
 class <- rmarkdown::metadata$class
-root <- paste0("https://eda.seas.gwu.edu/2023-Fall/class/", class, "/")
+root <- paste0("https://eda.seas.gwu.edu/2024-Fall/class/", class, "/")
 path_slides <- file.path("class", class, "index.html")
 path_pdf <- paste0(root, class, ".pdf")
 path_notes <- paste0(root, class, ".zip")
@@ -113,9 +113,9 @@ class: middle
 .rightcol80[
 # References:
 
-# - [Data Viz "Cheat Sheet"](https://github.com/emse-eda-gwu/2023-Fall/raw/main/content/cheatsheet-dataviz.pdf)
+# - [Data Viz "Cheat Sheet"](https://github.com/emse-eda-gwu/2024-Fall/raw/main/content/cheatsheet-dataviz.pdf)
 
-# - [Data Viz Reference Page](https://eda.seas.gwu.edu/2023-Fall/references.html#visualizing-data)
+# - [Data Viz Reference Page](https://eda.seas.gwu.edu/2024-Fall/references.html#visualizing-data)
 
 ]
 
@@ -2242,7 +2242,7 @@ template: refs
 
 class: inverse
 
-# Your turn - go [here](https://docs.google.com/presentation/d/1C06PEq7CilstUqfjEaUGoFHPwvf-PJhBv77gLQXQcrw/edit?usp=sharing)
+# Your turn - go [here](https://docs.google.com/presentation/d/1D3WMwY86lRe5W4VyCVejeSdf8esfcUQ4PnczzcmQ2eA/edit?usp=sharing)
 
 For your "bad" visualization:
 
