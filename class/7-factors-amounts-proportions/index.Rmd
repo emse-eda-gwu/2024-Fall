@@ -47,8 +47,8 @@ class: inverse, middle
 
 # Next projects due:
 
-## - [Mini project 2](https://eda.seas.gwu.edu/2023-Fall/mini/2-exploring-data.html): Exploring Data (Due 10/17)
-## - [Project Progress Report](https://eda.seas.gwu.edu/2023-Fall/project/2-progress-report.html) (Due 10/29)
+## - [Mini project 2](https://eda.seas.gwu.edu/2024-Fall/mini/2-exploring-data.html): Exploring Data (Due 10/15)
+## - [Project Progress Report](https://eda.seas.gwu.edu/2024-Fall/project/2-progress-report.html) (Due 10/27)
 
 ---
 
@@ -1523,13 +1523,13 @@ milk_production %>%
     keep = c('California', 'Wisconsin'))) %>%
   group_by(state) %>%
   summarise(milk_produced = sum(milk_produced)) %>%
-  mutate(milk_produced = milk_produced / 10^9) %>%
+  mutate(milk_produced = milk_produced / 10^9) %>%  #<<
 
 # Make the chart
   ggplot() +
   geom_waffle( #<<
     aes(fill = state, values = milk_produced), #<<
-    color = "white", size = 1, n_rows = 15) + #<<
+    color = "white", size = 1, n_rows = 10) + #<<
   scale_x_discrete(expand = c(0, 0)) +
   scale_y_discrete(expand = c(0, 0)) +
   theme_minimal() +
@@ -1551,7 +1551,7 @@ milk_production %>%
 milk_summary_2017
 ```
 
-```{r ref.label='waffle_2017', echo=FALSE, fig.height=4, fig.width=5, fig.align='center'}
+```{r ref.label='waffle_2017', echo=FALSE, fig.height=2.2, fig.width=5, fig.align='center'}
 ```
 
 ]
@@ -1578,7 +1578,7 @@ milk_production %>%
   ggplot() +
   geom_waffle(
     aes(fill = state, values = milk_produced),
-    color = "white", size = 1, n_rows = 15,
+    color = "white", size = 1, n_cols = 10,
     flip = TRUE) + #<<
   scale_x_discrete(expand = c(0, 0)) +
   scale_y_discrete(expand = c(0, 0)) +
@@ -1593,15 +1593,13 @@ milk_production %>%
 
 .rightcol45[
 
-**Use values between 100 - 1,000**
-
-.font80[(You don't want 1,000,000,000 boxes!)]
+Use `flip = TRUE` for vertical
 
 ```{r, echo=FALSE}
 milk_summary_2017
 ```
 
-```{r ref.label='waffle_2017_flip', echo=FALSE, fig.height=4, fig.width=5, fig.align='center'}
+```{r ref.label='waffle_2017_flip', echo=FALSE, fig.height=4, fig.width=3, fig.align='center'}
 ```
 
 ]
@@ -1642,7 +1640,7 @@ milk_production %>%
 
 .rightcol45[
 
-### Waffle comparison
+Use `facet_wrap` for side-by-side waffles
 
 ```{r, echo=FALSE}
 milk_summary_2017
