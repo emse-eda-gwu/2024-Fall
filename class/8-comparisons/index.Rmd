@@ -2028,3 +2028,9 @@ gapminder_2007 %>%
 ```
 
 ]
+
+---
+
+class: middle, center
+
+# Reminder:<br>Your [Progress Report](https://eda.seas.gwu.edu/2024-Fall/project/2-progress-report.html) is due in 10 days!
