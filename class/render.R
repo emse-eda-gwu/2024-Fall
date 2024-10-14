@@ -23,6 +23,7 @@ files3 <- files2
 files4 <- files2
 files5 <- files2
 files6 <- files2
+files8 <- files2
 
 # Create zip files of class notes
 zip::zip(
