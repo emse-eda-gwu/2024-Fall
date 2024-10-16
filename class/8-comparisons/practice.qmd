@@ -25,6 +25,7 @@ library(ggrepel)
 library(ggridges)
 library(tidyverse)
 library(here)
+library(cowplot)
 
 # Read in the data
 gapminder        <- read_csv(here('data', 'gapminder.csv'))
