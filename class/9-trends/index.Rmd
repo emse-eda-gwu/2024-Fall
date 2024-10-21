@@ -1549,6 +1549,6 @@ class: middle
 
 .leftcol70[.font70[
 
-Roberson, Laura A.  & Helveston, J.P. (2020) "Electric vehicle adoption: can short experiences lead to big change?," Environmental Research Letters. 15(0940c3).<br>Made using the [ggforce](https://www.data-imaginist.com/2019/the-ggforce-awakens-again/) package
+Roberson, Laura A.  & Helveston, J.P. (2020) "[Electric vehicle adoption: can short experiences lead to big change?](https://iopscience.iop.org/article/10.1088/1748-9326/aba715/meta)," Environmental Research Letters. 15(0940c3).<br>Made using the [ggforce](https://www.data-imaginist.com/2019/the-ggforce-awakens-again/) package
 
 ]]
