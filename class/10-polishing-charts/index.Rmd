@@ -2791,4 +2791,4 @@ theme_set(theme_minimal_grid())
 
 ---
 
-# Check out [Pimp my RMD](https://holtzy.github.io/Pimp-my-rmd/), by Yan Holtz
+# Check out [these Quarto tricks](https://www.productive-r-workflow.com/quarto-tricks), by Yan Holtz
