@@ -31,27 +31,6 @@ source('setup.R')
 
 ---
 
-## Today's data
-
-```{r, eval=FALSE}
-milk_production <- read_csv(here::here('data', 'milk_production.csv'))
-us_coffee_shops <- read_csv(here::here('data', 'us_coffee_shops.csv'))
-```
-
-## New packages:
-
-```{r, eval=FALSE}
-install.packages('maps')
-install.packages('mapproj')
-install.packages('sf')
-install.packages('rgeos')
-install.packages('rnaturalearth')
-devtools::install_github("ropensci/rnaturalearthhires")
-devtools::install_github("ropensci/rnaturalearthdata")
-```
-
----
-
 class: inverse
 
 # Quiz 4
@@ -84,6 +63,26 @@ countdown(
 </center>
 
 ]
+
+---
+
+## Today's data
+
+```{r, eval=FALSE}
+milk_production <- read_csv(here::here('data', 'milk_production.csv'))
+us_coffee_shops <- read_csv(here::here('data', 'us_coffee_shops.csv'))
+```
+
+## New packages:
+
+```{r, eval=FALSE}
+install.packages('maps')
+install.packages('mapproj')
+install.packages('sf')
+install.packages('rnaturalearth')
+devtools::install_github("ropensci/rnaturalearthhires")
+devtools::install_github("ropensci/rnaturalearthdata")
+```
 
 ---
 
@@ -1763,11 +1762,11 @@ Mercator Projection
 
 ---
 
-# Remember: Mini Project 3 Due 11/21
+# Remember: Mini Project 3 Due 11/19
 
 ## (That's 2 weeks)
 
-### https://eda.seas.gwu.edu/2023-Fall/mini/3-redesign.html
+### https://eda.seas.gwu.edu/2024-Fall/mini/3-redesign.html
 
 ---
 
