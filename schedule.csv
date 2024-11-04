@@ -9,9 +9,9 @@ week,date,quiz,quiz_content,theme,n_class,stub_class,name_class,description_clas
 8,2024/10/16,,,Visualizing,8,comparisons,Comparisons,Facets; reference lines; dumbbells; slopes; distributions,7,,trends,2024/10/21,,,,,2,progress-report,Progress Report,2024/10/27
 9,2024/10/23,3,Weeks 7 - 8,Visualizing,9,trends,Trends,Line charts; heat maps; animation,8,,polishing-charts,2024/10/28,,,,,,,,
 10,2024/10/30,,,Visualizing,10,polishing-charts,Polishing Charts,Colors; annotations; scales; themes; multi-panel figures,9,,maps,2024/11/04,,,,,,,,
-11,2024/11/06,4,Weeks 9 - 10,Visualizing,11,maps,Maps,Maps in ggplot; mapping data to maps; projections,10,,interactivity,2024/11/11,3,redesign,Re-design,2024/11/19,,,,
-12,2024/11/13,,,Visualizing,12,interactivity,Interactivity,Plotly; interactive tables; shiny apps,11,,project-workshop,2024/11/18,,,,,,,,
-13,2024/11/20,5,Weeks 6 - 12,,13,workshop-final-analysis,In-Class Project Workshop,Full day dedicated to making progress towards final analyses,12,,story-telling,2024/12/02,,,,,3,final-report,Final Report,2024/12/08
+11,2024/11/06,4,Weeks 9 - 10,Visualizing,11,maps,Maps,Maps in ggplot; mapping data to maps; projections,10,,project-workshop,2024/11/11,3,redesign,Re-design,2024/11/19,,,,
+12,2024/11/13,,,Visualizing,12,workshop-final-analysis,In-Class Project Workshop,Full day dedicated to making progress towards final analyses,11,,interactivity,2024/11/18,,,,,,,,
+13,2024/11/20,5,Weeks 6 - 12,,13,interactivity,Interactivity,Plotly; interactive tables; shiny apps,12,,story-telling,2024/12/02,,,,,3,final-report,Final Report,2024/12/08
 14,2024/11/27,,,,,,Thanksgiving - no class,,,,,,,,,,,,,
 15,2024/12/04,,,Communicating,14,story-telling,Story Telling,Telling stories; slide design; giving a talk,,,,,,,,,4,presentation,Presentation,2024/12/10
 16,2024/12/11,,,Communicating,15,final-presentations,Final Presentations,In-class presentation showcase w/Q&A,,,,,,,,,,,,
