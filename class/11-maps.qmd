@@ -8,5 +8,5 @@ execute:
   message: false
 ---
 
-```{r child = here::here("fragments", "class")}
+```{r child = here::here("fragments", "class.qmd")}
 ```
