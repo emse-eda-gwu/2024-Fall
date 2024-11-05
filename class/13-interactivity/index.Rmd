@@ -1,8 +1,8 @@
 ---
 title: "Interactivity"
 subtitle: "EMSE 4572 / 6572: Exploratory Data Analysis"
-date: November 13, 2024
-week: 12
+date: November 20, 2024
+week: 13
 author: "John Paul Helveston"
 institute: "The George Washington University | Dept. of Engineering Management and Systems Engineering"
 output:
@@ -23,11 +23,46 @@ output:
 ```{r setup, child="../setup.Rmd"}
 ```
 
+---
+
 ```{r}
 #| include: false
 
 source('setup.R')
 ```
+
+class: inverse
+
+# Quiz 5
+
+```{r, echo=FALSE}
+countdown(
+    minutes = 10,
+    warn_when = 30,
+    update_every = 1,
+    bottom = 0,
+    left = 0,
+    font_size = '4em'
+)
+```
+
+.leftcol[
+
+### Download the template from the #class channel
+
+### Make sure you unzip it!
+
+### When done, submit your `quiz4.qmd` on Blackboard
+
+]
+
+.rightcol[
+
+<center>
+<img src="https://github.com/emse-p4a-gwu/2022-Spring/raw/main/images/quiz_doge.png" width="400">
+</center>
+
+]
 
 ---
 
