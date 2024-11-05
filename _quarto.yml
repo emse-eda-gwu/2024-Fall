@@ -18,8 +18,8 @@ project:
     - "!9-trends/"
     - "!10-polishing-charts/"
     - "!11-maps/"
-    - "!12-interactivity/"
-    - "!13-workshop-final-analysis/"
+    - "!12-workshop-final-analysis/"
+    - "!13-interactivity/"
     - "!14-story-telling"
     - "!15-final-presentations/"
   resources:
