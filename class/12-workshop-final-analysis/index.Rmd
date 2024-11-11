@@ -20,11 +20,6 @@ output:
       ratio: "16:9"
 ---
 
-```{r setup, child="../setup.Rmd"}
-```
-
----
-
 class: inverse, center, middle
 
 # Follow your plan!
