@@ -21,7 +21,7 @@ Instructor | Course
 <i class="bi-building-fill"></i> Science & Engineering Hall, 2830 | <i class="bi-geo-alt-fill"></i> [{{< var room >}}]({{< var room_url >}})
 <i class="bi-telephone-fill"></i> +1 (202) 994-7173 | <i class="bi-calendar-week-fill"></i> {{< var dates >}}
 <i class="bi-envelope-fill"></i> [{{< var email >}}](mailto:{{< var email >}}) | <i class="bi-clock-fill"></i> {{< var time >}}
-<i class="bi-twitter"></i> [\@JohnHelveston](https://twitter.com/JohnHelveston) | <i class="bi-slack"></i> [Slack]({{< var slack >}}){target="_blank"}
+<i class="fa fa-brands fa-bluesky"></i> [\@jhelvy.bsky.social]({{< var bluesky >}}) | <i class="bi-slack"></i> [Slack]({{< var slack >}}){target="_blank"}
 </div>
 
 ## Course Description

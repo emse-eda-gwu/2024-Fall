@@ -132,6 +132,8 @@ format:
     smooth-scroll: true
     link-external-newwindow: true
     link-external-icon: false
+    # This is to include fontawesome icons
+    include-in-header: "_includes/header.html"
 
 filters:
     - schedule.lua
