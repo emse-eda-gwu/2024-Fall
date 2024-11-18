@@ -33,7 +33,7 @@ source('setup.R')
 
 class: inverse
 
-# Quiz 5
+# Quiz 5 (last one!)
 
 ```{r, echo=FALSE}
 countdown(
@@ -52,7 +52,7 @@ countdown(
 
 ### Make sure you unzip it!
 
-### When done, submit your `quiz4.qmd` on Blackboard
+### When done, submit your `quiz5.qmd` on Blackboard
 
 ]
 
@@ -322,16 +322,6 @@ htmltools::tags$iframe(
   frameBorder = "0"
 )
 ```
-
----
-
-class: center
-
-## One more option: https://g2r.opifex.org/index.html
-
-<center>
-<img src="images/g2r.png" width=300>
-</center>
 
 ---
 
