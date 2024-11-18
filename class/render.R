@@ -28,8 +28,21 @@ files9 <- files2
 files10 <- files2
 files11 <- files2
 
+files13 <- c(
+    'caseConverter_solution.R',
+    'caseConverter.R',
+    'data',
+    'internetUsers_solution.R',
+    'internetUsers.R',
+    'mpg.R',
+    'practice-solutions.qmd',
+    'practice.qmd',
+    'shinyWidgets.R',
+    'widgets.R'
+)
+
 # Create zip files of class notes
 zip::zip(
     zipfile = paste0(lesson, ".zip"),
-    files = c(files11, paste0(lesson, ".Rproj"))
+    files = c(files13, paste0(lesson, ".Rproj"))
 )
