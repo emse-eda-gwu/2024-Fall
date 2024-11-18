@@ -822,7 +822,7 @@ class: center, middle
 
 A Shiny app is a web page (UI) connected to a computer running a live R session (Server)
 
-```{r init, echo=FALSE, fig.align="center", out.width='80%'}
+```{r init, echo=FALSE, fig.align="center", out.width='60%'}
 knitr::include_graphics("images/cheat1.png")
 ```
 
