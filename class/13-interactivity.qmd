@@ -1,12 +1,12 @@
 ---
 title: "Interactivity"
 params:
-  class: "12-interactivity"
+  class: "13-interactivity"
 execute:
   echo: false
   warning: false
   message: false
 ---
 
-```{r child = here::here("fragments", "placeholder.qmd")}
+```{r child = here::here("fragments", "class.qmd")}
 ```
