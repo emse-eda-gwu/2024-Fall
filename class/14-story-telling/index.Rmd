@@ -32,7 +32,7 @@ output:
 
 class: middle, center
 
-# Download [this cheetsheet](https://github.com/emse-eda-gwu/2023-Fall/raw/main/content/cheatsheet-storytelling.pdf) for today's content
+# Download [this cheetsheet](https://github.com/emse-eda-gwu/2024-Fall/raw/main/content/cheatsheet-storytelling.pdf) for today's content
 
 ---
 
@@ -688,7 +688,7 @@ Afterwards, we will go around the room and one person from each team will practi
 
 ---
 
-# .center[[Final Reports](https://eda.seas.gwu.edu/2023-Fall/project/3-final-report.html) due 12/10<br>(You have 4 days left!)]
+# .center[[Final Reports](https://eda.seas.gwu.edu/2024-Fall/project/3-final-report.html) due 12/08<br>(You have 4 days left!)]
 
 --
 
@@ -712,12 +712,12 @@ spelling::spell_check_files("report.qmd")
 
 ---
 
-# .center[[Final Presentations](https://eda.seas.gwu.edu/2023-Fall/project/4-presentation.html) (Due 12/12)]
+# .center[[Final Presentations](https://eda.seas.gwu.edu/2024-Fall/project/4-presentation.html) (Slides Due 12/10)]
 
 </br>
 
-- ### We'll watch these during class period on Dec 13
-- ### 10 projects x 10 mins each
+- ### We'll watch these during class period on Dec 11
+- ### 10 mins each
 - ### At the end, we'll announce awards:
 
   - ### 🗑️ **Janitor Award**: For most intense wrangling of messy data
@@ -725,7 +725,7 @@ spelling::spell_check_files("report.qmd")
 
 ---
 
-# .center[[Final Interviews](https://eda.seas.gwu.edu/2023-Fall/class/interviews) (12/11 - 12/12)]
+# .center[[Final Interviews](https://eda.seas.gwu.edu/2024-Fall/class/interviews) (12/09 - 12/10)]
 
 - ### Schedule for a 10-minute interview using [this link](https://jhelvy.appointlet.com/b/interview)</br>(will also be posted in Slack)
 
