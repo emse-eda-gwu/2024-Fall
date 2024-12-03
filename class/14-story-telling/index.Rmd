@@ -727,7 +727,7 @@ spelling::spell_check_files("report.qmd")
 
 # .center[[Final Interviews](https://eda.seas.gwu.edu/2024-Fall/class/interviews) (12/09 - 12/10)]
 
-- ### Schedule for a 10-minute interview using [this link](https://jhelvy.appointlet.com/b/interview)</br>(will also be posted in Slack)
+- ### Schedule for a 10-minute interview using [this link](https://calendar.app.google/21TiEPKvCF5A5AgY9)</br>(will also be posted in Slack)
 
 --
 
