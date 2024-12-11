@@ -27,81 +27,89 @@ output:
 
 class: center, middle
 
-# [Ukraine After 21 Months](https://docs.google.com/presentation/d/1uQoWq_br8ZmEX5b9gdalkfDo2a211J3ahWqHVl9a-4U/edit#slide=id.p)
+# [Air Sciencia: Evaluating Airline Performance](https://youtu.be/XbTvNAiVCGc)
 
-## by Bogdan Bunea, Ian Milko, Collin Schwab, and Rayyan Hussien
-
----
-
-class: center, middle
-
-# [Paying for Prestige: Analysis of University Rankings](https://www.youtube.com/watch?v=cuBKu9A3n6k)
-
-## by Ayomide Ojo, Sahale Reese, Benyat Yimaj, and Youssouf Toure
+## by Sasha Green, Arman Naseh, Jake Anszelowicz, and Amine Louri
 
 ---
 
 class: center, middle
 
-# [Cuban’s Migration](https://gwu.app.box.com/s/1ed9m9vctz6w2jk3hyl7fammbjsadg7w)
+# Car Bloat in the United States:<br>Do Americans have an obsession with big vehicles?
 
-## by Sabina Pereira, Federica Negron, and Marena Marzari
-
----
-
-class: center, middle
-
-# [Characterizing Crimes in Los Angeles](https://vimeo.com/893969096?share=copy)
-
-## by Dilrose Karakattil and Harshita Bharadwaj
+## by Ifeoluwa Olaniyan and Emmanuel Agbeko
 
 ---
 
 class: center, middle
 
-# [Parking Violations in Washington DC](https://docs.google.com/presentation/d/1NU1kmM9aBsZDtdUJC6ft5RyqHZ2V4fJ_JYibmlUQkoU/edit?usp=sharing)
+# Evolving Trends in Cyber Events:<br>Insights from a Decade of Data
 
-## by Arsema Demeke, Kaitlyn Frost, Amna Maqsood, and Lola Nurullaeva
-
----
-
-class: center, middle
-
-# [From Past to Present: Analyzing Key Economic Metrics and the Shadows of Recessions](https://vimeo.com/893943196?share=copy)
-
-## by Nishanth Nandakumar and Sai Kiran Reddy Vellanki
+## by Annie Goodman and Etiene Effiong
 
 ---
 
 class: center, middle
 
-# Market Pricing Strategies for Different Brands of Mobile Phones
+# Changes in the European Energy Market due the Russia-Ukraine War
 
-## by Ji Qi (祁绩) and Zeyu Cheng (程泽宇)
-
----
-
-class: center, middle
-
-# Advancements in Solar and Wind Energy in the USA
-
-## by Pingfan Hu and Abbey Kollar
+## by Gavin Ulrich and Byeonghun Kwon
 
 ---
 
 class: center, middle
 
-# [WMATA Ridership](https://www.youtube.com/watch?v=GUMsZ3wQa3Q)
+# Assessing EV accessibility and affordability in the United States
 
-## by Abdullah Alghamdi, Ziqian Yang, and Arman Naseh
+## by Daniel Fisher and Zain Hoda
 
 ---
 
 class: center, middle
 
-# The Trends, Spatial Difference, and Associated Outcome of Smoking
+# Global Energy Analysis: How do countries achieve economic growth while maintaining low energy intensity?
 
-## by Kejia Hu and Jiaxin Wang
+## by Angel Ho and Easha Rajalaxmi Vivesh
+
+---
+
+class: center, middle
+
+# Understanding Movie Performance Through Data: Financial Trends, Ratings, and Profitability from TMDB and Rotten Tomatoes
+
+## by Ibrahim Ahmed and Paul Asamoah Boadu
+
+---
+
+class: center, middle
+
+# Cracking The NCAA Team Rankings Code: The Attributes of the Best NCAA Football Playoff Teams Over a Decade
+
+## by Kyla Rounsoville, Maddie Wilson, and Alana Lee
+
+---
+
+class: center, middle
+
+# Understanding Traffic Crashes in New York City
+
+## by Ali Irtaza and Tarun Kumanduri
+
+---
+
+class: center, middle
+
+# Analyzing Olympic Success: Analyzing the Correlation Between Medal Count and Socioeconomic Factors
+
+## by Hannah Hodge, Sandy Alksninis, Jedidiah Bechtel, and Aedan Bayhan
+
+---
+
+class: center, middle
+
+# [Shark Incidents in California](https://vimeo.com/1038058323?share=copy#t=0)
+
+## by Luis Bracho, Diego Farah, and Diego Paredes
 
 ---
 
@@ -111,64 +119,74 @@ class: center, middle, inverse
 
 ---
 
-class: center, middle 
+class: center, middle, inverse
 
-# ✨ The Nominees for the **Shiny** Award are:
-
---
-
-<br>
-
-.cols3[
-
-<center>
-<img src="images/ukraine.png" width=100%>
-</center>
-
-]
-
---
-
-.cols3[
-
-<center>
-<img src="images/renewables.png" width=100%>
-</center>
-
-]
-
---
-
-.cols3[
-
-<center>
-<img src="images/recession.png" width=100%>
-</center>
-
-]
+# ✨ The Nominees for the **Shiny** Award 
 
 ---
 
+class: center, middle 
+
+# **Shiny Nominee**: Global Energy Analysis
+
+<center>
+<img src="images/global-energy-analysis.png" width=900>
+</center>
+
+---
+
+class: center, middle 
+
+# **Shiny Nominee**: Cyber Events
+
+<center>
+<img src="images/cyber-events.png" width=700>
+</center>
+
+---
+
+class: center, middle 
+
+# **Shiny Nominee**: NYC Trafic Crashes
+
+<center>
+<img src="images/nyc-traffic-crashes.png" width=1100>
+</center>
+
+---
+
+class: center, middle 
+
+# **Shiny Nominee**: Shark Attacks
+
+<center>
+<img src="images/shark-attacks.png" width=1000>
+</center>
+
+---
+
+class: center, middle, inverse
+
 # ✨ The **Shiny** Award goes to...🥁
 
-<br>
+---
 
---
-
-.leftcol[
+class: center, middle, inverse
 
 # 🎉🎉🎉
 
-### [From Past to Present: Analyzing Key Economic Metrics and the Shadows of Recessions](https://eda.seas.gwu.edu/showcase/2023-Fall/recessions.html)
+.leftcol[
 
-### by Nishanth Nandakumar and Sai Kiran Reddy Vellanki
+## [Evolving Trends in Cyber Events: Insights from a Decade of Data](https://eda.seas.gwu.edu/showcase/2024-Fall/cyber-events.html)
+
+#### by Annie Goodman and Etiene Effiong
 
 ]
 
 .rightcol[
 
 <center>
-<img src="images/recession.png" width=100%>
+<img src="images/cyber-events.png" width=100%>
 </center>
 
 ]
@@ -179,37 +197,49 @@ class: center, middle
 
 --
 
-.leftcol[
+.cols3[
 
-## [Ukraine After 21 Months](https://eda.seas.gwu.edu/showcase/2023-Fall/ukraine-war.html)
+### Car Bloat in the United States: Do Americans have an obsession with big vehicles?
 
-### by Bogdan Bunea, Ian Milko, Collin Schwab, and Rayyan Hussien
+#### by Ifeoluwa Olaniyan and Emmanuel Agbeko
 
 ]
 
 --
 
-.rightcol[
+.cols3[
 
-## [From Past to Present: Analyzing Key Economic Metrics and the Shadows of Recessions](https://eda.seas.gwu.edu/showcase/2023-Fall/recessions.html)
+### Cracking The NCAA Team Rankings Code: The Attributes of the Best NCAA Football Playoff Teams Over a Decade
 
-### by Nishanth Nandakumar and Sai Kiran Reddy Vellanki
+#### by Kyla Rounsoville, Maddie Wilson, and Alana Lee
+
+]
+
+--
+
+.cols3[
+
+### Assessing EV accessibility and affordability in the United States
+
+#### by Daniel Fisher and Zain Hoda
 
 ]
 
 ---
 
+class: center, middle, inverse
+
 # 🗑️ The **Janitor** award goes to...🥁
 
-<br>
+---
 
---
+class: center, middle, inverse
 
 # 🎉🎉🎉
 
-# [Ukraine After 21 Months](https://eda.seas.gwu.edu/showcase/2023-Fall/ukraine-war.html)
+## Cracking The NCAA Team Rankings Code: The Attributes of the Best NCAA Football Playoff Teams Over a Decade
 
-## by Bogdan Bunea, Ian Milko, Collin Schwab, and Rayyan Hussien
+### by Kyla Rounsoville, Maddie Wilson, and Alana Lee
 
 ---
 
