@@ -91,7 +91,7 @@ class: center, middle
 
 class: center, middle
 
-# Analyzing Olympic Success: Analyzing the Correlation Between Medal Count and Socioeconomic Factors
+# [Analyzing Olympic Success: Analyzing the Correlation Between Medal Count and Socioeconomic Factors](https://docs.google.com/presentation/d/16FkGQOGbbsJWybBEhIBIxmaLkjNrXmvraF9JIaTTyXM/edit#slide=id.g2d6a80122c9_0_354)
 
 ## by Hannah Hodge, Sandy Alksninis, Jedidiah Bechtel, and Aedan Bayhan
 
