@@ -35,7 +35,7 @@ class: center, middle
 
 class: center, middle
 
-# Car Bloat in the United States:<br>Do Americans have an obsession with big vehicles?
+# [Car Bloat in the United States: Do Americans have an obsession with big vehicles?](https://vimeo.com/1038262009)
 
 ## by Ifeoluwa Olaniyan and Emmanuel Agbeko
 
