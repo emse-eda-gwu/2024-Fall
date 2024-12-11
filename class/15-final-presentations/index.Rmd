@@ -35,14 +35,6 @@ class: center, middle
 
 class: center, middle
 
-# [Car Bloat in the United States: Do Americans have an obsession with big vehicles?](https://vimeo.com/1038262009)
-
-## by Ifeoluwa Olaniyan and Emmanuel Agbeko
-
----
-
-class: center, middle
-
 # [Evolving Trends in Cyber Events:<br>Insights from a Decade of Data](https://www.canva.com/design/DAGYPOA5cNQ/5mCLl8Ph1XLqyW3ZObjqMw/view?utm_content=DAGYPOA5cNQ&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h553d00ae54)
 
 ## by Annie Goodman and Etiene Effiong
@@ -110,6 +102,14 @@ class: center, middle
 # [Shark Incidents in California](https://vimeo.com/1038058323?share=copy#t=0)
 
 ## by Luis Bracho, Diego Farah, and Diego Paredes
+
+---
+
+class: center, middle
+
+# [Car Bloat in the United States: Do Americans have an obsession with big vehicles?](https://vimeo.com/1038262009)
+
+## by Ifeoluwa Olaniyan and Emmanuel Agbeko
 
 ---
 
