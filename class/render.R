@@ -8,16 +8,16 @@ renderthis::to_pdf("index.html", paste0(lesson, ".pdf"))
 # Compress the PDF to reduce size
 tools::compactPDF(paste0(lesson, ".pdf"), gs_quality = 'ebook')
 
-files1 <- c( 
+files1 <- c(
   'data',
   'practice-solutions.qmd',
   'practice.qmd',
   'quarto_demo.qmd'
 )
 files2 <- c(
-    'data',
-    'practice-solutions.qmd',
-    'practice.qmd'
+  'data',
+  'practice-solutions.qmd',
+  'practice.qmd'
 )
 files3 <- files2
 files4 <- files2
@@ -29,20 +29,20 @@ files10 <- files2
 files11 <- files2
 
 files13 <- c(
-    'caseConverter_solution.R',
-    'caseConverter.R',
-    'data',
-    'internetUsers_solution.R',
-    'internetUsers.R',
-    'mpg.R',
-    'practice-solutions.qmd',
-    'practice.qmd',
-    'shinyWidgets.R',
-    'widgets.R'
+  'caseConverter_solution.R',
+  'caseConverter.R',
+  'data',
+  'internetUsers_solution.R',
+  'internetUsers.R',
+  'mpg.R',
+  'practice-solutions.qmd',
+  'practice.qmd',
+  'shinyWidgets.R',
+  'widgets.R'
 )
 
 # Create zip files of class notes
 zip::zip(
-    zipfile = paste0(lesson, ".zip"),
-    files = c(files13, paste0(lesson, ".Rproj"))
+  zipfile = paste0(lesson, ".zip"),
+  files = c(files2, paste0(lesson, ".Rproj"))
 )
