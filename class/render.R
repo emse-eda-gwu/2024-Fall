@@ -24,6 +24,7 @@ files4 <- files2
 files5 <- files2
 files6 <- files2
 files8 <- files2
+files7 <- files2
 files9 <- files2
 files10 <- files2
 files11 <- files2
@@ -44,5 +45,5 @@ files13 <- c(
 # Create zip files of class notes
 zip::zip(
   zipfile = paste0(lesson, ".zip"),
-  files = c(files5, paste0(lesson, ".Rproj"))
+  files = c(files7, paste0(lesson, ".Rproj"))
 )
